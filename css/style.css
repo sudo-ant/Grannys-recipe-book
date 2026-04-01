@@ -1,4 +1,3 @@
-
 :root {
   --navy-950: #0f1a2e;
   --navy-900: #14213d;
@@ -62,7 +61,7 @@ img {
 .topbar {
   background: linear-gradient(160deg, var(--navy-900) 0%, var(--navy-800) 100%);
   color: white;
-  padding: 28px 20px 72px;
+  padding: 24px 20px 64px;
   position: relative;
   overflow: hidden;
 }
@@ -80,7 +79,7 @@ img {
   height: 320px;
   right: -120px;
   top: -120px;
-  background: radial-gradient(circle, rgba(255,255,255,0.12), transparent 68%);
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.12), transparent 68%);
 }
 
 .topbar::after {
