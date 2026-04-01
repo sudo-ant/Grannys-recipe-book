@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#14213D">
+  <meta name="description" content="View a family recipe from Granny’s Recipe Book.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="icon" type="image/png" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Recipe · Granny’s Recipe Book</title>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar" style="padding-bottom: 44px;">
+      <div class="topbar-inner">
+        <div class="brand-mark">
+          <span class="dot" aria-hidden="true"></span>
+          <span>Granny’s Recipe Book</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-inner recipe-page">
+      <div class="breadcrumb-row" style="margin-bottom: 18px;">
+        <a class="back-link" href="./index.html">← Back to all recipes</a>
+        <button class="action-button" id="print-button" type="button">Print recipe</button>
+      </div>
+
+      <div id="recipe-root">
+        <div class="loading">Loading recipe…</div>
+      </div>
+    </main>
+
+    <footer class="footer-note">
+      Granny’s Recipe Book · <span id="year"></span>
+    </footer>
+  </div>
+
+  <script src="./js/recipe.js"></script>
+</body>
+</html>
