@@ -1,6 +1,6 @@
 {
-  "name": "Granny’s Recipe Book",
-  "short_name": "Recipes",
+  "name": "Granny’s recipe book",
+  "short_name": "Granny's recipes",
   "description": "A collection of treasured family recipes gathered by Granny and shared for the whole family.",
   "start_url": "./index.html",
   "scope": "./",
