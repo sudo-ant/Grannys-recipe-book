@@ -1,5 +1,6 @@
-
 const RECIPE_PATH = './data/recipes.json';
+const FAV_KEY = 'grannys_recipe_book_favourites';
+
 const params = new URLSearchParams(window.location.search);
 const recipeId = params.get('id');
 
@@ -18,6 +19,32 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
+function getFavourites() {
+  try {
+    const raw = localStorage.getItem(FAV_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveFavourites(favourites) {
+  localStorage.setItem(FAV_KEY, JSON.stringify(favourites));
+}
+
+function isFavourite(id) {
+  return getFavourites().includes(id);
+}
+
+function toggleFavourite(id) {
+  const favourites = getFavourites();
+  const updated = favourites.includes(id)
+    ? favourites.filter(item => item !== id)
+    : [...favourites, id];
+
+  saveFavourites(updated);
+}
+
 function metaMarkup(recipe) {
   const meta = [];
   if (recipe.category) meta.push(recipe.category);
@@ -34,23 +61,52 @@ function metaMarkup(recipe) {
 }
 
 function listMarkup(items, className) {
-  if (!items || !items.length) return '<p class="source-note">Not provided in the original recipe note.</p>';
+  if (!items || !items.length) {
+    return '<p class="source-note">Not provided in the original recipe note.</p>';
+  }
   return `<ol class="${className}">${items.map(item => `<li>${escapeHtml(item)}</li>`).join('')}</ol>`;
 }
 
 function unorderedMarkup(items, className) {
-  if (!items || !items.length) return '<p class="source-note">Not provided in the original recipe note.</p>';
+  if (!items || !items.length) {
+    return '<p class="source-note">Not provided in the original recipe note.</p>';
+  }
   return `<ul class="${className}">${items.map(item => `<li>${escapeHtml(item)}</li>`).join('')}</ul>`;
+}
+
+function bindRecipeButtons(recipe) {
+  const printButton = document.getElementById('inner-print-button');
+  printButton?.addEventListener('click', () => window.print());
+
+  const favouriteButton = document.getElementById('recipe-fav-button');
+  favouriteButton?.addEventListener('click', () => {
+    toggleFavourite(recipe.id);
+    const favourite = isFavourite(recipe.id);
+    favouriteButton.textContent = favourite ? '★ Favourite' : '☆ Favourite';
+    favouriteButton.classList.toggle('is-favourite', favourite);
+    favouriteButton.setAttribute('aria-pressed', String(favourite));
+    favouriteButton.setAttribute(
+      'aria-label',
+      favourite ? 'Remove from favourites' : 'Add to favourites'
+    );
+  });
 }
 
 function renderRecipe(recipe) {
   document.title = `${recipe.title} · Granny’s Recipe Book`;
 
+  const favourite = isFavourite(recipe.id);
+
   els.container.innerHTML = `
     <section class="recipe-card-shell">
       <div class="breadcrumb-row">
         <a class="back-link" href="./index.html">← Back to all recipes</a>
-        <button class="action-button" id="inner-print-button" type="button">Print recipe</button>
+        <div class="recipe-actions">
+          <button class="action-button fav-action ${favourite ? 'is-favourite' : ''}" id="recipe-fav-button" type="button" aria-pressed="${favourite}" aria-label="${favourite ? 'Remove from favourites' : 'Add to favourites'}">
+            ${favourite ? '★ Favourite' : '☆ Favourite'}
+          </button>
+          <button class="action-button" id="inner-print-button" type="button">Print recipe</button>
+        </div>
       </div>
 
       <header class="recipe-heading">
@@ -81,8 +137,7 @@ function renderRecipe(recipe) {
     </section>
   `;
 
-  const printButton = document.getElementById('inner-print-button');
-  printButton?.addEventListener('click', () => window.print());
+  bindRecipeButtons(recipe);
 }
 
 function renderError(message) {
@@ -128,7 +183,7 @@ if (els.printButton) {
 els.year.textContent = new Date().getFullYear();
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js').catch(() => {});
+  navigator.serviceWorker.register('./sw.js').catch(() => { });
 }
 
 loadRecipe();

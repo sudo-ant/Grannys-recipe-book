@@ -12,9 +12,8 @@
   <link rel="manifest" href="./manifest.json">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
   <link rel="icon" type="image/png" href="./icons/icon-192.png">
-  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="./css/style.css">
-  <title>Granny’s recipe book</title>
+  <title>Granny’s Recipe Book</title>
 </head>
 
 <body>
@@ -36,20 +35,27 @@
       <section class="controls-card" aria-label="Recipe search and filters">
         <div class="search-row">
           <div>
-            <label for="search" class="source-note" style="display:block; margin-bottom:8px;">Search recipes</label>
+            <label for="search" class="control-label">Search recipes</label>
             <input id="search" class="search-input" type="search"
               placeholder="Search by recipe name, ingredient, or section" autocomplete="off">
           </div>
 
           <div>
-            <div class="source-note" style="display:block; margin-bottom:8px;">Browse by section</div>
+            <div class="control-label">Browse by section</div>
             <div class="filter-wrap" id="filters"></div>
           </div>
         </div>
 
         <div class="results-bar">
-          <div id="results-count">Loading recipes…</div>
-          <button class="clear-link" id="clear-filters" type="button" hidden>Clear filters</button>
+          <div class="results-left">
+            <div id="results-count">Loading recipes…</div>
+          </div>
+          <div class="results-actions">
+            <button class="filter-chip favourites-toggle" id="favourites-filter" type="button" aria-pressed="false">
+              Favourites
+            </button>
+            <button class="clear-link" id="clear-filters" type="button" hidden>Clear filters</button>
+          </div>
         </div>
       </section>
 
