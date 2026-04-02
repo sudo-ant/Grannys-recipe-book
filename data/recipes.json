@@ -1070,5 +1070,264 @@
       "Pickled cucumbers or other additions can be included."
     ],
     "source": null
+  },
+  {
+    "id": "cold-salmon-mousse",
+    "title": "Cold Salmon Mousse",
+    "category": "Fish",
+    "description": "A smooth salmon mousse made with béchamel, cream and a little sherry.",
+    "serves": "6",
+    "prepTime": null,
+    "cookTime": "About 15 minutes plus chilling",
+    "ingredients": [
+      "3/4 lb salmon steak",
+      "3/4 pint water",
+      "Juice of 1/4 lemon",
+      "1/2 tsp salt",
+      "3 peppercorns",
+      "Sliced cucumber",
+      "For the béchamel: 3/4 cup milk",
+      "For the béchamel: 1/2 bay leaf",
+      "For the béchamel: blade mace",
+      "For the béchamel: 6 peppercorns",
+      "For the béchamel: 1 sliced onion",
+      "For the béchamel: 3 oz butter or margarine",
+      "For the béchamel: 1 oz flour",
+      "For the béchamel: salt",
+      "For finishing: 2 tbsp lightly whipped double cream",
+      "For finishing: 1 tbsp medium sherry"
+    ],
+    "method": [
+      "Boil the water with lemon juice, salt and peppercorns.",
+      "Place the salmon in the pan, cover and cook very gently for about 15 minutes.",
+      "Allow to cool, then drain and remove all skin and bones.",
+      "Heat the milk with the bay leaf, mace, peppercorns and onion, then strain and cool.",
+      "Melt 1 oz butter, blend in the flour and then the flavoured milk.",
+      "Add salt, stir over gentle heat until boiling, and cook for 2-3 minutes.",
+      "Turn the sauce into a dish and allow it to cool.",
+      "Cream the remaining butter and mash the salmon.",
+      "Add the cold béchamel sauce and butter mixture to the salmon and taste for seasoning.",
+      "Fold in the cream and sherry.",
+      "Turn into a serving dish, smooth the top and chill until set.",
+      "Decorate with sliced cucumber."
+    ],
+    "notes": [
+      "Do not boil the salmon hard."
+    ],
+    "source": null
+  },
+  {
+    "id": "salmon-in-watercress-sauce",
+    "title": "Salmon in Watercress Sauce",
+    "category": "Fish",
+    "description": "Salmon served with a quick cream sauce made from cooking juices and watercress.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Salmon steaks",
+      "Butter or oil for cooking",
+      "1 packet watercress",
+      "Lemon juice",
+      "Double cream",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Cook the salmon steaks either in the microwave or by pan-frying in butter or oil, finishing in the microwave if needed.",
+      "Using the cooking juices, add chopped watercress, salt, pepper, lemon juice and cream.",
+      "Boil until the sauce thickens.",
+      "Pour over the salmon and serve."
+    ],
+    "notes": [],
+    "source": "Dawn"
+  },
+  {
+    "id": "white-fish-in-coconut-cream-sauce",
+    "title": "White Fish in Coconut Cream Sauce",
+    "category": "Fish",
+    "description": "White fish cooked gently with onion, garlic, coconut milk and aromatic spices.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1-2 lb white fish",
+      "3 tbsp powdered coconut milk",
+      "1 cup water",
+      "1 onion",
+      "1 garlic clove",
+      "A few curry leaves",
+      "A few cardamom pods",
+      "A few slices dried lime",
+      "Oil or margarine"
+    ],
+    "method": [
+      "Fry the chopped onion and garlic.",
+      "Add the coconut milk mixture, curry leaves, cardamom pods and dried lime.",
+      "Cook gently for a while to develop the flavour.",
+      "Add the diced fish and cook until done.",
+      "Serve on rice."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "fish-balls",
+    "title": "Fish Balls",
+    "category": "Fish",
+    "description": "Minced fish balls that can be fried or cooked in fish stock.",
+    "serves": "Makes 9-10 balls",
+    "prepTime": null,
+    "cookTime": "About 6 minutes if fried",
+    "ingredients": [
+      "1 lb / 480g minced fish",
+      "1/2 large onion, minced or finely chopped",
+      "6 tsp oil",
+      "1 1/2 level tsp sugar",
+      "1 1/2 level tsp salt",
+      "A pinch of white pepper",
+      "1 large egg",
+      "1/2 egg shell water if necessary",
+      "3 tbsp medium matzo meal",
+      "1 level tbsp ground almonds (optional)"
+    ],
+    "method": [
+      "Place the minced fish in a bowl.",
+      "Add the egg, salt, pepper, sugar and ground almonds if using.",
+      "Mix everything together.",
+      "Add enough matzo meal to make a mixture that can just be formed into balls.",
+      "If it is too stiff, add a little water. If too wet, add more matzo meal.",
+      "Leave for about half an hour before shaping.",
+      "Fry in deep fat for about 6 minutes until richly browned."
+    ],
+    "notes": [
+      "The balls can also be cooked in fish stock instead of frying."
+    ],
+    "source": null
+  },
+  {
+    "id": "dawns-phyllo-topped-salmon-pie",
+    "title": "Dawn’s Phyllo Topped Salmon Pie",
+    "category": "Fish",
+    "description": "A salmon pie with peas, optional leeks, a creamy sauce and a crisp phyllo topping.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "20-30 minutes",
+    "ingredients": [
+      "Salmon, cut into cubes",
+      "Hollandaise sauce, ready-made if preferred",
+      "Frozen petit pois, cooked",
+      "Leeks, finely chopped and sautéed (optional)",
+      "Low-fat crème fraîche",
+      "Cheddar cheese, grated",
+      "Phyllo pastry, sheets cut in half",
+      "Butter"
+    ],
+    "method": [
+      "Heat the oven to 350-375°F / Gas 6 / 160°C fan oven.",
+      "Place the salmon in the base of a shallow dish.",
+      "Add the peas and leeks if using, and mix lightly.",
+      "Mix the Hollandaise sauce with some crème fraîche if using.",
+      "Pour the sauce over the salmon mixture.",
+      "Sprinkle with grated cheese.",
+      "Take the half sheets of phyllo pastry, scrunch each one loosely in the middle, and place them over the top.",
+      "Continue until the dish is covered.",
+      "Dot with butter or brush with melted butter.",
+      "Bake for 20-30 minutes until golden brown."
+    ],
+    "notes": [
+      "Using crème fraîche makes the sauce lighter than using only Hollandaise."
+    ],
+    "source": "Dawn"
+  },
+  {
+    "id": "fillets-of-trout-with-sour-cream-sauce-and-dill-cucumber",
+    "title": "Fillets of Trout with Sour-Cream Sauce and Dill Cucumber",
+    "category": "Fish",
+    "description": "Trout fillets served with a warm sour-cream sauce and cucumber.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 trout fillets",
+      "Seasoned flour",
+      "30g / 1oz unsalted butter or margarine",
+      "180g / 6oz sour cream",
+      "A good squeeze of lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Dip the trout fillets in seasoned flour to coat lightly on both sides.",
+      "Shake off the excess flour.",
+      "Melt the butter or margarine in a frying pan until foaming.",
+      "Cook the trout gently on both sides, turning once the first side is firm and lightly golden.",
+      "Remove the fish and keep warm.",
+      "Add the sour cream to the pan and turn the heat down.",
+      "Heat the cream through gently without boiling.",
+      "Add lemon juice, salt and pepper to taste.",
+      "Serve the trout with the sour-cream sauce spooned over."
+    ],
+    "notes": [
+      "The source suggests serving with boiled waxy potatoes and Cucumber Salad II."
+    ],
+    "source": null
+  },
+  {
+    "id": "pickled-herrings",
+    "title": "Pickled Herrings",
+    "category": "Fish",
+    "description": "Herrings layered with a tangy cream, mustard and cucumber mixture and left to mature.",
+    "serves": "For 10 herrings",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "10 whole herrings",
+      "1 tbsp sugar",
+      "2 tsp dried or prepared mustard",
+      "8 tbsp vinegar",
+      "3 tbsp soured cream",
+      "2 dill or salt cucumbers, sliced",
+      "1 medium onion, chopped",
+      "1/2 tsp salt",
+      "Fresh dill (optional)"
+    ],
+    "method": [
+      "Prepare the herrings by removing the heads and tails, splitting, cleaning, boning and skinning them.",
+      "Alternatively, use herrings prepared by the fishmonger and just remove any remaining bones.",
+      "Mix all the other ingredients together.",
+      "Layer the mixture with the herrings in a dish.",
+      "Seal and keep in a cool place for at least 6 days, turning daily."
+    ],
+    "notes": [
+      "They will keep for at least another week in the refrigerator."
+    ],
+    "source": null
+  },
+  {
+    "id": "roast-white-fish-with-salsa-verde",
+    "title": "Roast White Fish with Salsa Verde",
+    "category": "Fish",
+    "description": "Simple roast fish served with salsa verde and lemon.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "6-10 minutes",
+    "ingredients": [
+      "4 fish fillets",
+      "1/2 lemon",
+      "Lemon wedges to serve",
+      "Salsa verde"
+    ],
+    "method": [
+      "Begin by making the salsa verde.",
+      "Heat the oven to 200°C / Gas 6.",
+      "Line a small baking dish with foil and add a splash of olive oil.",
+      "Arrange the fish fillets in the dish and splash with a little more oil.",
+      "Squeeze over the lemon juice and season with salt and pepper.",
+      "Roast for 6-10 minutes depending on thickness, until just cooked through.",
+      "Serve with the juices, a generous spoonful of salsa verde and lemon wedges."
+    ],
+    "notes": [],
+    "source": null
   }
 ]
