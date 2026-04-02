@@ -278,7 +278,7 @@
   },
   {
     "id": "roasted-garlic-potato-mash",
-    "title": "Roasted garlic potato mash",
+    "title": "Roasted Garlic Potato Mash",
     "category": "Sides and Salads",
     "description": "Creamy mashed potatoes with roasted garlic and crème fraîche.",
     "serves": "4–6",
@@ -391,7 +391,7 @@
   },
   {
     "id": "chicken-soup",
-    "title": "Chicken soup",
+    "title": "Chicken Soup",
     "category": "Soups",
     "description": "A simple traditional chicken soup with leeks, carrots, celery and parsley.",
     "serves": null,
@@ -2491,27 +2491,6 @@
     "source": null
   },
   {
-    "id": "cucumber-salad-iii",
-    "title": "Cucumber Salad III",
-    "category": "Sides and Salads",
-    "description": "Another simple cucumber salad with relish and vinaigrette.",
-    "serves": null,
-    "prepTime": null,
-    "cookTime": null,
-    "ingredients": [
-      "1 cucumber, finely sliced",
-      "A few tbsp cucumber relish",
-      "A few tbsp vinaigrette dressing"
-    ],
-    "method": [
-      "Mix the cucumber relish and vinaigrette dressing together.",
-      "Mix with the sliced cucumber.",
-      "Refrigerate before serving."
-    ],
-    "notes": [],
-    "source": null
-  },
-  {
     "id": "chinese-style-cold-slaw",
     "title": "Chinese Style Cold Slaw",
     "category": "Sides and Salads",
@@ -2917,7 +2896,7 @@
   },
   {
     "id": "frozen-meringue-dessert",
-    "title": "Frozen meringue Dessert",
+    "title": "Frozen Meringue Dessert",
     "category": "Desserts and Baking",
     "description": "Whipped cream folded with broken meringue and frozen.",
     "serves": null,
@@ -3437,7 +3416,7 @@
   },
   {
     "id": "apple-cake-ii",
-    "title": "Apple cake II",
+    "title": "Apple Cake II",
     "category": "Desserts and Baking",
     "description": "A second apple cake version with lemon rind and raisins.",
     "serves": null,
@@ -3467,7 +3446,7 @@
   },
   {
     "id": "apple-cake-iii",
-    "title": "Apple cake III",
+    "title": "Apple Cake III",
     "category": "Desserts and Baking",
     "description": "An apple tart-style cake with pastry base and almond topping.",
     "serves": null,
@@ -3751,7 +3730,7 @@
   },
   {
     "id": "microwave-chocolate-cake",
-    "title": "Microwave chocolate cake",
+    "title": "Microwave Chocolate cake",
     "category": "Desserts and Baking",
     "description": "A very quick chocolate cake made in the microwave.",
     "serves": "4",
@@ -4014,7 +3993,7 @@
   },
   {
     "id": "doris-reeses-fruit-cake",
-    "title": "Doris Reese’s Fruit cake",
+    "title": "Doris Reese’s Fruit Cake",
     "category": "Desserts and Baking",
     "description": "A straightforward fruit cake with mixed fruit.",
     "serves": null,
@@ -4038,7 +4017,7 @@
   },
   {
     "id": "dundee-cake",
-    "title": "Dundee cake",
+    "title": "Dundee Cake",
     "category": "Desserts and Baking",
     "description": "A rich fruit cake with currants, sultanas, peel and almonds.",
     "serves": null,
@@ -4301,7 +4280,7 @@
   },
   {
     "id": "luscious-lemony-roulade",
-    "title": "Luscious lemony roulade",
+    "title": "Luscious Lemony Roulade",
     "category": "Desserts and Baking",
     "description": "A soft lemon roulade filled with whipped cream and lemon curd.",
     "serves": "6-8",
