@@ -1539,7 +1539,7 @@
     "id": "whole-curried-chicken-with-saffron-rice",
     "title": "Whole Curried Chicken with Saffron Rice",
     "category": "Main Dishes",
-    "description": "A whole chicken stuffed with curried rice, baked in curry sauce and served with saffron rice.",
+    "description": "A whole chicken stuffed with curried rice, baked in curry sauce and served with saffron rice and chappati.",
     "serves": null,
     "prepTime": null,
     "cookTime": "3-4 hours",
@@ -1562,52 +1562,40 @@
       "For the saffron rice: 8oz long grain rice",
       "For the saffron rice: a pinch of saffron",
       "For the saffron rice: a pinch of granulated sugar",
-      "For the saffron rice: 2 tbsp hot water"
+      "For the saffron rice: 2 tbsp hot water",
+      "For the chappati: 12oz whole-wheat flour",
+      "For the chappati: 1 level tsp salt",
+      "For the chappati: water to mix"
     ],
     "method": [
-      "Prepare the stuffing by boiling the rice briefly, then frying the onion in butter until soft.",
-      "Stir in the curry powder, rice and salt.",
-      "Stuff the chicken and close the cavity.",
-      "For the sauce, melt the butter, cook the onion gently until soft, then stir in the curry powder and cook for 5 minutes.",
-      "Stir in the flour, then gradually add the stock.",
-      "Bring to the boil and add the chutney, sugar, lemon juice and salt.",
+      "Wipe the chicken and remove any giblets.",
+      "Prepare the stuffing by boiling the rice briefly in salted water, then draining it.",
+      "Melt the butter or margarine in a small pan, add the onion and fry gently until soft.",
+      "Stir in the curry powder, then the cooked rice and salt.",
+      "Spoon the stuffing into the chicken cavity, close it and place the chicken in a large casserole dish.",
+      "For the curry sauce, melt the butter or margarine in a saucepan, add the onion and cook gently until soft.",
+      "Stir in the curry powder and cook for about 5 minutes.",
+      "Stir in the flour, then gradually add the chicken stock.",
+      "Bring to the boil and add the mango chutney, sugar, lemon juice and salt.",
       "Cover and simmer gently for about 30 minutes.",
-      "Strain the sauce over the chicken in a casserole.",
-      "Cover and cook in a slow oven for 3-4 hours, basting occasionally.",
-      "To make the saffron rice, cook the rice separately and colour it with saffron infused with sugar and hot water.",
-      "Serve the chicken with the sauce and saffron rice."
+      "Strain the sauce over the chicken.",
+      "Cover the casserole and cook in a slow oven for 3-4 hours, basting occasionally.",
+      "About 15 minutes before serving, prepare the saffron rice by cooking the rice in boiling salted water until tender, then draining it.",
+      "Grind the saffron with the sugar, mix with the hot water and leave to infuse for 10 minutes.",
+      "Strain the saffron infusion into the cooked rice and mix until the grains are coloured yellow.",
+      "For the chappati, place the flour and salt in a mixing bowl.",
+      "Gradually add enough water to make a stiff dough.",
+      "Knead until smooth and elastic, then leave to rest for about 1 hour if possible.",
+      "Divide the dough into pieces and roll each one thinly into a circle.",
+      "Cook on an ungreased hot heavy frying pan until lightly browned on both sides.",
+      "Then place briefly under a hot grill so the chappati puffs up.",
+      "Serve the chicken with the curry sauce, saffron rice and chappati."
     ],
     "notes": [
-      "The source notes that the longer the chicken cooks, the better the flavour."
+      "The source notes that the longer the chicken cooks, the better the flavour.",
+      "Chappati is included here as part of the full dish."
     ],
     "source": "Avril Fox"
-  },
-  {
-    "id": "chappati",
-    "title": "Chappati",
-    "category": "Main Dishes",
-    "description": "Simple wholemeal flatbreads to serve with curried dishes.",
-    "serves": "Makes 6",
-    "prepTime": null,
-    "cookTime": null,
-    "ingredients": [
-      "12oz whole-wheat flour",
-      "1 level tsp salt",
-      "Water to mix"
-    ],
-    "method": [
-      "Place the flour and salt in a bowl.",
-      "Gradually add enough water to make a stiff dough.",
-      "Knead until smooth and elastic.",
-      "Leave to rest for about 1 hour if possible.",
-      "Divide into pieces and roll each into a thin circle.",
-      "Cook on an ungreased hot heavy frying pan until lightly browned on both sides.",
-      "Place briefly under a hot grill so the chappati puffs up."
-    ],
-    "notes": [
-      "Serve immediately."
-    ],
-    "source": null
   },
   {
     "id": "chicken-bearnaise",
