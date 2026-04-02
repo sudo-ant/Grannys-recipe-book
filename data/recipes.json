@@ -2694,5 +2694,1641 @@
       "This is the vegetable-dishes version and kept separate from the Starters version."
     ],
     "source": null
+  },
+  {
+    "id": "chocolate-mousse-ii",
+    "title": "Chocolate Mousse II",
+    "category": "Desserts and Baking",
+    "description": "A second chocolate mousse version with coffee, butter and brandy.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "6 standard eggs",
+      "1-2 tsp butter or margarine",
+      "1-2 tsp castor sugar",
+      "1 dessertspoon or tbsp strong coffee",
+      "1 tbsp brandy",
+      "7 oz plain chocolate"
+    ],
+    "method": [
+      "Melt the chocolate over hot water or in the microwave.",
+      "Separate the eggs and beat the egg whites until stiff.",
+      "Add the butter or margarine, sugar, coffee, brandy and egg yolks to the melted chocolate.",
+      "Mix well.",
+      "Fold in the egg whites gently.",
+      "Refrigerate until needed."
+    ],
+    "notes": [],
+    "source": "Ray's Zenious"
+  },
+  {
+    "id": "chocolate-cups",
+    "title": "Chocolate Cups",
+    "category": "Desserts and Baking",
+    "description": "Chocolate cream dessert served in small glasses or cups.",
+    "serves": "8",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1/2 pint single cream",
+      "8 oz plain chocolate, chopped",
+      "4 egg yolks",
+      "3 tbsp brandy",
+      "Chocolate curls to decorate"
+    ],
+    "method": [
+      "Heat the cream in a pan until just reaching boiling point.",
+      "Pour it into a blender or food processor and add the chocolate.",
+      "Blend on high speed for about 30 seconds.",
+      "Add the egg yolks and brandy and blend again briefly.",
+      "Pour into glasses or small cups.",
+      "Chill until required.",
+      "Sprinkle with chocolate curls before serving."
+    ],
+    "notes": [
+      "Chocolate curls can be made by shaving a block of chocolate with a potato peeler."
+    ],
+    "source": "Sainsbury's Ices and Cold Desserts"
+  },
+  {
+    "id": "apple-compot-with-fresh-fruits",
+    "title": "Apple Compôt with Fresh Fruits",
+    "category": "Desserts and Baking",
+    "description": "Cooked apples in a citrus syrup finished with fresh fruit.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "At least 2 hours",
+    "ingredients": [
+      "6 large Cox or other eating apples",
+      "1 lime, zest and juice",
+      "1 glass orange juice",
+      "3 oz brown sugar",
+      "Fresh ginger, thinly sliced",
+      "Mango or other fresh fruit"
+    ],
+    "method": [
+      "Make a syrup with the sugar, orange juice, lime juice, lime zest and some ginger.",
+      "Peel, core and slice the apples.",
+      "Place them in a casserole or shallow dish and pour over the syrup.",
+      "Seal tightly with double foil.",
+      "Cook in a low oven for at least 2 hours.",
+      "When cold, add sliced mango or other fresh fruit."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "cinnamon-ice-cream",
+    "title": "Cinnamon Ice Cream",
+    "category": "Desserts and Baking",
+    "description": "A delicately flavoured cinnamon ice cream made with eggs, milk and cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 whole eggs",
+      "4 oz castor sugar",
+      "1/2 pint milk",
+      "1/2 pint single cream",
+      "1 long cinnamon stick or 2 small ones",
+      "2 tsp cinnamon powder"
+    ],
+    "method": [
+      "Heat the milk with the cinnamon stick and cinnamon powder until just below boiling point.",
+      "Allow the cinnamon to infuse, then strain.",
+      "Reheat the milk gently.",
+      "Beat the eggs and sugar together.",
+      "Pour the hot milk over the egg mixture while whisking continuously.",
+      "Return to the pan and heat gently until the mixture thickens enough to coat the back of a spoon.",
+      "Leave to cool.",
+      "Add the cream.",
+      "Pour into an ice-cream maker and churn until frozen."
+    ],
+    "notes": [
+      "For a stronger cinnamon flavour, use more cinnamon and infuse for longer."
+    ],
+    "source": null
+  },
+  {
+    "id": "peaches-in-marsala",
+    "title": "Peaches in Marsala",
+    "category": "Desserts and Baking",
+    "description": "Poached peaches in orange juice, sugar and Marsala, served with cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 peaches",
+      "3 tbsp sugar",
+      "1 orange",
+      "1 tbsp Marsala",
+      "Lemon juice, if desired"
+    ],
+    "method": [
+      "Place the peaches briefly in boiling water and remove the skins.",
+      "Squeeze the orange and put the juice in a shallow pan with the sugar and some orange peel.",
+      "Add lemon juice if using.",
+      "Cook the peaches gently in the liquid until done.",
+      "Add the Marsala just before serving.",
+      "Serve with cream."
+    ],
+    "notes": [],
+    "source": "Esther Levi"
+  },
+  {
+    "id": "peaches-in-raspberry-sauce",
+    "title": "Peaches in Raspberry Sauce",
+    "category": "Desserts and Baking",
+    "description": "Cooked peaches served chilled with a raspberry sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "7-10 minutes",
+    "ingredients": [
+      "4 peaches",
+      "2 drops vanilla essence",
+      "A little sugar",
+      "Tinned or fresh raspberries",
+      "Brandy, if desired"
+    ],
+    "method": [
+      "Boil the peaches in water to cover with the vanilla essence and sugar for 7-10 minutes.",
+      "Peel the peaches and place them in a serving dish.",
+      "Liquidise and sieve the raspberries.",
+      "Add brandy if using.",
+      "Pour the sauce over the cooled peaches and chill."
+    ],
+    "notes": [],
+    "source": "Cardinal-Peaches"
+  },
+  {
+    "id": "baked-peaches-in-marsala",
+    "title": "Baked Peaches in Marsala",
+    "category": "Desserts and Baking",
+    "description": "Baked peaches or nectarines with Marsala and sugar.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "20-30 minutes",
+    "ingredients": [
+      "Peaches or nectarines",
+      "Sugar",
+      "Marsala or a mixture of Marsala and sherry"
+    ],
+    "method": [
+      "Heat the oven to 350°F / 160°C / Gas 4.",
+      "Skin the fruit first if desired.",
+      "Halve the fruit and remove the stones.",
+      "Place in an ovenproof dish, cut side up.",
+      "Pour over the Marsala and sprinkle with sugar.",
+      "Bake for 20-30 minutes until tender.",
+      "Serve warm or chilled."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "clementines-in-cointreau",
+    "title": "Clementines in Cointreau",
+    "category": "Desserts and Baking",
+    "description": "Whole clementines simmered in a spiced sugar syrup with Cointreau.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "10 minutes plus 30 minutes simmering",
+    "ingredients": [
+      "6 clementines",
+      "1/2 pint water plus extra to cover",
+      "1/2 lb sugar",
+      "1 small cinnamon stick",
+      "2 tbsp Cointreau or other liqueur"
+    ],
+    "method": [
+      "Cover the clementines with water in a saucepan and boil for 10 minutes.",
+      "Drain and leave to cool.",
+      "Prick the clementines all over.",
+      "Heat the measured water with the sugar and cinnamon stick until the sugar dissolves.",
+      "Add the clementines, bring to the boil, then cover and simmer for 30 minutes.",
+      "Leave to cool and stir in the Cointreau.",
+      "Serve with cream."
+    ],
+    "notes": [],
+    "source": "Helen Paiba"
+  },
+  {
+    "id": "frozen-meringue-dessert",
+    "title": "Frozen meringue Dessert",
+    "category": "Desserts and Baking",
+    "description": "Whipped cream folded with broken meringue and frozen.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Double cream",
+      "Meringues"
+    ],
+    "method": [
+      "Whip the cream.",
+      "Break the meringues into pieces and fold them into the cream.",
+      "Freeze and serve frozen."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "polish-fruit-compote",
+    "title": "Polish Fruit Compote",
+    "category": "Desserts and Baking",
+    "description": "A compote of dried and fresh fruits with spices and optional brandy.",
+    "serves": "10-12",
+    "prepTime": null,
+    "cookTime": "20-30 minutes plus finishing",
+    "ingredients": [
+      "1 lb mixed dried fruits such as pears, figs, apricots and peaches",
+      "1 teacup dried prunes, pitted",
+      "1/2 cup seedless raisins",
+      "1 teacup cherries",
+      "2 ripe eating apples, peeled and sliced",
+      "1/2 teacup cranberries",
+      "1 lemon, sliced",
+      "6 cloves",
+      "2 small cinnamon sticks",
+      "4-6 oz sugar (optional)",
+      "3 oz fruit-flavoured brandy or fruit juice",
+      "1 pint water"
+    ],
+    "method": [
+      "Add the dried fruit to the water and bring to the boil.",
+      "Lower the heat, cover and simmer gently for 20-30 minutes until plump and tender.",
+      "Add the cherries, apples, cranberries, lemon, spices and sugar if using.",
+      "Cover and simmer for 5 minutes.",
+      "Remove from the heat and add the brandy or fruit juice.",
+      "Spoon into a serving dish and remove the cinnamon sticks.",
+      "Serve warm or cold with pouring cream."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "plum-tatin",
+    "title": "Plum Tatin",
+    "category": "Desserts and Baking",
+    "description": "An upside-down plum tart with caramel and puff pastry.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "15-20 minutes baking plus caramelising",
+    "ingredients": [
+      "125g butter",
+      "125g sugar",
+      "1 cinnamon stick or 1/2-1 tsp ground cinnamon",
+      "500g plums",
+      "150-250g puff pastry"
+    ],
+    "method": [
+      "Heat the oven to 220°C / 425°F / Gas 7.",
+      "Spread the butter over the base of an ovenproof frying pan and sprinkle over the sugar.",
+      "Halve and stone the plums and arrange them cut side down in concentric circles.",
+      "Place over a fairly fierce heat until the butter and sugar form a rich caramel.",
+      "Allow to cool slightly.",
+      "Roll out the puff pastry to a circle slightly larger than the pan.",
+      "Lay it over the fruit.",
+      "Bake for about 15-20 minutes until the pastry is puffed and cooked.",
+      "Invert carefully onto a plate and serve."
+    ],
+    "notes": [
+      "Serve hot or at room temperature with cream or ice cream."
+    ],
+    "source": null
+  },
+  {
+    "id": "fresh-strawberry-ice-cream",
+    "title": "Fresh Strawberry Ice Cream",
+    "category": "Desserts and Baking",
+    "description": "A fresh strawberry ice cream made with cream and icing sugar.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1/2 lb fresh strawberries",
+      "3 oz icing sugar",
+      "1/4 pint double cream",
+      "A squeeze of lemon juice"
+    ],
+    "method": [
+      "Purée the strawberries in a blender or processor.",
+      "Mix with the icing sugar, cream and lemon juice.",
+      "Pour into an ice-cream maker and churn until frozen."
+    ],
+    "notes": [
+      "Natural yoghurt can be used instead of cream if preferred."
+    ],
+    "source": null
+  },
+  {
+    "id": "pavlovas",
+    "title": "Pavlovas",
+    "category": "Desserts and Baking",
+    "description": "A meringue base recipe for pavlova layers or a pavlova case.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "4 egg whites",
+      "8 oz castor sugar",
+      "2 level tsp cornflour",
+      "1 tsp vinegar",
+      "1 tsp vanilla essence",
+      "A pinch of salt"
+    ],
+    "method": [
+      "Beat the egg whites with a pinch of salt until stiff and glossy.",
+      "Mix the sugar and cornflour together.",
+      "Add to the egg whites a tablespoon at a time, beating well between additions until the mixture is stiff.",
+      "Beat in the vinegar and vanilla essence.",
+      "Either spread into two tins for layers or shape into a case on a lined tray.",
+      "Bake in a moderate then low oven for about 45 minutes until crisp to the touch.",
+      "Leave to cool before filling."
+    ],
+    "notes": [
+      "Can be made as layers or as a pavlova case."
+    ],
+    "source": "Evelyn Rose, Complete International Jewish Cooking"
+  },
+  {
+    "id": "lemon-pavlova",
+    "title": "Lemon Pavlova",
+    "category": "Desserts and Baking",
+    "description": "Pavlova layers filled with a lemon and soured cream mixture.",
+    "serves": "8-10",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 pavlova layers",
+      "4 egg yolks",
+      "4 oz castor sugar",
+      "3 tbsp lemon juice",
+      "1 tsp grated lemon rind",
+      "5 fl oz soured cream"
+    ],
+    "method": [
+      "Beat the yolks and sugar in a thick-bottomed pan until creamy.",
+      "Beat in the lemon juice and rind.",
+      "Heat gently, stirring constantly, until the mixture thickens to about mayonnaise consistency.",
+      "Allow to cool.",
+      "Fold in the soured cream.",
+      "Spread the filling over one pavlova layer and place the second layer on top.",
+      "Cut into slices to serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "raspberry-strawberry-pavlova",
+    "title": "Raspberry/Strawberry Pavlova",
+    "category": "Desserts and Baking",
+    "description": "Pavlova layers filled with whipped cream and strawberries or raspberries.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "10 fl oz double cream, whipped",
+      "1 lb strawberries or raspberries",
+      "2 pavlova layers"
+    ],
+    "method": [
+      "Whip the cream.",
+      "Slice the fruit if needed.",
+      "Place cream and fruit on one pavlova layer.",
+      "Cover with the second layer and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "tarte-tatin",
+    "title": "Tarte Tatin",
+    "category": "Desserts and Baking",
+    "description": "A classic upside-down apple tart with caramel and puff pastry.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "12-15 minutes baking plus caramelising",
+    "ingredients": [
+      "9 oz puff pastry",
+      "6-8 eating apples",
+      "Juice of 2 lemons",
+      "5½ oz unsalted butter",
+      "6-7½ oz castor sugar"
+    ],
+    "method": [
+      "Heat the oven to 200°C / 400°F / Gas 6.",
+      "Roll out the pastry to a circle and chill.",
+      "Peel, core and halve the apples and toss with lemon juice.",
+      "Spread the butter over the base of an ovenproof frying pan and sprinkle with sugar.",
+      "Arrange the apples closely in the pan.",
+      "Cook over medium to high heat until the butter and sugar turn golden and caramelised.",
+      "Lay the chilled pastry over the apples and tuck the edges down the sides.",
+      "Bake for about 12-15 minutes until the pastry is cooked.",
+      "Invert carefully onto a plate and leave to cool slightly before serving."
+    ],
+    "notes": [
+      "Serve with cream or ice cream."
+    ],
+    "source": "Jeanne Rankin"
+  },
+  {
+    "id": "tiramisu",
+    "title": "Tiramisu",
+    "category": "Desserts and Baking",
+    "description": "A mascarpone dessert layered with coffee-soaked sponge fingers and chocolate.",
+    "serves": "8",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 tbsp rum",
+      "100ml strong black coffee",
+      "2 tbsp brandy",
+      "16-20 sponge fingers",
+      "400g mascarpone cheese",
+      "2 medium eggs, separated",
+      "4 tbsp icing sugar",
+      "75-100g bitter chocolate, finely ground"
+    ],
+    "method": [
+      "Mix 2 tbsp rum with the coffee and brandy.",
+      "Dip the sponge fingers in the mixture and lay them in a shallow dish.",
+      "Pour over any remaining coffee mixture, but do not soak them too heavily.",
+      "Beat together the mascarpone, egg yolks and icing sugar.",
+      "Add the remaining rum.",
+      "Whisk the egg whites until stiff but not dry and fold into the mascarpone mixture.",
+      "Spoon over the sponge fingers.",
+      "Sprinkle with the chocolate.",
+      "Refrigerate overnight."
+    ],
+    "notes": [],
+    "source": "Claudia Roden - Italian Cooking"
+  },
+  {
+    "id": "bread-pudding",
+    "title": "Bread Pudding",
+    "category": "Desserts and Baking",
+    "description": "A simple baked bread pudding with spice, fruit and melted margarine.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Bread",
+      "1/2 oz mixed spice",
+      "1/2 oz ground cinnamon",
+      "1 egg",
+      "2 oz sugar",
+      "Mixed fruit",
+      "Ground almonds (optional)",
+      "1/4 lb melted margarine"
+    ],
+    "method": [
+      "Soak the bread, then squeeze it dry.",
+      "Add all the remaining ingredients and mix together.",
+      "Bake in the oven until cooked through."
+    ],
+    "notes": [],
+    "source": "Esther Levi"
+  },
+  {
+    "id": "lockshen-pudding",
+    "title": "Lockshen Pudding",
+    "category": "Desserts and Baking",
+    "description": "A very simple noodle pudding baked in milk with raisins and sugar.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "1½ hours",
+    "ingredients": [
+      "2-3 oz noodles",
+      "Raisins",
+      "Sugar",
+      "Milk to cover"
+    ],
+    "method": [
+      "Place the noodles in the bottom of an ovenproof dish.",
+      "Add raisins and sugar.",
+      "Cover with milk.",
+      "Cook at 350°F for about 1½ hours."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "caramelised-oranges",
+    "title": "Caramelised Oranges",
+    "category": "Desserts and Baking",
+    "description": "Oranges served with a citrus syrup made from sugar, water and peel.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 oz granulated sugar per orange",
+      "2 oz water per orange",
+      "Oranges",
+      "Brandy",
+      "Orange liqueur"
+    ],
+    "method": [
+      "Pare off the orange rind.",
+      "Heat the sugar and water until dissolved.",
+      "Add the peel and boil rapidly until thick.",
+      "Peel and slice the oranges.",
+      "Add brandy and orange liqueur.",
+      "Pour over the cooled syrup and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "zabaglione-pudding",
+    "title": "Zabaglione Pudding",
+    "category": "Desserts and Baking",
+    "description": "A chilled pudding layered with sponge fingers and a marsala cream mixture.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 egg yolks",
+      "4 tbsp castor sugar",
+      "4 tbsp sherry or Marsala",
+      "2-3 packets sponge fingers",
+      "1/2 pint whipped cream",
+      "1/2 oz gelatine dissolved in 1 dessertspoon water"
+    ],
+    "method": [
+      "Beat the yolks and sugar until thick.",
+      "Add the sherry or Marsala and beat over hot water until thick.",
+      "When cool, fold in the whipped cream and dissolved gelatine.",
+      "Line a loose-bottomed cake tin with sponge fingers dipped in sherry.",
+      "Add alternate layers of pudding mixture and biscuits.",
+      "Refrigerate until set."
+    ],
+    "notes": [
+      "Top with toasted almonds before serving.",
+      "Best made one day in advance."
+    ],
+    "source": null
+  },
+  {
+    "id": "chestnut-refrigerator-cake",
+    "title": "Chestnut Refrigerator Cake",
+    "category": "Desserts and Baking",
+    "description": "A chilled cake layered with coffee-soaked sponge fingers and chestnut cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "17 oz sweetened chestnut purée",
+      "4 oz dark chocolate",
+      "2 packets sponge fingers",
+      "5 fl oz strong coffee",
+      "1 tbsp brandy or Tia Maria",
+      "4 oz butter or margarine",
+      "1/4 pint whipped cream"
+    ],
+    "method": [
+      "Melt the chocolate gently.",
+      "Cream the butter or margarine, then beat in the chestnut purée and melted chocolate.",
+      "Mix the coffee with the brandy or liqueur.",
+      "Dip the sponge fingers in the coffee mixture and use them to line a tin.",
+      "Spread with half the chestnut mixture.",
+      "Add another layer of dipped sponge fingers and the remaining chestnut mixture.",
+      "Finish with a final layer of dipped sponge fingers.",
+      "Cover and refrigerate for at least 12 hours."
+    ],
+    "notes": [
+      "Can be topped with whipped cream flavoured with a little brandy."
+    ],
+    "source": null
+  },
+  {
+    "id": "fruit-kissel",
+    "title": "Fruit Kissel",
+    "category": "Desserts and Baking",
+    "description": "Soft fruits in a lightly thickened orange sauce, served chilled.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "450g mixed fresh or frozen soft fruits",
+      "50g light soft brown sugar",
+      "150ml unsweetened orange juice",
+      "2 tsp cornflour",
+      "2 tbsp water"
+    ],
+    "method": [
+      "Prepare the fruit and place it in a bowl.",
+      "Dissolve the sugar in the orange juice over low heat.",
+      "Mix the cornflour with the water to a smooth paste.",
+      "Add it to the orange juice and bring to the boil, stirring until the sauce clears and thickens.",
+      "Pour over the fruit and stir gently.",
+      "Cover and chill in the fridge for at least 3 hours."
+    ],
+    "notes": [
+      "When using frozen fruit, prepare it well in advance so the fruit thaws properly."
+    ],
+    "source": null
+  },
+  {
+    "id": "rhubarb-brulee",
+    "title": "Rhubarb Brulée",
+    "category": "Desserts and Baking",
+    "description": "A chilled dessert of sponge fingers, rhubarb and sour cream finished under the grill.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 pint sour cream",
+      "1 tsp vanilla essence",
+      "1 tbsp castor sugar",
+      "1 tin rhubarb or cooked rhubarb pieces",
+      "Sponge fingers",
+      "Brown sugar"
+    ],
+    "method": [
+      "Line a dish with sponge fingers.",
+      "Place the rhubarb on top.",
+      "Mix the sour cream with the vanilla essence and sugar.",
+      "Spread over the rhubarb.",
+      "Refrigerate overnight.",
+      "Sprinkle with brown sugar and caramelise under a hot grill before serving."
+    ],
+    "notes": [],
+    "source": "Sheila"
+  },
+  {
+    "id": "almond-cherry-cake",
+    "title": "Almond Cherry Cake",
+    "category": "Desserts and Baking",
+    "description": "A rich moist cherry and almond cake that keeps well.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "45 minutes plus 45 minutes",
+    "ingredients": [
+      "4 eggs",
+      "8 oz glacé cherries",
+      "2 oz angelica or candied lemon peel",
+      "4 oz ground almonds",
+      "8 oz soft butter",
+      "8 oz caster sugar",
+      "Grated rind of 1 lemon",
+      "8 oz plain flour",
+      "1 level tsp baking powder",
+      "Juice of 1 lemon",
+      "Milk",
+      "Flaked almonds",
+      "Granulated sugar"
+    ],
+    "method": [
+      "Heat the oven to 350°F / 180°C / Gas 4.",
+      "Beat the eggs until fluffy.",
+      "Quarter the cherries and mix with the peel and ground almonds.",
+      "Beat the butter until creamy, then beat in the sugar a tablespoon at a time until light and fluffy.",
+      "Add the eggs gradually, beating well.",
+      "Beat in the lemon rind.",
+      "Fold in the flour and baking powder, then the lemon juice.",
+      "Stir in the cherry and almond mixture.",
+      "Spoon into a lined deep cake tin.",
+      "Brush with a little milk and scatter with flaked almonds and a little granulated sugar.",
+      "Bake for 45 minutes, then lower the oven and bake for a further 45 minutes until firm."
+    ],
+    "notes": [
+      "Keeps for 2 weeks in an airtight tin.",
+      "Store for 1 week before use."
+    ],
+    "source": null
+  },
+  {
+    "id": "apple-cake-i",
+    "title": "Apple Cake I",
+    "category": "Desserts and Baking",
+    "description": "A soft apple cake with raisins and optional spice or orange peel.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "1/4 lb butter or margarine",
+      "1/4 lb castor sugar",
+      "2 large eggs",
+      "1/4 lb self-raising flour",
+      "A pinch of salt",
+      "A little water",
+      "1 oz ground almonds (optional)",
+      "2½ lb cooking apples",
+      "Extra sugar to taste",
+      "A handful of raisins",
+      "Apple pie spice or cinnamon and/or orange peel"
+    ],
+    "method": [
+      "Heat the oven to 350°F / 160°C / Gas 3.",
+      "Cream the fat and sugar.",
+      "Add the eggs and mix, then the flour and ground almonds if using.",
+      "Put most of the mixture into a prepared tin, reserving a little for the topping.",
+      "Peel and slice the apples and arrange them over the mixture.",
+      "Add raisins and sprinkle with spice or orange peel and extra sugar if liked.",
+      "Loosen the remaining cake mixture with a little water and drop it over the apples.",
+      "Bake for about 1 hour until golden and cooked."
+    ],
+    "notes": [],
+    "source": "Florence (Granny Marco) Wolfe"
+  },
+  {
+    "id": "apple-cake-ii",
+    "title": "Apple cake II",
+    "category": "Desserts and Baking",
+    "description": "A second apple cake version with lemon rind and raisins.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "2 oz sugar",
+      "4 oz margarine",
+      "6 oz self-raising flour",
+      "1 egg",
+      "Raisins",
+      "Grated lemon rind",
+      "1½ lb apples"
+    ],
+    "method": [
+      "Cream the butter and sugar.",
+      "Beat in the egg.",
+      "Add the flour and enough water to make a soft consistency.",
+      "Put most of the mixture into a baking tin.",
+      "Peel, core and slice the apples and place on top.",
+      "Add raisins and grated lemon rind.",
+      "Cover with the rest of the mixture.",
+      "Bake at 350-375°F / 160°C for about 1 hour until golden."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "apple-cake-iii",
+    "title": "Apple cake III",
+    "category": "Desserts and Baking",
+    "description": "An apple tart-style cake with pastry base and almond topping.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "For the pastry: 8 oz flour",
+      "For the pastry: 4 oz butter",
+      "For the pastry: 2 oz sugar",
+      "A little beaten egg or water",
+      "Apples",
+      "Butter",
+      "Sugar",
+      "Cinnamon",
+      "Raisins or sultanas",
+      "For the topping: 2 oz butter or margarine",
+      "For the topping: 3 oz ground almonds",
+      "For the topping: 3 oz sugar",
+      "For the topping: 1 egg"
+    ],
+    "method": [
+      "Mix the pastry ingredients and chill for about 1 hour.",
+      "Roll out and bake blind at 375°F / Gas 5 until golden.",
+      "Peel, slice and cook the apples gently in a little butter until soft.",
+      "Add sugar, cinnamon and raisins or sultanas if desired.",
+      "Beat the topping ingredients together.",
+      "Spread the apple mixture over the baked base.",
+      "Cover with the topping.",
+      "Bake again at 375°F until golden on top."
+    ],
+    "notes": [],
+    "source": "Doreen Isaacs"
+  },
+  {
+    "id": "sheila-cahns-apple-cake-i",
+    "title": "Sheila Cahn’s Apple Cake I",
+    "category": "Desserts and Baking",
+    "description": "An apple cake with a crumb-like topping and thinly sliced apples in the middle.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "8 oz self-raising flour",
+      "4 oz sugar",
+      "4 oz margarine",
+      "1 large egg",
+      "A few drops of vanilla or almond essence",
+      "3 large cooking apples, peeled and thinly sliced"
+    ],
+    "method": [
+      "Mix all the ingredients except the apples until the mixture resembles fine breadcrumbs.",
+      "Oil and flour an 8-inch cake tin.",
+      "Place half the mixture in the tin.",
+      "Cover with all the sliced apples.",
+      "Sprinkle over the remaining mixture.",
+      "Bake at 350°F / 180°C / Gas 4 / 160°C fan until done.",
+      "Leave to cool, then turn out."
+    ],
+    "notes": [],
+    "source": "Sheila Cahn"
+  },
+  {
+    "id": "sheila-cahns-apple-cake-ii",
+    "title": "Sheila Cahn’s Apple Cake II",
+    "category": "Desserts and Baking",
+    "description": "A second Sheila Cahn apple cake using apricot jam and lemon juice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "7 oz self-raising flour",
+      "1/2 level tsp baking powder",
+      "3 oz castor sugar",
+      "5 oz butter or margarine",
+      "1 egg",
+      "2 lb cooking apples",
+      "2 tbsp apricot jam",
+      "2 tbsp sugar",
+      "A few squeezes of lemon juice"
+    ],
+    "method": [
+      "Mix the flour, baking powder, sugar, fat and egg.",
+      "Divide the mixture in half.",
+      "Line a loose-bottomed tin with half the mixture.",
+      "Add the apples and proceed as for Sheila Cahn’s Apple Cake I.",
+      "Use the apricot jam, sugar and lemon juice with the apples as desired.",
+      "Bake until cooked through and golden."
+    ],
+    "notes": [],
+    "source": "Sheila Cahn"
+  },
+  {
+    "id": "elaine-hallgartens-tart-au-pomme",
+    "title": "Elaine Hallgarten’s Tart au Pomme",
+    "category": "Desserts and Baking",
+    "description": "An apple tart with apple sauce base and glazed sliced apples on top.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "10 minutes plus 30-40 minutes",
+    "ingredients": [
+      "Pastry",
+      "1 kg cooking apples",
+      "25g butter",
+      "25g sugar",
+      "1 cinnamon stick",
+      "Grated rind of 1 lemon",
+      "125ml white wine",
+      "Red-skinned apples",
+      "1 tbsp sugar",
+      "Apricot jam for glazing"
+    ],
+    "method": [
+      "Cook the cooking apples with butter, sugar, cinnamon, lemon rind and white wine until thickened, then cool.",
+      "Line a flan tin with pastry.",
+      "Prick the base, line with paper and beans, and bake for 10 minutes at 375°F.",
+      "Remove the paper and beans.",
+      "Spread the apple sauce into the pastry case.",
+      "Arrange thinly sliced red apples in overlapping concentric circles on top.",
+      "Sprinkle with sugar.",
+      "Bake at 375°F for 30-40 minutes until lightly browned.",
+      "Heat the apricot jam, sieve it and brush over the apples to glaze."
+    ],
+    "notes": [],
+    "source": "Elaine Hallgarten"
+  },
+  {
+    "id": "plum-or-apple-cake",
+    "title": "Plum or Apple Cake",
+    "category": "Desserts and Baking",
+    "description": "A fruit cake base topped with plums or apples.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 30 minutes",
+    "ingredients": [
+      "8 oz self-raising flour",
+      "4 oz margarine or butter",
+      "4 oz castor sugar",
+      "1 egg",
+      "2½ lb plums or apples"
+    ],
+    "method": [
+      "Rub the fat into the flour.",
+      "Add the sugar and egg and mix until the dough binds together.",
+      "Refrigerate for about 15 minutes.",
+      "Line the base of a tin.",
+      "Arrange the prepared fruit over the top.",
+      "Dust with cinnamon.",
+      "Bake at 375-400°F / 160°C for about 30 minutes."
+    ],
+    "notes": [
+      "For apple cake, add orange peel and raisins."
+    ],
+    "source": "David Wolfe’s favourite"
+  },
+  {
+    "id": "apple-strudel",
+    "title": "Apple Strudel",
+    "category": "Desserts and Baking",
+    "description": "Puff pastry strudel filled with apples, almonds, cinnamon, sugar and raisins.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "15-20 minutes",
+    "ingredients": [
+      "500g puff pastry",
+      "4-6 large cooking apples",
+      "2-3 tbsp Demerara sugar",
+      "3-4 tbsp ground almonds",
+      "2-3 tsp cinnamon",
+      "2-3 tbsp raisins"
+    ],
+    "method": [
+      "Heat the oven to 450°F / 180°C.",
+      "Roll out the pastry and place on a baking tray.",
+      "Mix the sugar, almonds, cinnamon and raisins together and spread along the middle.",
+      "Peel, core and cut the apples and place over the mixture.",
+      "Sprinkle over the remaining almond mixture.",
+      "Moisten the pastry edges and fold over to enclose the filling.",
+      "Brush with water and sprinkle with Demerara sugar.",
+      "Bake for 15-20 minutes until golden brown."
+    ],
+    "notes": [
+      "This quantity makes two strudels."
+    ],
+    "source": null
+  },
+  {
+    "id": "traditional-jewish-cheese-cake",
+    "title": "Traditional Jewish Cheese Cake",
+    "category": "Desserts and Baking",
+    "description": "A curd cheese cake on a biscuit or sponge base, chilled overnight.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "30 minutes",
+    "ingredients": [
+      "1½ lb curd cheese",
+      "5 oz castor sugar",
+      "2 eggs",
+      "4 oz double cream",
+      "Raisins (optional)",
+      "Lemon juice (optional)",
+      "Digestive or shortcake biscuits, or sponge cake"
+    ],
+    "method": [
+      "Mix the cheese, sugar, eggs and cream until smooth.",
+      "Add raisins or lemon juice if using.",
+      "Pour over a base of crushed biscuits or sponge cake.",
+      "Bake at 350°F / Gas 4 for about 30 minutes.",
+      "Refrigerate overnight before serving."
+    ],
+    "notes": [
+      "Can be decorated before serving."
+    ],
+    "source": "Sandra Levi"
+  },
+  {
+    "id": "the-best-ever-cheese-cake",
+    "title": "The Best Ever Cheese Cake",
+    "category": "Desserts and Baking",
+    "description": "A baked cheesecake with sour cream topping.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "35 minutes plus 5 minutes",
+    "ingredients": [
+      "2 oz margarine or butter",
+      "1 cup biscuit crumbs",
+      "4 eggs",
+      "1 cup castor sugar",
+      "1½ lb curd cheese",
+      "1 tsp vanilla essence",
+      "For the topping: 1/2 pint sour cream",
+      "For the topping: 1 oz castor sugar",
+      "For the topping: 1 tsp vanilla essence"
+    ],
+    "method": [
+      "Mix the melted butter with the biscuit crumbs and press into the base of a deep loose-bottomed tin.",
+      "Beat together the cheese, sugar and vanilla.",
+      "Add the eggs one at a time, beating between additions.",
+      "Pour into the tin.",
+      "Bake at 350°F / 160°C for 35 minutes.",
+      "Turn off the oven, open the door and leave the cake to cool.",
+      "Mix the sour cream, sugar and vanilla for the topping.",
+      "Pour over the top and return to a hotter oven for 5 minutes.",
+      "Cool and refrigerate."
+    ],
+    "notes": [
+      "Best made a day ahead."
+    ],
+    "source": "Sheila Laikin"
+  },
+  {
+    "id": "chocolate-cake",
+    "title": "Chocolate Cake",
+    "category": "Desserts and Baking",
+    "description": "A light chocolate cake made with beaten egg whites and cocoa.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "20 minutes or 40-45 minutes depending on format",
+    "ingredients": [
+      "1 heaped cup plain flour",
+      "1 cup granulated sugar",
+      "1/4 cup cocoa",
+      "2 tsp baking powder",
+      "4 eggs",
+      "1/2 cup boiling water",
+      "1/4 cup oil",
+      "A pinch of salt",
+      "A few drops of vanilla essence"
+    ],
+    "method": [
+      "Combine the flour and sugar.",
+      "Dissolve the cocoa in the boiling water.",
+      "Separate the eggs and beat the whites until stiff.",
+      "Mix the flour, sugar, egg yolks, cocoa mixture, oil, salt and vanilla.",
+      "Fold in the egg whites and baking powder.",
+      "Bake as sandwich layers or as one whole cake until cooked through."
+    ],
+    "notes": [
+      "The source suggests filling and icing the whole cake with double quantity of the butter icing."
+    ],
+    "source": "Sue Arkus"
+  },
+  {
+    "id": "microwave-chocolate-cake",
+    "title": "Microwave chocolate cake",
+    "category": "Desserts and Baking",
+    "description": "A very quick chocolate cake made in the microwave.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 3 minutes",
+    "ingredients": [
+      "4 tbsp sugar",
+      "4 tbsp self-raising flour",
+      "4 tbsp baking cocoa",
+      "1 egg",
+      "3 tbsp milk",
+      "3 tbsp vegetable oil",
+      "1/2-1 tsp vanilla extract",
+      "3 tbsp chocolate chips (optional)"
+    ],
+    "method": [
+      "Mix the dry ingredients well.",
+      "Add the egg and mix thoroughly.",
+      "Stir in the milk and oil.",
+      "Add vanilla and chocolate chips if using.",
+      "Microwave on high for about 3 minutes or until it stops rising.",
+      "Allow to cool slightly before serving."
+    ],
+    "notes": [
+      "Can be cooked in a mug or divided between two small pans."
+    ],
+    "source": null
+  },
+  {
+    "id": "butter-icing",
+    "title": "Butter Icing",
+    "category": "Desserts and Baking",
+    "description": "A simple chocolate butter icing.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "3 oz butter or margarine",
+      "1 heaped dessertspoon cocoa",
+      "A drop of water",
+      "A squeeze of lemon juice",
+      "1/2 lb sifted icing sugar"
+    ],
+    "method": [
+      "Beat together the butter or margarine, cocoa, water and lemon juice.",
+      "Beat in the icing sugar until smooth."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "round-chocolate-and-plain-cake-marble-cake",
+    "title": "Round Chocolate and Plain Cake – Marble Cake",
+    "category": "Desserts and Baking",
+    "description": "A marble cake with chocolate and lemon batters swirled together.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "55-60 minutes",
+    "ingredients": [
+      "1/2 lb butter or margarine",
+      "1/2 lb castor sugar",
+      "4 large eggs",
+      "1/2 lb flour",
+      "A pinch of salt",
+      "2 tbsp drinking chocolate",
+      "1 dessertspoon coffee essence",
+      "1 lemon, juice and rind",
+      "1 oz ground almonds (optional)"
+    ],
+    "method": [
+      "Heat the oven to 350°F / 160°C / Gas 3.",
+      "Cream the fat and sugar.",
+      "Add the eggs and mix, then the flour and mix again.",
+      "Divide the mixture in half.",
+      "Flavour one half with chocolate and coffee essence.",
+      "Flavour the other with lemon juice and rind.",
+      "Spoon alternating mixtures into a greased and floured tin.",
+      "Run a fork through the batter to marble it slightly.",
+      "Bake for 55-60 minutes."
+    ],
+    "notes": [
+      "The source includes several alternative flavour variations."
+    ],
+    "source": "Anne Kershen"
+  },
+  {
+    "id": "oat-and-mincemeat-bars",
+    "title": "Oat and Mincemeat Bars",
+    "category": "Desserts and Baking",
+    "description": "A traybake with oat crumble layers and a mincemeat filling.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "23-30 minutes",
+    "ingredients": [
+      "225g porridge oats",
+      "170g soft brown sugar",
+      "1/2 tsp bicarbonate of soda",
+      "3 oz plain flour",
+      "6 oz melted butter or margarine",
+      "425g jar mincemeat"
+    ],
+    "method": [
+      "Mix the oats, flour, sugar and bicarbonate of soda.",
+      "Add the melted butter.",
+      "Press half the mixture into the base of a tin.",
+      "Spread the mincemeat over it.",
+      "Scatter the remaining oat mixture on top.",
+      "Bake at 350°F / 160°C / Gas 4 for 23-30 minutes until golden.",
+      "Cool before cutting."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "rhubarb-cake",
+    "title": "Rhubarb Cake",
+    "category": "Desserts and Baking",
+    "description": "A soft traybake topped with rhubarb.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "35-40 minutes",
+    "ingredients": [
+      "4 oz margarine",
+      "7 oz castor sugar",
+      "8 oz plain flour",
+      "2 eggs",
+      "3 tbsp milk",
+      "1 level tsp baking powder",
+      "1 lb rhubarb",
+      "3 oz castor sugar"
+    ],
+    "method": [
+      "Heat the oven to 375-400°F / 170°C.",
+      "Wash and trim the rhubarb and cut into pieces.",
+      "Cream the margarine and sugar until light and fluffy.",
+      "Beat the eggs with the milk and gradually add to the mixture.",
+      "Fold in the flour and baking powder.",
+      "Spread into a greased shallow tin.",
+      "Arrange the rhubarb on top and sprinkle with sugar if using.",
+      "Bake for 35-40 minutes."
+    ],
+    "notes": [
+      "The source notes that self-raising flour can be used instead of plain flour plus baking powder."
+    ],
+    "source": "Vivienne Schuster"
+  },
+  {
+    "id": "peanut-butter-cookies",
+    "title": "Peanut Butter Cookies",
+    "category": "Desserts and Baking",
+    "description": "Simple peanut butter cookies with crunchy texture.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "10-12 minutes",
+    "ingredients": [
+      "6 oz margarine or butter",
+      "2 oz crunchy peanut butter",
+      "4 oz castor sugar",
+      "1 egg",
+      "5 oz plain flour",
+      "1/4 tsp salt"
+    ],
+    "method": [
+      "Mix the butter, peanut butter, sugar and egg.",
+      "Add the flour and salt to form a stiff dough.",
+      "Place spoonfuls onto a greased baking sheet.",
+      "Bake at 375°F / Gas 5 / 160°C fan for 10-12 minutes."
+    ],
+    "notes": [],
+    "source": "Pat Williams"
+  },
+  {
+    "id": "cold-walnut-gateau",
+    "title": "Cold Walnut Gateau",
+    "category": "Desserts and Baking",
+    "description": "A chilled layered walnut dessert with sponge fingers and whipped cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 oz walnuts",
+      "4 oz margarine",
+      "4 oz sugar",
+      "Just under 1/4 pint hot milk",
+      "1/4 pint double cream",
+      "1 egg",
+      "3-4 packets sponge fingers",
+      "2-3 tbsp sherry",
+      "2-3 tbsp cold milk",
+      "Walnut halves for decorating"
+    ],
+    "method": [
+      "Grind the walnuts very fine.",
+      "Pour the hot milk over the walnuts and leave to cool.",
+      "Cream the margarine and sugar and add the beaten egg and walnut mixture.",
+      "Mix the cold milk and sherry.",
+      "Dip the sponge fingers in this mixture and use them to line a tin.",
+      "Add a layer of walnut mixture and repeat in alternating layers, finishing with biscuits.",
+      "Refrigerate overnight.",
+      "Turn out, cover with whipped cream and decorate with walnut halves."
+    ],
+    "notes": [],
+    "source": "Kris Musikant"
+  },
+  {
+    "id": "welsh-cakes",
+    "title": "Welsh Cakes",
+    "category": "Desserts and Baking",
+    "description": "Traditional griddle cakes with currants.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 oz self-raising flour",
+      "1½ oz fat",
+      "A pinch of salt",
+      "1½ oz currants",
+      "1/2 oz sugar",
+      "1/2 egg",
+      "Milk and water"
+    ],
+    "method": [
+      "Sieve the flour and salt.",
+      "Rub in the fat and stir in the sugar and currants.",
+      "Mix with the egg, milk and water to a pastry consistency.",
+      "Roll out to about 1/4 inch thickness.",
+      "Cut out rounds.",
+      "Cook on a griddle until browned on both sides."
+    ],
+    "notes": [
+      "This quantity makes about 8-10 cakes."
+    ],
+    "source": "Florence Harris"
+  },
+  {
+    "id": "yeast-bun-cake",
+    "title": "Yeast Bun Cake",
+    "category": "Desserts and Baking",
+    "description": "A rolled yeast cake filled with butter, sugar and dried fruit.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Doughnut or yeast pastry",
+      "Butter",
+      "Sugar",
+      "Dried mixed fruit",
+      "Glacé cherries"
+    ],
+    "method": [
+      "Make a yeast-style dough.",
+      "Roll it out thinly.",
+      "Spread with butter and sprinkle with sugar, fruit and cherries.",
+      "Roll up.",
+      "Arrange inside a round tin.",
+      "Dot with butter and bake at 400°F."
+    ],
+    "notes": [],
+    "source": "Florence Wolfe"
+  },
+  {
+    "id": "doris-reeses-fruit-cake",
+    "title": "Doris Reese’s Fruit cake",
+    "category": "Desserts and Baking",
+    "description": "A straightforward fruit cake with mixed fruit.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "2 eggs",
+      "3 oz castor sugar",
+      "4 oz margarine",
+      "5 oz self-raising flour",
+      "1/2 lb mixed fruit"
+    ],
+    "method": [
+      "Mix all the ingredients together.",
+      "Bake at 350-375°F for about 1 hour."
+    ],
+    "notes": [
+      "For a double quantity, bake longer."
+    ],
+    "source": "Doris Reese"
+  },
+  {
+    "id": "dundee-cake",
+    "title": "Dundee cake",
+    "category": "Desserts and Baking",
+    "description": "A rich fruit cake with currants, sultanas, peel and almonds.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 2½ hours",
+    "ingredients": [
+      "8 oz margarine",
+      "8 oz castor sugar",
+      "4 eggs",
+      "8 oz sultanas",
+      "8 oz currants",
+      "4 oz mixed peel",
+      "4 oz glacé cherries, chopped",
+      "2 oz almonds, blanched",
+      "1 lemon",
+      "10 oz plain flour",
+      "1/4 tsp salt",
+      "1/2 tsp baking powder"
+    ],
+    "method": [
+      "Cream the fat and sugar.",
+      "Beat in the eggs one at a time.",
+      "Chop half the almonds and reserve the rest for the top.",
+      "Grate the lemon rind.",
+      "Mix all the dry ingredients and fold into the creamed mixture.",
+      "Spoon into a greased and lined cake tin.",
+      "Decorate the top with the remaining almonds.",
+      "Bake in a moderate oven for 30 minutes, then in a slow oven for about 2 hours."
+    ],
+    "notes": [],
+    "source": "David Wolfe’s favourite"
+  },
+  {
+    "id": "honey-cake",
+    "title": "Honey Cake",
+    "category": "Desserts and Baking",
+    "description": "A moist honey cake with cocoa, coffee and spice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1½ hours",
+    "ingredients": [
+      "1/2 tsp sodium bicarbonate",
+      "1 cup self-raising flour",
+      "1 cup plain flour",
+      "1 cup sugar",
+      "2 eggs",
+      "1 tbsp cocoa",
+      "1/2 lb honey",
+      "1 tsp instant coffee",
+      "1 tsp mixed spice",
+      "1/2 cup oil",
+      "1 cup boiling water"
+    ],
+    "method": [
+      "Place all the dry ingredients in a bowl.",
+      "Add the eggs, honey and oil and mix.",
+      "Add the boiling water gradually and mix again.",
+      "Pour into a lined cake tin.",
+      "Bake at 325°F / 150°C for about 1½ hours."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "meringues",
+    "title": "Meringues",
+    "category": "Desserts and Baking",
+    "description": "Simple oven-dried meringues.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 2 hours",
+    "ingredients": [
+      "2 egg whites",
+      "2 oz granulated sugar",
+      "2 oz castor sugar"
+    ],
+    "method": [
+      "Beat the egg whites until stiff.",
+      "Beat in the granulated sugar until stiff again.",
+      "Fold in the castor sugar.",
+      "Spoon onto greased paper.",
+      "Bake in a very low oven for about 2 hours."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "engadiner-nusstorte",
+    "title": "Engadiner Nusstorte",
+    "category": "Desserts and Baking",
+    "description": "A nut tart with pastry shell and rich caramel-nut filling.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "For the pastry: 200g butter or margarine",
+      "For the pastry: 150g sugar",
+      "For the pastry: 1 tbsp rum or water",
+      "For the pastry: 1 egg",
+      "For the pastry: 1 egg yolk",
+      "For the pastry: a pinch of salt",
+      "For the pastry: grated rind of 1 lemon",
+      "For the pastry: 150g plain flour",
+      "For the filling: 300g sugar",
+      "For the filling: 200ml cream",
+      "For the filling: 300g chopped nuts with some almonds",
+      "For the filling: 3 tbsp honey",
+      "For the filling: 1 tbsp rum",
+      "1 egg for glazing"
+    ],
+    "method": [
+      "Mix the pastry ingredients except the flour until fluffy, then add the flour and chill the dough.",
+      "For the filling, heat the sugar and nuts together until lightly coloured.",
+      "Add the cream, honey and rum and leave to cool slightly.",
+      "Line a round tin with some of the dough and make a raised edge.",
+      "Add the filling.",
+      "Cover with the remaining rolled dough.",
+      "Prick all over and brush with egg.",
+      "Bake at 375°F / Gas 4 / 160°C fan for about 45 minutes."
+    ],
+    "notes": [
+      "This quantity makes two small round tarts."
+    ],
+    "source": null
+  },
+  {
+    "id": "cornish-fruit-loaf",
+    "title": "Cornish Fruit Loaf",
+    "category": "Desserts and Baking",
+    "description": "A tea loaf made by soaking fruit and sugar in tea overnight.",
+    "serves": null,
+    "prepTime": "Overnight soaking",
+    "cookTime": "About 1 to 1½ hours",
+    "ingredients": [
+      "1 cup strong tea",
+      "1 cup mixed fruit",
+      "1 cup soft brown sugar",
+      "2 cups wholemeal or stone-ground self-raising flour",
+      "1 large egg"
+    ],
+    "method": [
+      "Soak the fruit and sugar in the tea overnight.",
+      "Mix in the flour and beaten egg.",
+      "Pour into a greased and lined loaf tin.",
+      "Bake at about 160°C until cooked through."
+    ],
+    "notes": [
+      "The source notes that less sugar can be used and that it may cook in nearer 1 hour."
+    ],
+    "source": null
+  },
+  {
+    "id": "raspberry-sour-cream-torte",
+    "title": "Raspberry Sour Cream Torte",
+    "category": "Desserts and Baking",
+    "description": "A baked sour cream torte on a biscuit base, chilled overnight.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "20 minutes",
+    "ingredients": [
+      "8 oz crushed digestive biscuits",
+      "2 oz melted butter or margarine",
+      "1 pint sour cream",
+      "6 oz castor sugar",
+      "1 tin drained raspberries",
+      "Whipped cream or chocolate flakes for topping"
+    ],
+    "method": [
+      "Mix the biscuit crumbs with the melted butter and press into the base of a loose-bottomed tin.",
+      "Blend the sour cream, sugar and raspberries.",
+      "Pour over the base.",
+      "Bake at 350°F / 160°C for 20 minutes.",
+      "Allow to cool and chill overnight.",
+      "Decorate before serving if liked."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "loganberry-sour-cream-torte",
+    "title": "Loganberry Sour Cream Torte",
+    "category": "Desserts and Baking",
+    "description": "A chilled torte with shortbread crumbs, loganberries and sweetened sour cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "25 minutes",
+    "ingredients": [
+      "1/2 lb crushed shortbread biscuits",
+      "1 can drained loganberries",
+      "4 cartons sour cream",
+      "6 oz sugar"
+    ],
+    "method": [
+      "Put the biscuit crumbs into the base of a loose-bottomed tin.",
+      "Layer the loganberries on top.",
+      "Mix the sour cream and sugar and pour over the fruit.",
+      "Bake at 350°F for about 25 minutes.",
+      "Refrigerate overnight before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "cherry-sour-cream-cake",
+    "title": "Cherry Sour Cream Cake",
+    "category": "Desserts and Baking",
+    "description": "A baked sour cream cake with cherries, chilled overnight.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "40 minutes",
+    "ingredients": [
+      "8 digestive biscuits",
+      "4 cartons sour cream",
+      "1 carton castor sugar",
+      "1 tin pitted black cherries"
+    ],
+    "method": [
+      "Drain the cherries.",
+      "Mix all the ingredients together.",
+      "Pour into a loose-bottomed cake tin.",
+      "Bake at 350°C / Gas 4 for about 40 minutes.",
+      "Refrigerate overnight before serving."
+    ],
+    "notes": [
+      "Can be decorated with grated chocolate, chopped nuts or cream."
+    ],
+    "source": null
+  },
+  {
+    "id": "hazelnut-galettes-with-apple-filling",
+    "title": "Hazelnut Galettes with Apple Filling",
+    "category": "Desserts and Baking",
+    "description": "Hazelnut pastry rounds sandwiched with apple filling.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "10 minutes for galettes",
+    "ingredients": [
+      "3 oz hazelnuts",
+      "2 tbsp castor sugar",
+      "3 oz margarine",
+      "4½ oz self-raising flour",
+      "For the filling: 1 lb cooking apples",
+      "For the filling: 1 tbsp apricot jam",
+      "For the filling: 1 tbsp chopped orange peel and lemon peel",
+      "For the filling: 2 tbsp sultanas",
+      "For the filling: 2 tbsp currants"
+    ],
+    "method": [
+      "Roast the hazelnuts and rub off the skins.",
+      "Grind all but a few reserved nuts and mix with the flour and sugar.",
+      "Add the margarine and chill the dough.",
+      "Roll out and cut into two rounds.",
+      "Bake at 375°F for about 10 minutes and cool.",
+      "For the filling, cook the apples with the jam and peel until soft.",
+      "Add the sultanas and currants and cool.",
+      "Sandwich the rounds together with the filling and decorate."
+    ],
+    "notes": [],
+    "source": "Sheila"
+  },
+  {
+    "id": "luscious-lemony-roulade",
+    "title": "Luscious lemony roulade",
+    "category": "Desserts and Baking",
+    "description": "A soft lemon roulade filled with whipped cream and lemon curd.",
+    "serves": "6-8",
+    "prepTime": null,
+    "cookTime": "15-20 minutes",
+    "ingredients": [
+      "3 eggs, separated",
+      "100g caster sugar",
+      "Grated rind and juice of 1 lemon",
+      "65g ground almonds",
+      "15g fine semolina",
+      "For the filling: 300ml whipping cream",
+      "For the filling: 2 tbsp lemon curd",
+      "Lemon rind to decorate"
+    ],
+    "method": [
+      "Heat the oven to 160°C / 325°F / Gas 3 and line a Swiss roll tin.",
+      "Whisk the egg yolks and sugar until thick.",
+      "Stir in the lemon rind and juice, almonds and semolina.",
+      "Whisk the egg whites until stiff and fold into the mixture.",
+      "Spread into the tin and bake for 15-20 minutes until springy.",
+      "Leave to cool under paper and a damp tea towel.",
+      "Turn out onto sugared paper and remove the lining paper.",
+      "Whip the cream and mix part of it with the lemon curd.",
+      "Spread over the roulade, roll up and decorate."
+    ],
+    "notes": [
+      "The source includes personal variations using marrow cream instead of lemon curd."
+    ],
+    "source": "Alison Sadler"
   }
 ]
