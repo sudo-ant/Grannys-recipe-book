@@ -33,39 +33,39 @@
 
     <main class="main-panel">
       <section class="controls-card" aria-label="Recipe search and filters">
-        <div class="search-row">
-          <div>
+        <div class="controls-grid">
+          <div class="search-box">
             <label for="search" class="control-label">Search recipes</label>
             <input id="search" class="search-input" type="search"
               placeholder="Search by recipe name, ingredient, or section" autocomplete="off">
           </div>
 
-          <div>
+          <div class="browse-box">
             <div class="control-label">Browse by section</div>
             <div class="filter-wrap" id="filters"></div>
           </div>
-        </div>
 
-        <div class="submit-row">
-          <a class="submit-link-button"
-            href="https://docs.google.com/forms/d/e/1FAIpQLScmHXxSg94bQyarC2egmIUSX_p4aG-v5kSQGsoq4VY01WjaHg/viewform?usp=sf_link"
-            target="_blank" rel="noopener noreferrer">
-            Submit a Recipe
-          </a>
-          <p class="submit-help">
-            Granny and family can use this form to send in a new recipe for review.
-          </p>
-        </div>
-
-        <div class="results-bar">
-          <div class="results-left">
-            <div id="results-count">Loading recipes…</div>
+          <div class="submit-row">
+            <a class="submit-link-button"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScmHXxSg94bQyarC2egmIUSX_p4aG-v5kSQGsoq4VY01WjaHg/viewform?usp=sf_link"
+              target="_blank" rel="noopener noreferrer">
+              Submit a Recipe
+            </a>
+            <p class="submit-help">
+              Granny and family can use this form to send in a new recipe for review.
+            </p>
           </div>
-          <div class="results-actions">
-            <button class="filter-chip favourites-toggle" id="favourites-filter" type="button" aria-pressed="false">
-              Favourites
-            </button>
-            <button class="clear-link" id="clear-filters" type="button" hidden>Clear filters</button>
+
+          <div class="results-bar">
+            <div class="results-left">
+              <div id="results-count">Loading recipes…</div>
+            </div>
+            <div class="results-actions">
+              <button class="filter-chip favourites-toggle" id="favourites-filter" type="button" aria-pressed="false">
+                Favourites
+              </button>
+              <button class="clear-link" id="clear-filters" type="button" hidden>Clear filters</button>
+            </div>
           </div>
         </div>
       </section>
