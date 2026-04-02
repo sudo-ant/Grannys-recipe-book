@@ -1,0 +1,608 @@
+[
+  {
+    "id": "parsnip-soup-orange-ginger",
+    "title": "Parsnip Soup with Orange and Ginger",
+    "category": "Soups",
+    "description": "A smooth parsnip soup with orange and ginger.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 20 minutes",
+    "ingredients": [
+      "2oz / 55g butter",
+      "1 lb / 450g parsnips",
+      "1 medium onion",
+      "1 tbsp flour",
+      "Grated rind and juice of one orange",
+      "1 in / 2cm fresh ginger, grated",
+      "2 pints / 1 litre vegetable stock",
+      "1/2 pint / 250ml single cream (optional)",
+      "1 carrot (optional)"
+    ],
+    "method": [
+      "Peel and dice the parsnips and onion, and carrot if using.",
+      "Melt the butter in a large pan or pressure cooker base, then stir in the parsnips, onion, flour, ginger and orange rind.",
+      "Add the stock, mix well and bring to the boil.",
+      "Cook for about 20 minutes, or until the vegetables are soft.",
+      "Purée the soup, then pass through a sieve if you want a smoother texture.",
+      "Return to the pan, stir in the orange juice and reheat gently without boiling.",
+      "Add the cream if you like and season lightly."
+    ],
+    "notes": [
+      "The full quantity of stock makes a fairly thin soup.",
+      "The cream is optional.",
+      "A carrot can be added for colour."
+    ],
+    "source": null
+  },
+  {
+    "id": "cream-of-mushroom-soup",
+    "title": "Cream of Mushroom Soup",
+    "category": "Soups",
+    "description": "A rich mushroom soup finished with sherry and cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2oz / 55g butter",
+      "1 small onion, chopped",
+      "1/2lb / 225g mushrooms, chopped",
+      "1 clove garlic, crushed",
+      "2 level tbsp chopped parsley",
+      "1/2 pint / 0.25L water",
+      "1 stock cube",
+      "For the sauce: 2oz / 55g butter",
+      "For the sauce: 2oz / 55g flour",
+      "For the sauce: 2 pints / 1L milk",
+      "For the sauce: 1 tsp salt",
+      "For the sauce: 1/4 tsp each nutmeg and white pepper",
+      "For the sauce: a good pinch of herb salt",
+      "For the sauce: 1 glass dry sherry",
+      "For the sauce: 4 tbsp cream"
+    ],
+    "method": [
+      "Melt the butter and add the onion. Cover and simmer for 5 minutes.",
+      "Add the mushrooms and cover again for 5 minutes.",
+      "Add the water, stock cube, parsley and garlic, then set the mixture aside.",
+      "Using the same pan, add the butter, flour, milk, salt, nutmeg, pepper and herb salt.",
+      "Bring slowly to the boil, whisking all the time, then bubble for 5 minutes.",
+      "Stir in the mushroom mixture.",
+      "Cool in the fridge for 2 hours or overnight.",
+      "Bring back to a simmer, add extra seasoning if needed, then stir in the sherry and cream before serving."
+    ],
+    "notes": [
+      "Freezes well."
+    ],
+    "source": "Evelyn Rose"
+  },
+  {
+    "id": "spanish-chargrilled-peppers",
+    "title": "Spanish Chargrilled Peppers",
+    "category": "Starters",
+    "description": "Chargrilled peppers with anchovies, olives and olive oil.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4 red peppers",
+      "4 yellow peppers",
+      "1/2 x 100g jar anchovy fillets in oil, drained and halved lengthways",
+      "12 black olives, halved",
+      "Freshly ground black pepper",
+      "Fresh marjoram leaves, to garnish",
+      "100ml extra virgin olive oil"
+    ],
+    "method": [
+      "Cut the peppers lengthways into quarters and remove the seeds.",
+      "Place the peppers skin-side up under a hot grill until the skins have charred and blackened.",
+      "Transfer immediately to a saucepan and cover with a lid.",
+      "When cool enough to handle, remove the skins.",
+      "Arrange the peppers in a shallow dish with the anchovies and olives between them.",
+      "Season with black pepper, scatter over the marjoram and pour over the olive oil.",
+      "Serve at room temperature."
+    ],
+    "notes": [
+      "Good as a first course or as an accompaniment."
+    ],
+    "source": "Waitrose"
+  },
+  {
+    "id": "sweet-pepper-pots",
+    "title": "Sweet Pepper Pots",
+    "category": "Starters",
+    "description": "Soft peppers and tomatoes baked with cream, capers and Parmesan.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "55g / 2oz butter",
+      "1 large red pepper, seeded and chopped",
+      "1 onion, chopped",
+      "1 clove garlic, chopped",
+      "225g / 8oz tomatoes",
+      "1/2 tsp sugar",
+      "2 tsp capers",
+      "4 tbsp double cream",
+      "Grated Parmesan",
+      "Salt and cayenne pepper"
+    ],
+    "method": [
+      "Melt the butter and add the pepper, onion and garlic. Cook gently, stirring often, until the peppers are soft.",
+      "Pour boiling water over the tomatoes, peel them, remove the seeds and chop the flesh.",
+      "Add the tomatoes to the pan and cook slowly for 15 minutes, until thick and soft.",
+      "Stir in the sugar, salt and a pinch of cayenne.",
+      "Spoon into small ovenproof dishes and leave to cool.",
+      "Rinse and chop the capers, then mix with the cream.",
+      "Spoon the cream mixture over the pepper base and sprinkle with Parmesan.",
+      "Bake in a very hot oven or grill until lightly browned."
+    ],
+    "notes": [
+      "Fromage frais or crème fraîche can be used instead of some or all of the cream."
+    ],
+    "source": null
+  },
+  {
+    "id": "salmon-or-tuna-fish-cakes",
+    "title": "Salmon or Tuna Fish Cakes",
+    "category": "Fish",
+    "description": "Simple fish cakes made with mashed potato and parsley.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1/2lb / 200g canned salmon or tuna, or freshly cooked fish",
+      "3/4 pint / 375ml / 2 cups cold mashed potato",
+      "1 tsp salt",
+      "1/8 tsp pepper",
+      "1 level tbsp grated onion",
+      "1 egg",
+      "2 level tsp chopped parsley",
+      "Flour for coating"
+    ],
+    "method": [
+      "Flake the fish and remove any skin and bones.",
+      "Combine the fish with the mashed potato, egg, onion, parsley and seasoning.",
+      "If the mixture is too soft, add 1 tbsp medium matzo meal.",
+      "If using freshly mashed potatoes, chill the mixture before shaping.",
+      "Form into 6–8 patties.",
+      "Dip in flour, then fry gently in shallow oil with a little butter or margarine until crisp and brown on both sides."
+    ],
+    "notes": [
+      "If making salmon cakes, a little grated lemon rind can be added."
+    ],
+    "source": null
+  },
+  {
+    "id": "shepherds-pie",
+    "title": "Shepherd’s Pie",
+    "category": "Main Dishes",
+    "description": "Minced beef, vegetables, tomatoes and mashed potato baked with cheese.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour baking time",
+    "ingredients": [
+      "500g lean minced beef",
+      "250g frozen mixed vegetables",
+      "1 large onion",
+      "15oz tin plum tomatoes or chopped plum tomatoes",
+      "700g potatoes",
+      "Margarine or oil",
+      "Grated Cheddar cheese",
+      "Worcestershire sauce",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Slice the onion and fry gently in margarine or oil with a little salt until soft.",
+      "Add the minced beef and fry until cooked.",
+      "Cook the mixed vegetables in a little boiling water until done, then drain.",
+      "Peel and boil the potatoes until soft, then mash with milk and margarine.",
+      "Season the meat with Worcestershire sauce and pepper, then mix in the vegetables.",
+      "Transfer the meat mixture to a dish and arrange the tomatoes on top.",
+      "Cover with the mashed potato and scatter with grated cheese.",
+      "Bake in a moderate oven until the top is golden."
+    ],
+    "notes": [
+      "Crushed crisps can be added on top of the cheese for crunch.",
+      "This freezes well."
+    ],
+    "source": null
+  },
+  {
+    "id": "moroccan-chicken-and-dried-fruit-tagine",
+    "title": "Moroccan Chicken and Dried Fruit Tagine",
+    "category": "Main Dishes",
+    "description": "Chicken baked with spices, prunes, apricots and toasted almonds.",
+    "serves": "6–8",
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "6–8 chicken portions",
+      "1 tsp salt",
+      "Black pepper",
+      "2 level tbsp cake meal",
+      "2 tbsp oil",
+      "8oz prunes",
+      "4oz dried apricots",
+      "1 large onion",
+      "2 cloves garlic",
+      "1 tsp ground ginger",
+      "2 tsp ground cinnamon",
+      "15 fl oz chicken stock, or half stock and half white wine",
+      "1 tbsp honey",
+      "2 tsp potato flour",
+      "2 tsp lemon juice or water",
+      "2oz toasted blanched almonds"
+    ],
+    "method": [
+      "If the fruit is not pre-soaked, cover with boiling water for 30 minutes, then drain.",
+      "Preheat the oven to 300°F / 150°C / Gas 2 and toast the almonds as it heats.",
+      "Remove the skin and visible fat from the chicken.",
+      "Put the cake meal, salt and pepper into a bag and shake the chicken pieces in it to coat lightly.",
+      "Brown the chicken in hot oil, then place in a lidded casserole and surround with the dried fruit.",
+      "In the same oil, gently sauté the chopped onion and garlic until golden.",
+      "Add the spices, stock and honey, bring to the boil and simmer for 5 minutes.",
+      "Stir in the potato flour mixed with lemon juice or water.",
+      "Pour over the chicken, cover and bake for about 1 hour, or until tender.",
+      "Garnish with the toasted almonds before serving."
+    ],
+    "notes": [
+      "The recipe notes that lamb can also be used."
+    ],
+    "source": "Poulet aux Pruneaux et Abricots"
+  },
+  {
+    "id": "lemon-pasta",
+    "title": "Lemon Pasta",
+    "category": "Sides and Salads",
+    "description": "Linguine with lemon, Parmesan, basil and rocket.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 10 minutes",
+    "ingredients": [
+      "450g dried linguine or other pasta",
+      "Juice and zest of 3 lemons",
+      "6 tbsp olive oil",
+      "125g Parmesan cheese, freshly grated",
+      "Sea salt and freshly ground black pepper",
+      "2 handfuls fresh basil, finely chopped",
+      "100g rocket"
+    ],
+    "method": [
+      "Cook the pasta in plenty of boiling salted water for about 10 minutes, then drain well and return to the pan.",
+      "Beat the lemon juice and zest with the olive oil, then stir in the Parmesan until thick and creamy.",
+      "Season to taste.",
+      "Add the lemon sauce to the pasta and shake the pan so each strand is coated.",
+      "Finish by stirring in the chopped basil and rocket."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "roasted-garlic-potato-mash",
+    "title": "Roasted garlic potato mash",
+    "category": "Sides and Salads",
+    "description": "Creamy mashed potatoes with roasted garlic and crème fraîche.",
+    "serves": "4–6",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 heads of garlic, top third cut off",
+      "2 tbsp olive oil",
+      "2 lb / 900g red-skinned potatoes, peeled and cut into chunks",
+      "1 tbsp salt",
+      "4oz / 110g butter",
+      "5oz / 140g crème fraîche",
+      "1 tsp fresh cracked pepper"
+    ],
+    "method": [
+      "Heat the oven to 200°C / 400°F / Gas 6.",
+      "Place the garlic on foil, drizzle with olive oil, wrap loosely and bake for 45–50 minutes until golden and soft.",
+      "Boil the potatoes in a large pot with the salt until soft, then drain and return to the pot.",
+      "Mash with the butter until smooth.",
+      "Add the crème fraîche and black pepper.",
+      "Squeeze the roasted garlic cloves out of their skins and mix gently into the potatoes.",
+      "Taste and adjust seasoning."
+    ],
+    "notes": [
+      "Can be prepared earlier in the day and reheated gently."
+    ],
+    "source": null
+  },
+  {
+    "id": "coldslaw",
+    "title": "Coldslaw",
+    "category": "Sides and Salads",
+    "description": "A cabbage and carrot slaw with mayonnaise and soured cream.",
+    "serves": "10–12",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 cabbage",
+      "2 carrots, grated",
+      "4 tbsp wine vinegar",
+      "1 level tbsp castor sugar",
+      "Salt and freshly ground black pepper",
+      "6 tbsp mayonnaise",
+      "5 fl oz / 125ml soured cream",
+      "Chives"
+    ],
+    "method": [
+      "Shred the cabbage and dry it well.",
+      "Mix together the vinegar, sugar, salt, pepper, mayonnaise and soured cream.",
+      "Add the cabbage, carrots and chives.",
+      "Toss lightly and adjust seasoning."
+    ],
+    "notes": [
+      "The original notes mention optional steps to crisp the cabbage and marinate it first, but they can be skipped."
+    ],
+    "source": "Evelyn Rose"
+  },
+  {
+    "id": "chocolate-mousse-i",
+    "title": "Chocolate Mousse I",
+    "category": "Desserts and Baking",
+    "description": "A classic chocolate mousse with eggs and optional sherry or brandy.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "8oz plain chocolate",
+      "6 eggs",
+      "1–2 tbsp sherry or brandy (optional)"
+    ],
+    "method": [
+      "Separate the eggs.",
+      "Beat the egg whites until stiff.",
+      "Melt the chocolate over hot water or in the microwave.",
+      "Add the egg yolks to the chocolate and beat well.",
+      "Add the sherry or brandy if using.",
+      "Fold in 1 tablespoon of the beaten egg whites, then fold in the rest gently.",
+      "Refrigerate until needed."
+    ],
+    "notes": [],
+    "source": "H. Wolff"
+  },
+  {
+    "id": "lemon-cake",
+    "title": "Lemon Cake",
+    "category": "Desserts and Baking",
+    "description": "A simple lemon cake finished with a lemon icing syrup.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "4oz soft margarine or butter",
+      "6oz self-raising flour",
+      "6oz castor sugar",
+      "2 large eggs",
+      "4 tbsp milk",
+      "Grated rind of 1 lemon",
+      "For the syrup: 3 tbsp lemon juice",
+      "For the syrup: 3 tbsp icing sugar"
+    ],
+    "method": [
+      "Put all the cake ingredients into a bowl and beat until mixed.",
+      "Bake in a greased and floured 7½-inch round tin or loaf tin for about 1 hour at 350°F / 160°C / Gas 4.",
+      "When cold, prick the cake all over.",
+      "Warm the lemon juice and icing sugar together to make a syrup.",
+      "Pour the syrup over the cake."
+    ],
+    "notes": [],
+    "source": "Anthony’s favourite"
+  },
+  {
+    "id": "chicken-soup",
+    "title": "Chicken soup",
+    "category": "Soups",
+    "description": "A simple traditional chicken soup with leeks, carrots, celery and parsley.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Chicken stock made from carcass or boiling fowl",
+      "Knorr chicken stock cubes",
+      "Spring onions",
+      "Celery",
+      "Carrots",
+      "Leeks",
+      "Hamburg parsley (parsley root) if available",
+      "Parsley",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Slice the leeks, carrots and celery.",
+      "Chop the onion and parsley.",
+      "Add the vegetables and herbs to the stock.",
+      "Bring to the boil, then simmer until the vegetables are tender.",
+      "Season with salt and pepper."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "minted-pea-soup",
+    "title": "Minted Pea Soup",
+    "category": "Soups",
+    "description": "A quick pea soup with spring onions and lettuce, blended until smooth.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb / 450g frozen peas",
+      "3 spring onions",
+      "Outside lettuce leaves",
+      "2 chicken stock cubes",
+      "1¾ pints / 1 litre water"
+    ],
+    "method": [
+      "Sauté the chopped spring onions.",
+      "Add the lettuce leaves and sauté briefly.",
+      "Add the peas, stock cubes and water.",
+      "Cook until the peas are tender.",
+      "Blend in a food processor or liquidiser until smooth.",
+      "Serve hot with a little cream on top if desired."
+    ],
+    "notes": [],
+    "source": "Sheila"
+  },
+  {
+    "id": "piquant-tomato-soup",
+    "title": "Piquant Tomato Soup",
+    "category": "Soups",
+    "description": "A rich tomato soup with onion, carrot, celery, oregano and lemon rind.",
+    "serves": "6-8",
+    "prepTime": null,
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "1 tbsp rendered chicken fat or 1 oz / 25g margarine",
+      "1 large onion, sliced",
+      "1 small carrot, sliced",
+      "1 stalk celery",
+      "2 level tbsp brown sugar",
+      "2 level tsp salt",
+      "1 clove garlic, crushed",
+      "Thinly peeled rind of 1/2 lemon",
+      "A few black peppercorns",
+      "1 large bay leaf",
+      "1 level tsp dried oregano",
+      "1 can whole peeled plum tomatoes with juice",
+      "2 tbsp tomato purée",
+      "2 pints / 1 litre meat, bone, chicken or vegetable stock",
+      "Optional: 1 tbsp cornflour mixed with 2 tbsp cold water",
+      "Optional: a handful of fine vermicelli"
+    ],
+    "method": [
+      "Melt the fat gently in a heavy soup pan.",
+      "Add the sliced vegetables, cover, and cook gently for about 10 minutes until softened without browning.",
+      "Add the tomatoes and all the remaining main ingredients.",
+      "Cover and simmer for 45 minutes until the vegetables are tender.",
+      "Remove the bay leaf.",
+      "Push through a sieve or blend until smooth.",
+      "Return the soup to the pan and taste.",
+      "Add a little more tomato purée if needed.",
+      "If you want a thicker soup, add the cornflour mixture and simmer for 5 minutes.",
+      "If using vermicelli, cook it either in the soup or separately and add before serving."
+    ],
+    "notes": [
+      "Cornflour and vermicelli are optional."
+    ],
+    "source": "Evelyn Rose, Complete International Jewish Cookbook"
+  },
+  {
+    "id": "chestnut-soup",
+    "title": "Chestnut Soup",
+    "category": "Soups",
+    "description": "A smooth chestnut soup with onion, celery and carrot, finished with cream if liked.",
+    "serves": "4-6",
+    "prepTime": null,
+    "cookTime": "45 minutes to 1 hour",
+    "ingredients": [
+      "1 lb / 450g fresh chestnuts",
+      "1 oz / 25g butter or margarine",
+      "1 onion",
+      "1 stalk celery, chopped",
+      "1 carrot, sliced or chopped",
+      "1¾-2 pints chicken stock",
+      "1/4 pint / 140 ml single cream",
+      "Salt",
+      "Freshly milled pepper",
+      "Chopped parsley, optional"
+    ],
+    "method": [
+      "Cut a slit on the flat side of each chestnut.",
+      "Cover with boiling water, reboil and simmer for 10 minutes.",
+      "Drain and peel away the outer and inner skins.",
+      "Melt the butter in a large saucepan.",
+      "Peel and finely chop the onion, add it to the pan, cover and fry gently for about 5 minutes until tender but not coloured.",
+      "Add the chestnuts, celery and carrot.",
+      "Add the stock and bring to the boil.",
+      "Cover and simmer for 45 minutes to 1 hour until the vegetables are tender.",
+      "Liquidise, blend or sieve to a purée.",
+      "Return to the pan and season with salt and plenty of pepper.",
+      "Stir in the cream and reheat until hot but not boiling.",
+      "Serve with parsley if using."
+    ],
+    "notes": [
+      "Cream is optional and can also be added in decorative swirls when serving."
+    ],
+    "source": null
+  },
+  {
+    "id": "spring-greens-and-roast-garlic-soup",
+    "title": "Spring Greens and Roast Garlic Soup",
+    "category": "Soups",
+    "description": "A green soup with roast garlic, potatoes, spring greens and cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "3 heads garlic",
+      "Olive oil",
+      "40g / 1½ oz butter",
+      "1 onion, finely chopped",
+      "2 bunches spring onions, chopped",
+      "250g / 9 oz potatoes, diced",
+      "500g / 1 lb 2 oz spring greens",
+      "1-1.5 litres chicken stock",
+      "125ml double cream"
+    ],
+    "method": [
+      "Roast the garlic for about 40-50 minutes in a preheated oven at 190°C / 375°F / Gas 5 until completely tender, adding a little water from time to time if needed.",
+      "Melt the butter in a large heavy-based saucepan.",
+      "Add the onion, spring onion and potato.",
+      "Stir so that the vegetables are coated in the butter, then add a splash of water.",
+      "Cover and let the vegetables sweat over a low heat for about 15 minutes, checking occasionally and adding a little more water if needed.",
+      "Remove the tough ribs from the spring greens and slice the leafy parts.",
+      "Add them to the pan with a splash of water and seasoning.",
+      "Cover and cook for about 4 minutes, turning the leaves occasionally.",
+      "Squeeze the soft garlic pulp from the cooked cloves into a bowl.",
+      "Add the garlic purée and the stock to the vegetables and bring to the boil.",
+      "Turn off the heat and leave to cool.",
+      "Purée the soup with the cream.",
+      "Check the seasoning and serve hot."
+    ],
+    "notes": [
+      "A little of the stock can be held back until puréeing to adjust the final consistency.",
+      "Serve with a drizzle of cream on top if liked."
+    ],
+    "source": null
+  },
+  {
+    "id": "thai-pumpkin-soup",
+    "title": "Thai Pumpkin Soup",
+    "category": "Soups",
+    "description": "A smooth pumpkin or butternut squash soup with ginger, coconut milk and basil cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "30 minutes plus simmering",
+    "ingredients": [
+      "1kg pumpkin or butternut squash, peeled, deseeded and cut into 1cm cubes",
+      "1 tbsp vegetable oil",
+      "1 onion, chopped",
+      "2.5cm piece fresh root ginger, peeled and finely chopped",
+      "4 tsp red Thai curry paste",
+      "450ml vegetable stock",
+      "400ml can coconut milk",
+      "142ml pot single cream",
+      "20g fresh basil"
+    ],
+    "method": [
+      "Preheat the oven to 180°C / Gas 4.",
+      "Place the pumpkin or squash on a non-stick baking tray, season, and roast for 30 minutes or until tender.",
+      "Meanwhile heat the oil in a medium pan and add the onion and ginger.",
+      "Cover and sauté for 10 minutes, stirring occasionally.",
+      "Stir in the curry paste and cook for 1-2 minutes.",
+      "Add the roasted pumpkin, stock and coconut milk.",
+      "Cover, bring to the boil, then simmer for 5 minutes.",
+      "Remove from the heat and cool slightly.",
+      "Purée in a food processor or blender in batches until smooth.",
+      "Return to the pan, season to taste and reheat gently.",
+      "Add a little more stock or boiling water if you want a thinner consistency.",
+      "Heat the cream and chopped basil gently in a small pan.",
+      "Serve the soup with the basil cream swirled over the top."
+    ],
+    "notes": [
+      "The source notes that cumin powder can be used instead of Thai curry paste."
+    ],
+    "source": null
+  }
+]
