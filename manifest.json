@@ -1,8 +1,8 @@
 {
-  "name": "Granny’s Recipe Book",
+  "name": "Granny's Recipe Book",
   "short_name": "Granny's Recipes",
   "description": "A collection of treasured family recipes gathered by Granny and shared for the whole family.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#F6F3EE",
