@@ -213,6 +213,40 @@ img {
   border-color: var(--navy-900);
 }
 
+.submit-row {
+  margin-top: 18px;
+  margin-bottom: 4px;
+  padding: 16px 18px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(20, 33, 61, 0.04) 0%, rgba(20, 33, 61, 0.02) 100%);
+  border: 1px solid rgba(20, 33, 61, 0.08);
+}
+
+.submit-link-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--navy-900);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 999px;
+  font-weight: 600;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+  box-shadow: 0 10px 22px rgba(20, 33, 61, 0.12);
+}
+
+.submit-link-button:hover {
+  background: var(--navy-800);
+  transform: translateY(-1px);
+}
+
+.submit-help {
+  margin: 12px 0 0;
+  color: var(--text-700);
+  line-height: 1.55;
+  font-size: 0.95rem;
+}
+
 .results-bar {
   display: flex;
   align-items: center;
