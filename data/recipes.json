@@ -1329,5 +1329,820 @@
     ],
     "notes": [],
     "source": null
+  },
+  {
+    "id": "left-over-turkey-strudel",
+    "title": "Left-over Turkey Strudel",
+    "category": "Main Dishes",
+    "description": "A puff pastry strudel filled with leftover turkey, stuffing, mushrooms and vegetables.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "1/2 lb mushrooms, chopped",
+      "1 large onion, peeled and chopped",
+      "Left-over chestnut stuffing",
+      "Left-over turkey, sliced and broken into pieces",
+      "Left-over vegetables",
+      "A few spoonfuls fresh breadcrumbs",
+      "1/2 lb puff pastry",
+      "Margarine",
+      "Milk or water",
+      "Coarse sea salt",
+      "Coarsely ground black pepper"
+    ],
+    "method": [
+      "Sauté the onion in a little margarine for about 5 minutes.",
+      "Add the chopped mushrooms and continue sautéing for another 5 minutes, then allow to cool.",
+      "Roll out the pastry into a thin large square or oblong and place on a baking tray.",
+      "Sprinkle breadcrumbs down the centre of the pastry.",
+      "Spread half the mushroom mixture on top, then add the stuffing.",
+      "Place the turkey on top and cover with the remaining mushroom mixture and any leftover vegetables.",
+      "Moisten the pastry edges with water, fold over to make a parcel and seal the ends.",
+      "Brush the top with milk or water and sprinkle with coarse salt and black pepper.",
+      "Bake at 400°F until golden brown, about 1 hour."
+    ],
+    "notes": [
+      "Asparagus tips are suggested among the leftover vegetables."
+    ],
+    "source": "Vera’s recipe"
+  },
+  {
+    "id": "beef-cranberry-casserole",
+    "title": "Beef Cranberry Casserole",
+    "category": "Main Dishes",
+    "description": "A slow-cooked beef casserole with onions, port, cinnamon, basil and cranberries.",
+    "serves": "6",
+    "prepTime": null,
+    "cookTime": "2½-3 hours",
+    "ingredients": [
+      "2 tbsp sunflower oil",
+      "2 lb / 800g braising steak, cubed",
+      "12 oz / 300g onions, sliced",
+      "1 pint / 500ml beef stock",
+      "3 tbsp plain flour",
+      "1 tbsp sugar",
+      "1 tsp salt",
+      "Freshly ground black pepper",
+      "3 tbsp port",
+      "1 level tsp ground cinnamon",
+      "1 level tsp dried basil",
+      "8 oz / 200g fresh cranberries",
+      "Freshly chopped parsley"
+    ],
+    "method": [
+      "Heat the oil in a frying pan and brown the meat for 5-10 minutes.",
+      "Transfer the meat to a large casserole dish.",
+      "Fry the onions in the pan juices until soft and add them to the casserole.",
+      "Combine the flour, salt, pepper, cinnamon and basil.",
+      "Blend this into the remaining pan juices, adding a little stock if needed.",
+      "Add the port and the rest of the stock, stirring well, and bring to the boil.",
+      "Adjust the seasoning and pour over the meat.",
+      "Stir in the cranberries, cover and cook in the oven for 2½-3 hours.",
+      "Garnish with parsley if liked."
+    ],
+    "notes": [
+      "Suggested accompaniments in the source are jacket potatoes, broccoli and sautéed courgettes."
+    ],
+    "source": null
+  },
+  {
+    "id": "beef-with-prunes",
+    "title": "Beef with Prunes",
+    "category": "Main Dishes",
+    "description": "Stewing beef braised slowly with onion, garlic, red wine and prunes.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 3 hours",
+    "ingredients": [
+      "2½ lbs stewing beef",
+      "1 medium onion",
+      "1 clove garlic",
+      "18 prunes",
+      "1/2 pint red wine",
+      "1/2 pint water",
+      "Flour",
+      "Salt",
+      "Pepper",
+      "Oil or butter"
+    ],
+    "method": [
+      "Brown cubed beef, lightly coated in flour, in hot fat.",
+      "Remove the meat and keep warm.",
+      "Add the sliced onion and chopped garlic to the pan and soften.",
+      "Add the wine and water, stir well and bring to the boil.",
+      "Pour over the meat.",
+      "Add the prunes and season with salt and pepper.",
+      "Cook in the oven at a low heat for about 3 hours, or until the meat and prunes are tender."
+    ],
+    "notes": [
+      "If no wine is available, beef stock can be used instead."
+    ],
+    "source": "Cookery Do"
+  },
+  {
+    "id": "tangy-venison-and-apricot-casserole",
+    "title": "Tangy Venison and Apricot Casserole",
+    "category": "Main Dishes",
+    "description": "Venison casserole with dried apricots, chutney, Worcestershire sauce and pistachios.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1½ hours",
+    "ingredients": [
+      "340g diced venison",
+      "40g seasoned flour",
+      "3 tbsp oil",
+      "115g onion, peeled and finely chopped",
+      "75g dried apricots",
+      "50g apricot or peach chutney",
+      "2 tbsp Worcestershire sauce",
+      "2 tbsp demerara sugar",
+      "425ml vegetable stock",
+      "Salt",
+      "Freshly ground black pepper",
+      "25g shelled pistachio nuts, chopped"
+    ],
+    "method": [
+      "Coat the venison in seasoned flour.",
+      "Heat the oil in a pan and cook the venison for about 5 minutes until browned.",
+      "Add the onion and cook for a further 2 minutes.",
+      "Transfer to an ovenproof casserole dish.",
+      "Add the apricots, chutney, Worcestershire sauce, sugar, stock, salt and pepper.",
+      "Cover and cook in a preheated oven at 160°C / 325°F / Gas 3 for about 1½ hours, stirring occasionally.",
+      "Sprinkle with chopped pistachios before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "frances-perrys-chicken-dish",
+    "title": "Frances Perry’s Chicken Dish",
+    "category": "Main Dishes",
+    "description": "Chicken baked on a bed of onion, raisins and apricots with marmalade and white wine.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Chicken pieces",
+      "1 onion, chopped",
+      "Raisins",
+      "Halved dried apricots",
+      "Marmalade",
+      "White wine",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Place the chopped onion, raisins and halved apricots in the base of a cooking tin.",
+      "Place the chicken on top.",
+      "Spread marmalade over the chicken.",
+      "Pour white wine over the top.",
+      "Season with salt and pepper.",
+      "Cook until the chicken is done."
+    ],
+    "notes": [],
+    "source": "Frances Perry"
+  },
+  {
+    "id": "margot-haas-chicken-dish",
+    "title": "Margot Haas’ Chicken Dish",
+    "category": "Main Dishes",
+    "description": "Chicken baked with sliced onion, mango chutney, mustard and pine nuts.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour 10 minutes",
+    "ingredients": [
+      "16-18 chicken pieces, legs and thighs",
+      "1 large onion, finely sliced",
+      "1 heaped tsp French mustard",
+      "1 heaped tsp tomato purée",
+      "1/2 cup warm water",
+      "2 jars green mango chutney",
+      "A handful of pine nuts",
+      "Salt",
+      "Pepper",
+      "Chicken seasoning"
+    ],
+    "method": [
+      "Arrange the chicken pieces in an oven dish, skin side up.",
+      "Season well with salt, pepper and chicken seasoning.",
+      "Cover with the sliced onion and then the mango chutney.",
+      "Rinse each chutney jar with the mustard, tomato purée and warm water.",
+      "Pour the liquid over the chicken.",
+      "Cover with foil and cook at 350-375°F / Gas 6 / 160°C fan oven for 40 minutes.",
+      "Remove the foil, add the pine nuts and return to the oven for a further 30 minutes to brown the top."
+    ],
+    "notes": [],
+    "source": "Margot Haas"
+  },
+  {
+    "id": "whole-curried-chicken-with-saffron-rice",
+    "title": "Whole Curried Chicken with Saffron Rice",
+    "category": "Main Dishes",
+    "description": "A whole chicken stuffed with curried rice, baked in curry sauce and served with saffron rice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "3-4 hours",
+    "ingredients": [
+      "1 oven-ready chicken",
+      "For the stuffing: 4oz long grain rice",
+      "For the stuffing: 1 oz butter or margarine",
+      "For the stuffing: 1 small onion, finely chopped",
+      "For the stuffing: 1 dessertspoon curry powder",
+      "For the stuffing: 1/2 tsp salt",
+      "For the curry sauce: 1½ oz butter or margarine",
+      "For the curry sauce: 1 small onion, finely chopped",
+      "For the curry sauce: 3 tbsp curry powder",
+      "For the curry sauce: 1 rounded tbsp plain flour",
+      "For the curry sauce: 1 pint chicken stock",
+      "For the curry sauce: 1 tbsp mango chutney",
+      "For the curry sauce: 1 rounded tbsp soft brown sugar",
+      "For the curry sauce: juice of 1/2 lemon",
+      "For the curry sauce: 1/2 tsp salt",
+      "For the saffron rice: 8oz long grain rice",
+      "For the saffron rice: a pinch of saffron",
+      "For the saffron rice: a pinch of granulated sugar",
+      "For the saffron rice: 2 tbsp hot water"
+    ],
+    "method": [
+      "Prepare the stuffing by boiling the rice briefly, then frying the onion in butter until soft.",
+      "Stir in the curry powder, rice and salt.",
+      "Stuff the chicken and close the cavity.",
+      "For the sauce, melt the butter, cook the onion gently until soft, then stir in the curry powder and cook for 5 minutes.",
+      "Stir in the flour, then gradually add the stock.",
+      "Bring to the boil and add the chutney, sugar, lemon juice and salt.",
+      "Cover and simmer gently for about 30 minutes.",
+      "Strain the sauce over the chicken in a casserole.",
+      "Cover and cook in a slow oven for 3-4 hours, basting occasionally.",
+      "To make the saffron rice, cook the rice separately and colour it with saffron infused with sugar and hot water.",
+      "Serve the chicken with the sauce and saffron rice."
+    ],
+    "notes": [
+      "The source notes that the longer the chicken cooks, the better the flavour."
+    ],
+    "source": "Avril Fox"
+  },
+  {
+    "id": "chappati",
+    "title": "Chappati",
+    "category": "Main Dishes",
+    "description": "Simple wholemeal flatbreads to serve with curried dishes.",
+    "serves": "Makes 6",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "12oz whole-wheat flour",
+      "1 level tsp salt",
+      "Water to mix"
+    ],
+    "method": [
+      "Place the flour and salt in a bowl.",
+      "Gradually add enough water to make a stiff dough.",
+      "Knead until smooth and elastic.",
+      "Leave to rest for about 1 hour if possible.",
+      "Divide into pieces and roll each into a thin circle.",
+      "Cook on an ungreased hot heavy frying pan until lightly browned on both sides.",
+      "Place briefly under a hot grill so the chappati puffs up."
+    ],
+    "notes": [
+      "Serve immediately."
+    ],
+    "source": null
+  },
+  {
+    "id": "chicken-bearnaise",
+    "title": "Chicken Bearnaise",
+    "category": "Main Dishes",
+    "description": "A whole chicken browned in butter and oil, baked with garlic and stock.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 1 hour to 1 hour 15 minutes",
+    "ingredients": [
+      "1 medium-sized chicken",
+      "1/2 lemon",
+      "3oz butter",
+      "1 tbsp olive oil",
+      "8oz large garlic cloves",
+      "5 fl oz chicken stock",
+      "Sea salt",
+      "Black pepper"
+    ],
+    "method": [
+      "Heat the oven to 400°F / 200°C / Gas 6.",
+      "Rub the chicken with the lemon and season with salt and pepper.",
+      "Heat the butter and oil in a large casserole and brown the chicken all over.",
+      "Boil the garlic cloves for 1 minute, cool them and slip off the skins.",
+      "Scatter the garlic around the chicken with the stock.",
+      "Cover and bake for 45 minutes.",
+      "Remove the lid, baste the chicken, then return uncovered to the oven for 15-30 minutes until browned and cooked through.",
+      "Rest the chicken briefly before carving.",
+      "Whisk the juices to make a gravy and serve with the garlic."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "balsamic-chicken-with-porcini-mushrooms-and-sun-dried-cherries",
+    "title": "Balsamic Chicken with Porcini Mushrooms and Sun-dried Cherries",
+    "category": "Main Dishes",
+    "description": "Chicken thighs simmered with porcini, pancetta, balsamic vinegar, red wine and dried cherries.",
+    "serves": "4-6",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "5 fl oz / 125ml boiling water",
+      "1 oz / 30g dried porcini mushrooms",
+      "6 boneless, skinless chicken thighs",
+      "2 tbsp plain flour",
+      "1 tsp salt",
+      "1 tsp fresh ground pepper",
+      "4 oz / 110g diced pancetta or chopped smoked bacon",
+      "1 large onion, finely chopped",
+      "4 cloves garlic, finely chopped",
+      "15 dried cherries, chopped roughly",
+      "3 fl oz / 75ml balsamic vinegar",
+      "10 fl oz / 250ml red wine",
+      "5 fl oz / 125ml chicken stock",
+      "Flat-leaf parsley"
+    ],
+    "method": [
+      "Pour the boiling water over the porcini mushrooms and leave for 30 minutes.",
+      "Strain, reserving the liquid, and chop the mushrooms.",
+      "Dredge the chicken in seasoned flour.",
+      "Fry the pancetta until crisp, then remove it.",
+      "Brown the chicken in the bacon fat and remove it.",
+      "Sauté the onion and garlic until soft.",
+      "Stir in the porcini mushrooms, cherries, balsamic vinegar, red wine, stock and some of the reserved porcini liquid.",
+      "Bring to the boil and simmer for 10 minutes.",
+      "Return the chicken to the pan and simmer for about 30 minutes.",
+      "Sprinkle with chopped parsley before serving."
+    ],
+    "notes": [
+      "The source notes that the sauce can be thickened with a little flour mixed with water."
+    ],
+    "source": null
+  },
+  {
+    "id": "anthonys-curry-recipe",
+    "title": "Anthony’s Curry Recipe",
+    "category": "Main Dishes",
+    "description": "A flexible curry using chicken or vegetables with ginger, garlic, spices and coconut.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Chicken or vegetables",
+      "Oil",
+      "Chilli, to taste",
+      "Crushed garlic, to taste",
+      "Fresh ginger, cut into thin strips",
+      "Cumin, coriander powder and/or garam masala",
+      "Salt",
+      "Pepper",
+      "Coconut milk or cream and desiccated coconut",
+      "Fresh coriander"
+    ],
+    "method": [
+      "Heat a fair amount of oil in a pan.",
+      "Fry the spices, ginger and garlic slowly to develop the flavour.",
+      "Add the meat or chicken first, then add vegetables in order of cooking time.",
+      "When the curry is fried and partly cooked, add the coconut-based sauce and fresh coriander.",
+      "Continue cooking until everything is ready.",
+      "Serve with rice."
+    ],
+    "notes": [
+      "Suggested Thai-style combinations include chicken with green beans or mixed vegetables with pumpkin or cucumber.",
+      "Suggested Indian-style variation includes chicken and spinach."
+    ],
+    "source": null
+  },
+  {
+    "id": "chicken-livers-with-rice",
+    "title": "Chicken Livers with Rice",
+    "category": "Main Dishes",
+    "description": "Chicken livers cooked with onion, mushrooms, tomato and sherry, served on rice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb chicken livers",
+      "1 onion",
+      "2 oz butter or margarine",
+      "1 tbsp vegetable oil",
+      "4 oz mushrooms, thinly sliced",
+      "1 dessertspoon tomato purée",
+      "1-2 tomatoes, seeded and chopped",
+      "3/8 pint stock",
+      "1 tbsp sherry"
+    ],
+    "method": [
+      "Sauté the chopped onion in butter and oil until transparent.",
+      "Add the livers, washed, dried and halved, and season with salt and pepper.",
+      "Cook for about 1 minute, then remove and keep hot.",
+      "Add the mushrooms to the pan and simmer briefly, then add them to the livers.",
+      "Add the tomato purée, tomato, stock and sherry to the pan and simmer for a few minutes.",
+      "Return the livers and mushrooms to the pan and cook through.",
+      "Serve on a bed of rice."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "tasty-chicken-livers",
+    "title": "Tasty Chicken Livers",
+    "category": "Main Dishes",
+    "description": "Chicken livers with onion, mushrooms, tomato and sherry, served hot on rice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb chicken livers",
+      "1 large onion, chopped",
+      "2 oz butter",
+      "1 tsp vegetable oil",
+      "4 oz mushrooms, thickly sliced",
+      "1 dessertspoon tomato purée",
+      "1-2 tomatoes, deseeded and chopped",
+      "3/8 pint stock",
+      "1 tbsp sherry",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Simmer the chopped onion in the butter and oil until transparent.",
+      "Add the livers, washed, dried and halved, season with salt and pepper, and cook briefly.",
+      "Remove the livers and keep hot.",
+      "Simmer the mushrooms in the same pan and add them to the livers.",
+      "Add the tomato purée, tomato, stock and sherry to the pan and simmer for a few minutes.",
+      "Return the mushrooms and livers to the pan and warm through.",
+      "Serve on a bed of rice."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "duck-in-orange-sauce",
+    "title": "Duck in Orange Sauce",
+    "category": "Main Dishes",
+    "description": "Roast duck served with a citrus and brandy sauce.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 2½ hours",
+    "ingredients": [
+      "1 duck",
+      "1 large onion",
+      "1 clove garlic",
+      "Honey",
+      "Salt",
+      "Pepper",
+      "For the sauce: 2 oranges",
+      "For the sauce: 1 lemon",
+      "For the sauce: 1 tbsp brandy",
+      "For the sauce: 1 tsp arrowroot",
+      "For the sauce: 1/4 pint chicken stock"
+    ],
+    "method": [
+      "Heat the oven to a hot setting.",
+      "Roast the duck for about 3/4 hour with a little water, pricking the skin frequently to reduce the fat.",
+      "Pour off the fat.",
+      "Rub the duck with honey and season with salt and pepper.",
+      "Slice the onion, crush the garlic and add both to the duck with a little more water.",
+      "Roast for a further 1¾ hours.",
+      "For the sauce, squeeze the oranges and lemon into a saucepan with the brandy and chicken stock.",
+      "Bring to the boil and thicken with arrowroot mixed with a little cold water.",
+      "Cut the duck into portions and pour over the sauce."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "wienner-schnitzel-and-chicken-escalopes",
+    "title": "Wienner Schnitzel and Chicken Escalopes",
+    "category": "Main Dishes",
+    "description": "Crumbed veal or chicken escalopes fried until golden.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Veal escalopes",
+      "Oregano",
+      "Salt",
+      "Pepper",
+      "Egg, beaten with a little cold water",
+      "Medium matzo meal or breadcrumbs",
+      "Margarine or fat for frying"
+    ],
+    "method": [
+      "Flatten the escalopes between cling film.",
+      "Mix the dry ingredients and coat the escalopes on both sides.",
+      "Dip in the beaten egg.",
+      "Coat again in the crumb mixture.",
+      "Fry in margarine or fat until golden on both sides."
+    ],
+    "notes": [
+      "For chicken escalopes, omit the oregano and dip first in seasoned flour, then egg, then matzo meal."
+    ],
+    "source": null
+  },
+  {
+    "id": "blanquette-of-veal",
+    "title": "Blanquette of Veal",
+    "category": "Main Dishes",
+    "description": "A classic veal stew with a pale creamy sauce and lemon finish.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 lb breast of veal",
+      "2 onions",
+      "2 carrots",
+      "A large bouquet garni",
+      "A slice of lemon",
+      "For the sauce: 1½ oz butter or margarine",
+      "For the sauce: 1½ oz plain flour",
+      "For the sauce: 1/4 pint single cream or creamy milk",
+      "For the sauce: 1-2 egg yolks",
+      "For the sauce: a squeeze of lemon juice"
+    ],
+    "method": [
+      "Cut the veal into pieces and soak in plenty of cold salted water overnight.",
+      "Drain and cover with fresh cold water, add the lemon slice and salt, then bring to the boil.",
+      "Drain and refresh.",
+      "Return to the pan, barely cover with cold water, bring slowly to the boil and skim well.",
+      "Add a little salt and the bouquet garni, then simmer for about 45 minutes.",
+      "Add the quartered vegetables and continue to simmer until the meat is very tender.",
+      "Strain off the liquor and reserve it, keeping the meat and vegetables warm.",
+      "For the sauce, melt the butter, stir in the flour and cook briefly without colouring.",
+      "Blend in 1 pint of the veal stock and return to the heat.",
+      "Stir until boiling and cook for 3-4 minutes.",
+      "Add half the milk or cream and adjust seasoning.",
+      "Mix the yolks with the remaining milk, add as a liaison, and finish with lemon juice.",
+      "Remove the bouquet garni and pour the sauce over the meat and vegetables.",
+      "Warm through gently before serving."
+    ],
+    "notes": [
+      "Suggested accompaniments are boiled rice or potato purée."
+    ],
+    "source": null
+  },
+  {
+    "id": "beef-burgers",
+    "title": "Beef Burgers",
+    "category": "Main Dishes",
+    "description": "Simple homemade beef burgers with onion, egg and matzo meal.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb minced beef",
+      "Salt and pepper",
+      "2 eggs, beaten",
+      "1/2-1 onion, chopped",
+      "1 tbsp medium matzo meal"
+    ],
+    "method": [
+      "Combine all the ingredients thoroughly.",
+      "Leave for about half an hour.",
+      "Form into patties.",
+      "Fry gently in shallow fat until browned."
+    ],
+    "notes": [
+      "For 2 lb beef, double the other ingredients but use 3 eggs."
+    ],
+    "source": null
+  },
+  {
+    "id": "meatballs-in-tomato-sauce",
+    "title": "Meatballs in Tomato Sauce",
+    "category": "Main Dishes",
+    "description": "Minced beef meatballs cooked in a tomato and garlic sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "40-50 minutes",
+    "ingredients": [
+      "1½ lb minced beef",
+      "1 large onion",
+      "2 eggs",
+      "2 oz breadcrumbs or medium matzo meal",
+      "1 clove garlic",
+      "2 tbsp tomato purée",
+      "14 oz tinned tomatoes",
+      "1 tbsp Italian seasoning",
+      "1 tsp sugar",
+      "Oil if required",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Mix the beef with 1 grated onion, beaten egg, breadcrumbs, salt and pepper to make meatballs.",
+      "Soften the remaining chopped onion and garlic in a little oil.",
+      "Add the meatballs and brown them.",
+      "Drain off any excess fat.",
+      "Add the tomato purée, tomatoes, Italian seasoning, sugar, salt and pepper.",
+      "Bring to the boil.",
+      "Cover and simmer for 40 minutes, or bake in the oven at 350°F / 160°C / Gas 4 for 50 minutes."
+    ],
+    "notes": [
+      "Add a little beef stock if the sauce reduces too much."
+    ],
+    "source": null
+  },
+  {
+    "id": "spaghetti-alla-bolognese-or-stuffed-peppers-i",
+    "title": "Spaghetti alla Bolognese or Stuffed Peppers I",
+    "category": "Main Dishes",
+    "description": "A meat sauce that can be served with spaghetti or used to fill peppers.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 45 minutes plus pasta or pepper baking time",
+    "ingredients": [
+      "2 onions",
+      "1 carrot or 2 oz mushrooms",
+      "1 stick celery",
+      "1-2 cloves garlic",
+      "3 tbsp olive oil",
+      "1 oz butter",
+      "8 oz raw minced beef",
+      "1 glass dry wine",
+      "1 small tin Italian tomatoes",
+      "1 heaped tbsp tomato purée",
+      "Salt",
+      "Pepper",
+      "2 bay leaves",
+      "Grated Parmesan cheese",
+      "8 oz spaghetti"
+    ],
+    "method": [
+      "Coarsely mince the onion, carrot and celery.",
+      "Heat the oil and butter and gently fry the vegetables and garlic for 5 minutes.",
+      "Add the minced beef and cook for a further 5 minutes, stirring continuously.",
+      "Add the tomatoes, tomato purée, wine and bay leaves.",
+      "Simmer for about 3/4 hour.",
+      "Remove the bay leaves and season to taste.",
+      "Cook the pasta separately in boiling salted water, drain and serve with the sauce and Parmesan."
+    ],
+    "notes": [
+      "For stuffed peppers, partly cook the peppers first, make the sauce thicker by cooking it down further, fill the peppers and bake at 350°F / 160°C / Gas 4 for 20-30 minutes."
+    ],
+    "source": null
+  },
+  {
+    "id": "stuffed-peppers-ii",
+    "title": "Stuffed Peppers II",
+    "category": "Main Dishes",
+    "description": "Peppers filled with minced beef, onion and walnuts in a simple tomato sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 50 minutes",
+    "ingredients": [
+      "1 lb minced beef",
+      "1 large onion, chopped",
+      "1 oz walnuts, chopped",
+      "A pinch of cinnamon",
+      "6 medium peppers",
+      "2 tbsp tomato purée",
+      "1/4 pint water",
+      "Oil if required",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Soften the chopped onion in a little oil.",
+      "Add the beef and brown it.",
+      "Drain off excess fat.",
+      "Cut the stem end off the peppers and remove the seeds.",
+      "Stuff the peppers with the meat mixture.",
+      "Place in a shallow ovenproof dish.",
+      "Mix the tomato purée with water, salt and pepper and pour over the peppers.",
+      "Bake covered at 350°F / 160°C / Gas 4 for 30 minutes, then uncover and cook for a further 20 minutes."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "vals-fruity-chicken",
+    "title": "Val’s Fruity Chicken",
+    "category": "Main Dishes",
+    "description": "Chicken marinated with vinegar, olives, capers, prunes and apricots, then baked with wine and sugar.",
+    "serves": null,
+    "prepTime": "Overnight marinating",
+    "cookTime": "30-40 minutes",
+    "ingredients": [
+      "8 chicken breasts",
+      "4 cloves garlic, crushed",
+      "3 tsp dried oregano",
+      "Salt",
+      "Pepper",
+      "1 cup red wine vinegar",
+      "1 cup olive oil",
+      "1 cup pitted prunes, quartered",
+      "1 cup dried apricots, cut into pieces",
+      "1 cup capers",
+      "1 cup green olives, cut up",
+      "1 cup brown sugar",
+      "1 cup white wine"
+    ],
+    "method": [
+      "Mix all ingredients except the sugar and white wine.",
+      "Place the chicken in an ovenproof dish and pour over the marinade.",
+      "Leave to marinate overnight, turning the chicken occasionally if possible.",
+      "Before cooking, add the sugar and white wine and mix.",
+      "Bake uncovered at 180°C for 30-40 minutes until cooked."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "barbequed-lamb-ribs",
+    "title": "Barbequed Lamb Ribs",
+    "category": "Main Dishes",
+    "description": "Lamb ribs marinated in a sweet and savoury glaze, then baked and browned.",
+    "serves": null,
+    "prepTime": "About 1 hour marinating",
+    "cookTime": "1¼ hours",
+    "ingredients": [
+      "2 lb lamb ribs cut into strips",
+      "3 tbsp honey",
+      "4 tbsp soy sauce",
+      "2 tsp white vinegar",
+      "3 tbsp duck sauce or chicken stock",
+      "2 tbsp oil",
+      "4 tbsp ginger ale",
+      "1 clove garlic"
+    ],
+    "method": [
+      "Mix all ingredients except the ribs.",
+      "Marinate the ribs in the mixture for about an hour.",
+      "Put the ribs on a rack and bake at 350°F for 1¼ hours, basting frequently.",
+      "Finish briefly under the grill to brown if needed."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "slow-cooked-lamb-with-puy-lentils",
+    "title": "Slow-cooked Lamb with Puy Lentils",
+    "category": "Main Dishes",
+    "description": "Slow-roasted lamb shoulder with onion, garlic, wine, lentils, tomatoes and mint.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "About 3 hours 40 minutes",
+    "ingredients": [
+      "1.5-1.8kg whole shoulder of lamb",
+      "1 medium onion, sliced",
+      "3 cloves garlic, chopped",
+      "2 tsp dried oregano",
+      "Juice of 1 lemon",
+      "2 tbsp olive oil",
+      "300ml red or white wine",
+      "175g Puy lentils",
+      "50g sun-ripened tomatoes",
+      "1 pack fresh mint",
+      "Salt",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Heat the oven to a high setting.",
+      "Season the lamb well with salt and pepper.",
+      "Scatter the onion in the base of a casserole and place the lamb on top.",
+      "Sprinkle with the garlic, oregano, lemon juice, olive oil and wine.",
+      "Season again and cover tightly.",
+      "Cook for 20 minutes, then reduce the heat and continue cooking for about 3 hours until the lamb is tender.",
+      "Cook the lentils separately in water until just tender, then drain.",
+      "Remove the lamb from the oven, mix the lentils, tomatoes and mint into the juices around the meat.",
+      "Cover again and return to the oven for a further 20 minutes.",
+      "Pull the lamb apart or carve and serve with the lentils."
+    ],
+    "notes": [
+      "The source notes that the lentils can be added earlier with extra liquid, but then need checking during cooking."
+    ],
+    "source": null
+  },
+  {
+    "id": "kleftico",
+    "title": "Kleftico",
+    "category": "Main Dishes",
+    "description": "A very simple slow-roasted lamb dish with herbs, spices and root vegetables.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "Slow roast until cooked",
+    "ingredients": [
+      "Lamb shanks",
+      "Cinnamon sticks",
+      "Cloves",
+      "Bay leaf",
+      "Thyme",
+      "Onion",
+      "Carrot",
+      "Parsnip",
+      "A little water"
+    ],
+    "method": [
+      "Place all the ingredients in a roasting or casserole dish.",
+      "Add a little water.",
+      "Slow roast in a low oven until the lamb is tender and cooked through."
+    ],
+    "notes": [],
+    "source": null
   }
 ]
