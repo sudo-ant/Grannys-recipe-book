@@ -604,5 +604,471 @@
       "The source notes that cumin powder can be used instead of Thai curry paste."
     ],
     "source": null
+  },
+  {
+    "id": "grilled-summer-vegetable-timbales",
+    "title": "Grilled Summer Vegetable Timbales",
+    "category": "Starters",
+    "description": "A layered starter of aubergine, tomato, mozzarella and avocado with basil dressing.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "20-30 minutes plus chilling",
+    "ingredients": [
+      "1 medium aubergine",
+      "4 ripe plum tomatoes",
+      "3 tbsp extra virgin olive oil",
+      "1 tbsp balsamic vinegar",
+      "2 tbsp chopped basil",
+      "1 clove garlic, chopped",
+      "100g / 4oz buffalo mozzarella, thinly sliced",
+      "1 large avocado, stoned, peeled and sliced",
+      "Salt",
+      "Freshly ground black pepper",
+      "Salad leaves to serve (optional)"
+    ],
+    "method": [
+      "Heat the oven to 200°C / 400°F / Gas 6.",
+      "Cut the aubergine lengthways into thin slices about 6mm thick.",
+      "Quarter and de-seed the tomatoes.",
+      "Place the aubergine and tomatoes on a baking sheet, drizzle with 1 tbsp of oil and season.",
+      "Roast for about 20-30 minutes until golden, turning once.",
+      "Use the aubergine slices to line four small ramekins, leaving the ends hanging over the edge.",
+      "Whisk together the balsamic vinegar, basil, garlic and remaining olive oil with seasoning.",
+      "Layer the mozzarella, avocado and tomatoes in the ramekins, pressing down and drizzling with the dressing as you go.",
+      "Fold the aubergine ends over the top and press down well.",
+      "Cover and chill until ready to serve.",
+      "Turn out onto serving dishes and garnish with salad leaves if using."
+    ],
+    "notes": [
+      "Based on the classic combination of tomato, mozzarella and avocado."
+    ],
+    "source": null
+  },
+  {
+    "id": "herring-salad",
+    "title": "Herring Salad",
+    "category": "Starters",
+    "description": "A chopped salad of pickled herrings, beetroot, potato, apple and cucumber bound with salad cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 jar pickled herrings with onions",
+      "1 medium beetroot, cooked",
+      "2 medium potatoes, boiled",
+      "1 or 2 cooking apples or sharp eating apples",
+      "2 pickled cucumbers",
+      "1 egg, hard-boiled",
+      "Chopped nuts",
+      "Raisins",
+      "2 or 3 tbsp salad cream, to taste"
+    ],
+    "method": [
+      "Drain the pickled herrings and onions, and drain the pickled cucumbers.",
+      "Chop the herrings, beetroot, potatoes, apples, cucumbers and egg finely.",
+      "Add chopped nuts and raisins.",
+      "Mix with salad cream to taste.",
+      "Adjust the balance of ingredients to your liking before serving."
+    ],
+    "notes": [
+      "Can also include salt, pepper, onions, vinegar or wine if liked.",
+      "The source notes that there should be at least seven ingredients excluding the salad cream."
+    ],
+    "source": "Hedwig Wolff"
+  },
+  {
+    "id": "herrings-with-apple-in-sour-cream",
+    "title": "Herrings with Apple in Sour Cream",
+    "category": "Starters",
+    "description": "Rollmops with apple and onion mixed into sour cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 jar rollmops with onion",
+      "1 eating apple with skin, quartered and cored",
+      "1 carton sour cream",
+      "Sugar to taste"
+    ],
+    "method": [
+      "Dry the herrings and onions on kitchen paper.",
+      "Cut the herrings, onions and apple into pieces.",
+      "Mix with the sour cream.",
+      "Add a little sugar to taste."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "egg-and-mushroom-ramekins",
+    "title": "Egg and Mushroom Ramekins",
+    "category": "Starters",
+    "description": "Baked eggs with mushrooms, cream and Parmesan in individual ramekins.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "15-20 minutes",
+    "ingredients": [
+      "Button mushrooms, sliced",
+      "1 egg per ramekin",
+      "Double cream",
+      "Parmesan cheese",
+      "Salt",
+      "Pepper",
+      "Butter"
+    ],
+    "method": [
+      "Put a knob of butter in each ramekin.",
+      "Add some sliced mushrooms to each ramekin.",
+      "Crack an egg on top.",
+      "Cover with cream.",
+      "Sprinkle generously with Parmesan.",
+      "Season with salt and pepper.",
+      "Bake in a preheated oven at 350°F / 160°C for 15-20 minutes."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "chopped-liver",
+    "title": "Chopped Liver",
+    "category": "Starters",
+    "description": "A traditional chopped liver mixture with onions and hard-boiled eggs.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1½ lb chicken liver",
+      "3-4 hard-boiled eggs",
+      "3 medium onions",
+      "Salt and black pepper to taste",
+      "Chicken fat or sunflower oil"
+    ],
+    "method": [
+      "Wash and drain the livers and remove the outer skin and fat.",
+      "Fry the onions in fat until soft, then add the chicken livers.",
+      "Fry gently until cooked, then allow to cool.",
+      "Put the livers and eggs through a mincer.",
+      "Mix with enough fat or oil to bind.",
+      "Refrigerate before serving."
+    ],
+    "notes": [
+      "Decorate with sieved hard-boiled egg and serve with challah."
+    ],
+    "source": null
+  },
+  {
+    "id": "chopped-liver-en-croute",
+    "title": "Chopped Liver en Croute",
+    "category": "Starters",
+    "description": "Chopped liver wrapped in puff pastry and baked.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Chopped liver",
+      "Puff pastry"
+    ],
+    "method": [
+      "Use about 1½ lb liver mixture to 1 lb puff pastry.",
+      "Roll out the puff pastry into a rectangle.",
+      "Shape the chopped liver into a sausage and place it on the pastry.",
+      "Roll the pastry around the liver and seal.",
+      "Bake at 400°F / 170°C until cooked."
+    ],
+    "notes": [
+      "Serve hot with lettuce leaves, tomato and hot barbecue sauce."
+    ],
+    "source": null
+  },
+  {
+    "id": "egg-and-onion",
+    "title": "Egg and Onion",
+    "category": "Starters",
+    "description": "A simple chopped egg mixture with onion and seasoning.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "8 hard-boiled eggs",
+      "1 onion",
+      "Additional fat and/or mayonnaise for binding",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Chop the eggs.",
+      "Prepare the onion, softened first if preferred.",
+      "Add the onion and seasoning to the eggs.",
+      "Mix with fat or mayonnaise to bind."
+    ],
+    "notes": [
+      "The onion is nicer if softened first in chicken fat or sunflower margarine."
+    ],
+    "source": null
+  },
+  {
+    "id": "egg-and-mushroom-en-cocotte",
+    "title": "Egg and Mushroom en Cocotte",
+    "category": "Starters",
+    "description": "Eggs baked over mushrooms with cream and Parmesan.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "15-20 minutes",
+    "ingredients": [
+      "Butter or margarine",
+      "Button mushrooms, sliced",
+      "1 egg per ramekin",
+      "Double cream",
+      "Parmesan cheese",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Put a small knob of butter or margarine in each ramekin.",
+      "Place sliced mushrooms in the bottom of each.",
+      "Add one egg on top.",
+      "Season with salt and pepper.",
+      "Add a layer of double cream.",
+      "Sprinkle with Parmesan cheese.",
+      "Cook in a preheated oven at 350°F / 160°C for 15-20 minutes."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "egg-and-chicken-livers-en-cocotte",
+    "title": "Egg and Chicken Livers en Cocotte",
+    "category": "Starters",
+    "description": "Baked eggs topped with a chicken liver sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "15-20 minutes plus finishing",
+    "ingredients": [
+      "Butter or margarine",
+      "1 egg per ramekin",
+      "Chicken livers",
+      "Cornflour",
+      "Water",
+      "Salt",
+      "Pepper",
+      "Tomato ketchup",
+      "Parsley"
+    ],
+    "method": [
+      "Put a small knob of butter or margarine in each ramekin.",
+      "Place one egg in each ramekin.",
+      "Cook for 15-20 minutes at 350°F.",
+      "Cut the chicken livers into pieces and fry them.",
+      "Thicken with cornflour mixed with water.",
+      "Season with salt and pepper and add some tomato ketchup.",
+      "Pour the liver mixture over the cooked eggs.",
+      "Garnish with chopped parsley."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "barbecued-ribs-i",
+    "title": "Barbecued Ribs I",
+    "category": "Starters",
+    "description": "Lamb ribs marinated in a sweet and savoury sauce, then baked.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "1¼ hours",
+    "ingredients": [
+      "2 lbs lamb ribs, cut into strips",
+      "3 tbsp honey",
+      "4 tbsp soy sauce",
+      "2 tsp white vinegar",
+      "3 tbsp duck sauce",
+      "2 tbsp oil",
+      "1/4 cup ginger ale",
+      "Garlic, crushed"
+    ],
+    "method": [
+      "Mix all ingredients except the ribs.",
+      "Marinate the ribs in the mixture for about an hour.",
+      "Place the ribs on a rack.",
+      "Bake at 350°F / 160°C for 1¼ hours, basting frequently.",
+      "If needed, put under the grill briefly at the end to brown."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "barbecued-ribs-ii",
+    "title": "Barbecued Ribs II",
+    "category": "Starters",
+    "description": "A quick barbecue sauce for ribs.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 tbsp brown sugar",
+      "1 tbsp wine vinegar",
+      "4 tbsp brown sauce",
+      "2 tbsp tomato ketchup",
+      "Soy sauce",
+      "Worcestershire sauce",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Warm all the ingredients together until combined."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "fish-cocktail",
+    "title": "Fish Cocktail",
+    "category": "Starters",
+    "description": "Flaked fish with orange, lettuce and a pink mayonnaise sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1½ lb / 680g cod or haddock fillets",
+      "1 orange, peeled, segmented and cut into pieces",
+      "1 onion",
+      "Parsley",
+      "Lemon juice",
+      "Lettuce",
+      "Paprika",
+      "For the sauce: 4 tbsp mayonnaise",
+      "For the sauce: 1 tbsp cream",
+      "For the sauce: 1-1½ tbsp tomato sauce",
+      "For the sauce: a few drops Worcestershire sauce"
+    ],
+    "method": [
+      "Boil the fish with the onion, parsley and lemon juice.",
+      "Mix the sauce ingredients together.",
+      "Shred lettuce into glasses or serving dishes.",
+      "Flake the fish and mix with the orange pieces.",
+      "Place the fish mixture on top of the lettuce.",
+      "Pour over the sauce and sprinkle with paprika."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "whitebait",
+    "title": "Whitebait",
+    "category": "Starters",
+    "description": "Whitebait lightly coated and quickly deep fried.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "1-2 minutes",
+    "ingredients": [
+      "Whitebait",
+      "Milk",
+      "Flour"
+    ],
+    "method": [
+      "Dip the whitebait in milk.",
+      "Shake in a cloth with flour until lightly coated.",
+      "Deep fry for 1-2 minutes."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "piperonata-starter",
+    "title": "Piperonata",
+    "category": "Starters",
+    "description": "Soft peppers, tomatoes and onion cooked gently with garlic and a little sugar.",
+    "serves": "4-6",
+    "prepTime": null,
+    "cookTime": "About 10 minutes or longer to soften fully",
+    "ingredients": [
+      "1 oz / 25g unsalted butter or margarine",
+      "2 tbsp / 30ml olive oil",
+      "1 onion, peeled and finely sliced",
+      "6 large red, green and yellow peppers, seeded, cored and cut into thin strips",
+      "8 large tomatoes, skinned and coarsely chopped",
+      "1 large clove garlic, peeled and crushed",
+      "Salt",
+      "Freshly ground pepper",
+      "2 tsp castor sugar"
+    ],
+    "method": [
+      "Sweat the onion and peppers with the butter and olive oil in a heavy-based pan.",
+      "Cover and cook until the vegetables are soft but not brown.",
+      "Add the tomatoes, garlic, seasoning and sugar.",
+      "Cover and continue cooking over a very low heat, stirring occasionally, until the mixture is soft and the juices have largely evaporated."
+    ],
+    "notes": [
+      "Serve hot or cold, but not chilled."
+    ],
+    "source": "Anton Mosimann Naturally"
+  },
+  {
+    "id": "aubergine-dip-i",
+    "title": "Aubergine Dip I",
+    "category": "Dips",
+    "description": "A simple blended aubergine dip with onion and seasoning.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Aubergine",
+      "A few drops olive oil",
+      "Salt",
+      "Pepper",
+      "Dried or dried fried onion",
+      "Garlic salt if desired"
+    ],
+    "method": [
+      "Prick the aubergine and cook it whole in the microwave.",
+      "Blend with the remaining ingredients.",
+      "Serve cold."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "aubergine-dip-ii",
+    "title": "Aubergine Dip II",
+    "category": "Dips",
+    "description": "A blended aubergine dip with spring onion and salad cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Aubergine",
+      "Spring onion",
+      "A few tbsp salad cream",
+      "Seasoning if required"
+    ],
+    "method": [
+      "Wash and slice the aubergine, removing the skin if preferred.",
+      "Cook in the microwave until soft and allow to cool.",
+      "Blend with the spring onion and enough salad cream to taste.",
+      "Season if needed and serve cold."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "liptauer-cheese",
+    "title": "Liptauer Cheese",
+    "category": "Dips",
+    "description": "A quick cheese spread with paprika and flavoured cream cheeses.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Paprika",
+      "1 cream cheese",
+      "1 cream cheese with garlic",
+      "1 cream cheese with chives"
+    ],
+    "method": [
+      "Mix all the ingredients together until blended."
+    ],
+    "notes": [
+      "Pickled cucumbers or other additions can be included."
+    ],
+    "source": null
   }
 ]
