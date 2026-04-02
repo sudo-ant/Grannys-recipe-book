@@ -3782,8 +3782,8 @@
     "source": null
   },
   {
-    "id": "round-chocolate-and-plain-cake-marble-cake",
-    "title": "Round Chocolate and Plain Cake – Marble Cake",
+    "id": "marble-cake",
+    "title": "Marble Cake, and variations",
     "category": "Desserts and Baking",
     "description": "A marble cake with chocolate and lemon batters swirled together.",
     "serves": null,
@@ -3812,7 +3812,10 @@
       "Bake for 55-60 minutes."
     ],
     "notes": [
-      "The source includes several alternative flavour variations."
+      "Cherry Cake variation: add 6 oz glacé cherries and 2 oz ground almonds.",
+      "Walnut Cake variation: add 4 oz chopped walnuts and a few drops of vanilla essence.",
+      "Morello Cherry Cake variation: add 6 oz drained Morello cherries and 2 oz ground almonds (optional). Use tinned, bottled or fresh stoned cherries.",
+      "Cinnamon Filling variation: mix 1 oz cocoa, 2 oz ground almonds, 1 oz castor sugar and 1 pinch of mixed spice. Make the cake mixture without flavouring either half. Put half the cake mixture into a greased and floured tin, spread the filling mixture over it, then cover with the remaining cake mixture before baking."
     ],
     "source": "Anne Kershen"
   },
@@ -4410,9 +4413,7 @@
       "Mix all the ingredients together.",
       "Heat gently before serving."
     ],
-    "notes": [
-      "The source text appears to repeat 'brown sauce'; this version keeps the intended ingredients concise."
-    ],
+    "notes": [],
     "source": null
   },
   {
@@ -4864,9 +4865,7 @@
       "Add the remaining spring onions at the end if you like.",
       "Adjust the seasoning to taste and serve."
     ],
-    "notes": [
-      "The source title includes coconut, but the source ingredient list does not include coconut milk or cream."
-    ],
+    "notes": [],
     "source": null
   },
   {
@@ -4891,9 +4890,7 @@
       "Simmer for 10-15 minutes.",
       "Blend until smooth and serve hot."
     ],
-    "notes": [
-      "The source title appears as 'Leel and Potato Soup'; standardised here to 'Leek and Potato Soup'."
-    ],
+    "notes": [],
     "source": null
   },
   {
