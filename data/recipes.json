@@ -2132,5 +2132,567 @@
     ],
     "notes": [],
     "source": null
+  },
+  {
+    "id": "asparagus-risotto",
+    "title": "Asparagus Risotto",
+    "category": "Sides and Salads",
+    "description": "A simple risotto with asparagus, onion, parsley and Parmesan.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "At least 20 minutes",
+    "ingredients": [
+      "1 lb asparagus, whole or in pieces",
+      "250g Arborio or risotto rice",
+      "1 medium onion, finely chopped",
+      "Chicken or vegetable stock powder",
+      "Parsley, chopped",
+      "1/2-1 oz butter or margarine",
+      "Salt",
+      "Extra water",
+      "Grated Parmesan cheese"
+    ],
+    "method": [
+      "Prepare the asparagus and cut into pieces if needed.",
+      "Simmer the asparagus in a little water for about 4-5 minutes, then drain and reserve the cooking water.",
+      "Melt a little butter in a large pan or wok and soften the chopped onion with a little salt.",
+      "Add the rice and stir so that it is coated in the butter.",
+      "Add some of the asparagus water and cook over a very low heat, stirring from time to time.",
+      "Keep adding more asparagus water, then plain water and stock powder as needed, until the rice is cooked.",
+      "Shortly before the rice is ready, add the asparagus and parsley.",
+      "Stir in some Parmesan, adjust seasoning and serve with extra Parmesan."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "spinach-risotto",
+    "title": "Spinach Risotto",
+    "category": "Sides and Salads",
+    "description": "A creamy risotto with mushrooms, spinach, pine nuts and Parmesan.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 tbsp olive oil",
+      "2 cloves garlic, crushed",
+      "8 oz / 225g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "8 oz / 225g Arborio rice",
+      "5 fl oz / 140ml dry white wine",
+      "25 fl oz / 700ml light chicken or vegetable stock",
+      "8 oz / 225g fresh spinach, washed and shredded",
+      "1 oz / 30g pine nuts, toasted",
+      "1 oz / 30g butter",
+      "Salt",
+      "Pepper",
+      "1 oz / 30g freshly grated Parmesan cheese"
+    ],
+    "method": [
+      "Heat the olive oil in a large pan or wok.",
+      "Add the garlic, mushrooms and onion and fry for about 5 minutes until softened.",
+      "Add the rice and stir for 2 minutes.",
+      "Pour in the wine, bring to the boil and bubble briefly.",
+      "Add the stock a ladle at a time, stirring and allowing each addition to be absorbed before adding more.",
+      "When the rice is cooked but still slightly al dente, stir in the spinach until wilted.",
+      "Season with salt and pepper.",
+      "Stir in the pine nuts and butter.",
+      "Sprinkle with Parmesan and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "rice-side",
+    "title": "Rice",
+    "category": "Sides and Salads",
+    "description": "Plain rice cooked in stock with chopped spring onion.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Rice",
+      "Chicken stock or stock cube",
+      "Spring onion, chopped"
+    ],
+    "method": [
+      "Cook the rice in chicken stock or stock made with a cube.",
+      "Add chopped spring onion when the rice is cooked."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "red-cabbage",
+    "title": "Red Cabbage",
+    "category": "Sides and Salads",
+    "description": "Braised red cabbage with pears, onion, red wine, honey and sloe gin.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 2 hours",
+    "ingredients": [
+      "1 small or 1/2 large red cabbage, thinly sliced",
+      "3 pears, peeled, cored and cut into cubes",
+      "1 large onion, sliced",
+      "300ml red wine",
+      "2 tbsp honey",
+      "1 knob butter",
+      "200ml sloe gin",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Heat the oven to 170°C.",
+      "Place all ingredients except a small amount of the sloe gin into a casserole.",
+      "Season with salt and pepper.",
+      "Bring to the simmer, cover and braise in the oven for about 2 hours until syrupy.",
+      "Check partway through and add a little water if the cabbage seems dry.",
+      "Stir in the remaining sloe gin before serving."
+    ],
+    "notes": [
+      "If sloe gin is not available, crème de cassis or extra red wine can be used."
+    ],
+    "source": "Gary Rhodes"
+  },
+  {
+    "id": "austrian-red-cabbage",
+    "title": "Austrian Red Cabbage",
+    "category": "Sides and Salads",
+    "description": "Red cabbage cooked with onion, apple, vinegar and cloves or caraway.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "2 oz margarine",
+      "1 large onion, peeled and sliced",
+      "1 clove garlic, crushed (optional)",
+      "2 lb red cabbage, shredded",
+      "2 large cooking apples, peeled, cored and sliced",
+      "2 cloves or 1 tsp caraway seeds",
+      "4 tbsp wine vinegar",
+      "4 tbsp water",
+      "1 tbsp sugar",
+      "Salt",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Melt the fat in a large saucepan and fry the onion and garlic for about 5 minutes.",
+      "Stir in the cabbage and apples and simmer for 10 minutes, stirring occasionally.",
+      "Add the cloves or caraway, vinegar, water, sugar and seasoning.",
+      "Bring to the boil, cover and simmer until the liquid has been absorbed and the cabbage is tender."
+    ],
+    "notes": [
+      "This can also be cooked in the microwave.",
+      "Freezes well."
+    ],
+    "source": null
+  },
+  {
+    "id": "garlicky-beans",
+    "title": "Garlicky Beans",
+    "category": "Sides and Salads",
+    "description": "Fine beans tossed with butter and crushed garlic.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Fine beans, French beans or similar",
+      "Butter or margarine",
+      "1 clove garlic, crushed"
+    ],
+    "method": [
+      "Prepare the beans and cook until al dente.",
+      "Add a knob of butter or margarine and the crushed garlic.",
+      "Mix and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "courgettes-with-almonds",
+    "title": "Courgettes with Almonds",
+    "category": "Sides and Salads",
+    "description": "Courgettes and onion cooked gently and finished with ground almonds.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb courgettes, topped and tailed",
+      "1 large onion, peeled",
+      "1-2 tbsp ground almonds",
+      "Margarine for cooking",
+      "Salt"
+    ],
+    "method": [
+      "Melt the fat in a frying pan and cook the sliced onion with a little salt until almost soft.",
+      "Slice the courgettes and add them to the onions.",
+      "Cook until al dente.",
+      "Add the ground almonds and mix so they absorb the juices.",
+      "Serve hot."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "potato-latkes",
+    "title": "Potato Latkes",
+    "category": "Sides and Salads",
+    "description": "Simple grated potato pancakes fried until golden.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Potatoes",
+      "Oil for frying"
+    ],
+    "method": [
+      "Grate the potatoes on a coarse grater.",
+      "Spoon into shallow hot oil.",
+      "Fry until golden on one side, then turn and fry the other side until golden."
+    ],
+    "notes": [
+      "Optional additions include salt, pepper, flour and chopped onion."
+    ],
+    "source": "H. Wolff"
+  },
+  {
+    "id": "sprouts-and-carrots",
+    "title": "Sprouts and Carrots",
+    "category": "Sides and Salads",
+    "description": "Cooked sprouts and carrots served in a simple onion sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Brussels sprouts",
+      "Carrots",
+      "Butter or margarine",
+      "1 onion",
+      "Flour",
+      "Salt"
+    ],
+    "method": [
+      "Prepare the sprouts and cut a small cross in the bottom.",
+      "Slice the carrots and cook them in salted water for about 5-6 minutes.",
+      "Add the sprouts and continue cooking until both vegetables are tender.",
+      "Drain, reserving the cooking liquid.",
+      "In another pan, melt butter or margarine and fry a chopped onion until soft.",
+      "Stir in a little flour and cook briefly.",
+      "Gradually add the reserved cooking liquid, stirring until smooth and thickened.",
+      "Add the sprouts and carrots back to the sauce, mix and serve."
+    ],
+    "notes": [
+      "The same onion sauce can be used with other vegetables such as swede or turnips."
+    ],
+    "source": "F. M. Wolfe"
+  },
+  {
+    "id": "potato-salad-i",
+    "title": "Potato Salad I",
+    "category": "Sides and Salads",
+    "description": "Potato salad with egg, onion and salad cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "About 2 lb potatoes",
+      "3 eggs",
+      "4-6 spring onions, or shallots, or 1 small-medium onion",
+      "3-4 tbsp salad cream",
+      "2-3 tsp milk"
+    ],
+    "method": [
+      "Hard-boil the eggs and set aside in cold water.",
+      "Peel or scrub the potatoes and cut into cubes.",
+      "Cover with water, bring to the boil and simmer for about 5 minutes until cooked.",
+      "Drain and allow to cool.",
+      "Chop the onions finely.",
+      "Chop the hard-boiled eggs.",
+      "Mix the salad cream and milk in a bowl.",
+      "Add the onions and chopped egg, then fold in the potato gradually."
+    ],
+    "notes": [
+      "Chopped gherkin, pickled cucumber or herbs can also be added."
+    ],
+    "source": null
+  },
+  {
+    "id": "potato-salad-ii",
+    "title": "Potato Salad II",
+    "category": "Sides and Salads",
+    "description": "Warm potato salad with onion and vinaigrette dressing.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Potatoes",
+      "1 medium onion, finely chopped",
+      "Vinaigrette dressing",
+      "Pickled cucumber, chopped (optional)"
+    ],
+    "method": [
+      "Cube the potatoes, cover with water, bring to the boil and simmer for about 5 minutes.",
+      "Drain and place in a bowl with the onion and pickled cucumber if using.",
+      "Pour over the vinaigrette while the potatoes are still hot and mix well.",
+      "Allow to cool and refrigerate."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "cucumber-salad-i",
+    "title": "Cucumber Salad I",
+    "category": "Sides and Salads",
+    "description": "Cucumber salad with lemon juice, sugar, dill and salt.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 cucumber, peeled and finely sliced",
+      "Juice of 1 lemon",
+      "Castor sugar",
+      "Dill, chopped",
+      "Salt"
+    ],
+    "method": [
+      "Put the cucumber in a bowl and layer with sprinkles of salt.",
+      "Leave to stand for a few hours.",
+      "Mix the lemon juice with the dill and sugar until the sugar dissolves.",
+      "Drain the cucumber well.",
+      "Add the cucumber to the lemon dressing and mix.",
+      "Refrigerate before serving."
+    ],
+    "notes": [
+      "More sweetened lemon juice can be added if needed."
+    ],
+    "source": null
+  },
+  {
+    "id": "cucumber-salad-ii",
+    "title": "Cucumber Salad II",
+    "category": "Sides and Salads",
+    "description": "Sliced cucumber mixed with cucumber relish and vinaigrette.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 cucumber, finely sliced",
+      "A few tbsp cucumber relish",
+      "A few tbsp vinaigrette dressing"
+    ],
+    "method": [
+      "Mix the cucumber relish and vinaigrette dressing together.",
+      "Mix with the sliced cucumber.",
+      "Refrigerate before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "cucumber-salad-iii",
+    "title": "Cucumber Salad III",
+    "category": "Sides and Salads",
+    "description": "Another simple cucumber salad with relish and vinaigrette.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 cucumber, finely sliced",
+      "A few tbsp cucumber relish",
+      "A few tbsp vinaigrette dressing"
+    ],
+    "method": [
+      "Mix the cucumber relish and vinaigrette dressing together.",
+      "Mix with the sliced cucumber.",
+      "Refrigerate before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "chinese-style-cold-slaw",
+    "title": "Chinese Style Cold Slaw",
+    "category": "Sides and Salads",
+    "description": "A crunchy cabbage, carrot and spring onion slaw with a sweet-sour dressing.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb white cabbage",
+      "4-6 carrots, cut into julienne strips",
+      "8 spring onions",
+      "Toasted sesame seeds (optional)",
+      "Toasted almonds",
+      "For the dressing: 6 tbsp rice vinegar",
+      "For the dressing: 4 tbsp sugar",
+      "For the dressing: 1/2 tsp salt",
+      "For the dressing: 1 tsp ground black pepper",
+      "For the dressing: scant 1/3 cup sunflower oil",
+      "For the dressing: a pinch of garlic"
+    ],
+    "method": [
+      "Shred the cabbage and slice the spring onions.",
+      "Mix the cabbage, carrots, onions and sesame seeds if using.",
+      "Mix the dressing ingredients together thoroughly.",
+      "Pour the dressing over the slaw and stir well.",
+      "Serve chilled or at cool room temperature."
+    ],
+    "notes": [],
+    "source": "Francis"
+  },
+  {
+    "id": "cabbage-salad",
+    "title": "Cabbage Salad",
+    "category": "Sides and Salads",
+    "description": "A simple shredded salad of cabbage, cucumber, tomato and onion with oil and vinegar.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "White cabbage",
+      "Cucumber",
+      "Tomato",
+      "Onion",
+      "Oil",
+      "Vinegar"
+    ],
+    "method": [
+      "Shred or chop all the ingredients.",
+      "Mix together with oil and vinegar.",
+      "Serve fresh."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "mixed-salad",
+    "title": "Mixed Salad",
+    "category": "Sides and Salads",
+    "description": "A mixed salad of cabbage, cucumber, tomato, chicory, pepper and cauliflower.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "White cabbage",
+      "Red cabbage",
+      "Cucumber",
+      "Tomato",
+      "Chicory",
+      "Pepper",
+      "Cauliflower",
+      "Mustard and cress"
+    ],
+    "method": [
+      "Shred or chop all the ingredients.",
+      "Mix together.",
+      "Add the dressing of your choice before serving."
+    ],
+    "notes": [],
+    "source": "Villa Bianca"
+  },
+  {
+    "id": "mrs-griffiths-salad",
+    "title": "Mrs Griffith’s Salad",
+    "category": "Sides and Salads",
+    "description": "A chopped salad with cabbage, carrot, onion, peppers, cucumber and celery.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1/4 white cabbage, finely shredded and washed",
+      "1 large carrot, grated",
+      "1 large onion, grated",
+      "1 red pepper, chopped",
+      "1 green pepper, chopped",
+      "1/2 cucumber, thinly sliced",
+      "2 sticks celery, finely chopped",
+      "Salt",
+      "Pepper",
+      "Oil",
+      "Vinegar",
+      "Mayonnaise"
+    ],
+    "method": [
+      "Prepare and combine all the vegetables.",
+      "Add salt, pepper, oil, vinegar and mayonnaise to taste.",
+      "Mix and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "stage-salad",
+    "title": "Stage Salad",
+    "category": "Sides and Salads",
+    "description": "A simple chopped salad of cabbage, tomato, cucumber, celery and carrot.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Shredded white cabbage",
+      "Tomato, chopped",
+      "Cucumber, chopped",
+      "Celery, chopped",
+      "Carrot, shredded"
+    ],
+    "method": [
+      "Mix all the prepared ingredients together.",
+      "Add dressing to taste and serve."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "courgette-salad",
+    "title": "Courgette Salad",
+    "category": "Sides and Salads",
+    "description": "Very finely sliced courgettes mixed with dressing and peanuts.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Courgettes",
+      "Dressing",
+      "Peanuts",
+      "Peanut butter (optional)"
+    ],
+    "method": [
+      "Slice the courgettes very finely.",
+      "Mix with dressing and peanuts.",
+      "If liked, mix a little peanut butter into the dressing."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "piperonata-vegetable",
+    "title": "Piperonata",
+    "category": "Sides and Salads",
+    "description": "A soft pepper and tomato dish served hot or cold.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 oz / 25g unsalted butter or margarine",
+      "2 tbsp / 30ml olive oil",
+      "1 onion, peeled and finely sliced",
+      "6 large red, green and yellow peppers, seeded, cored and cut into thin strips",
+      "8 large tomatoes, skinned and coarsely chopped",
+      "1 garlic clove, peeled and crushed",
+      "Salt",
+      "Freshly ground black pepper",
+      "2 tsp castor sugar"
+    ],
+    "method": [
+      "Sweat the onion and peppers together with the butter and oil in a heavy-based saucepan.",
+      "Cover and fry until the vegetables are soft but not brown.",
+      "Add the remaining ingredients and season to taste.",
+      "Continue cooking gently, stirring occasionally, until the vegetables are soft and the juices have largely evaporated.",
+      "Serve hot or cold, but not chilled."
+    ],
+    "notes": [
+      "This is the vegetable-dishes version and kept separate from the Starters version."
+    ],
+    "source": null
   }
 ]
