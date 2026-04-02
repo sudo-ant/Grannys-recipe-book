@@ -388,5 +388,221 @@
     ],
     "notes": [],
     "source": "Anthony’s favourite"
+  },
+  {
+    "id": "chicken-soup",
+    "title": "Chicken soup",
+    "category": "Soups",
+    "description": "A simple traditional chicken soup with leeks, carrots, celery and parsley.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Chicken stock made from carcass or boiling fowl",
+      "Knorr chicken stock cubes",
+      "Spring onions",
+      "Celery",
+      "Carrots",
+      "Leeks",
+      "Hamburg parsley (parsley root) if available",
+      "Parsley",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Slice the leeks, carrots and celery.",
+      "Chop the onion and parsley.",
+      "Add the vegetables and herbs to the stock.",
+      "Bring to the boil, then simmer until the vegetables are tender.",
+      "Season with salt and pepper."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "minted-pea-soup",
+    "title": "Minted Pea Soup",
+    "category": "Soups",
+    "description": "A quick pea soup with spring onions and lettuce, blended until smooth.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 lb / 450g frozen peas",
+      "3 spring onions",
+      "Outside lettuce leaves",
+      "2 chicken stock cubes",
+      "1¾ pints / 1 litre water"
+    ],
+    "method": [
+      "Sauté the chopped spring onions.",
+      "Add the lettuce leaves and sauté briefly.",
+      "Add the peas, stock cubes and water.",
+      "Cook until the peas are tender.",
+      "Blend in a food processor or liquidiser until smooth.",
+      "Serve hot with a little cream on top if desired."
+    ],
+    "notes": [],
+    "source": "Sheila"
+  },
+  {
+    "id": "piquant-tomato-soup",
+    "title": "Piquant Tomato Soup",
+    "category": "Soups",
+    "description": "A rich tomato soup with onion, carrot, celery, oregano and lemon rind.",
+    "serves": "6-8",
+    "prepTime": null,
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "1 tbsp rendered chicken fat or 1 oz / 25g margarine",
+      "1 large onion, sliced",
+      "1 small carrot, sliced",
+      "1 stalk celery",
+      "2 level tbsp brown sugar",
+      "2 level tsp salt",
+      "1 clove garlic, crushed",
+      "Thinly peeled rind of 1/2 lemon",
+      "A few black peppercorns",
+      "1 large bay leaf",
+      "1 level tsp dried oregano",
+      "1 can whole peeled plum tomatoes with juice",
+      "2 tbsp tomato purée",
+      "2 pints / 1 litre meat, bone, chicken or vegetable stock",
+      "Optional: 1 tbsp cornflour mixed with 2 tbsp cold water",
+      "Optional: a handful of fine vermicelli"
+    ],
+    "method": [
+      "Melt the fat gently in a heavy soup pan.",
+      "Add the sliced vegetables, cover, and cook gently for about 10 minutes until softened without browning.",
+      "Add the tomatoes and all the remaining main ingredients.",
+      "Cover and simmer for 45 minutes until the vegetables are tender.",
+      "Remove the bay leaf.",
+      "Push through a sieve or blend until smooth.",
+      "Return the soup to the pan and taste.",
+      "Add a little more tomato purée if needed.",
+      "If you want a thicker soup, add the cornflour mixture and simmer for 5 minutes.",
+      "If using vermicelli, cook it either in the soup or separately and add before serving."
+    ],
+    "notes": [
+      "Cornflour and vermicelli are optional."
+    ],
+    "source": "Evelyn Rose, Complete International Jewish Cookbook"
+  },
+  {
+    "id": "chestnut-soup",
+    "title": "Chestnut Soup",
+    "category": "Soups",
+    "description": "A smooth chestnut soup with onion, celery and carrot, finished with cream if liked.",
+    "serves": "4-6",
+    "prepTime": null,
+    "cookTime": "45 minutes to 1 hour",
+    "ingredients": [
+      "1 lb / 450g fresh chestnuts",
+      "1 oz / 25g butter or margarine",
+      "1 onion",
+      "1 stalk celery, chopped",
+      "1 carrot, sliced or chopped",
+      "1¾-2 pints chicken stock",
+      "1/4 pint / 140 ml single cream",
+      "Salt",
+      "Freshly milled pepper",
+      "Chopped parsley, optional"
+    ],
+    "method": [
+      "Cut a slit on the flat side of each chestnut.",
+      "Cover with boiling water, reboil and simmer for 10 minutes.",
+      "Drain and peel away the outer and inner skins.",
+      "Melt the butter in a large saucepan.",
+      "Peel and finely chop the onion, add it to the pan, cover and fry gently for about 5 minutes until tender but not coloured.",
+      "Add the chestnuts, celery and carrot.",
+      "Add the stock and bring to the boil.",
+      "Cover and simmer for 45 minutes to 1 hour until the vegetables are tender.",
+      "Liquidise, blend or sieve to a purée.",
+      "Return to the pan and season with salt and plenty of pepper.",
+      "Stir in the cream and reheat until hot but not boiling.",
+      "Serve with parsley if using."
+    ],
+    "notes": [
+      "Cream is optional and can also be added in decorative swirls when serving."
+    ],
+    "source": null
+  },
+  {
+    "id": "spring-greens-and-roast-garlic-soup",
+    "title": "Spring Greens and Roast Garlic Soup",
+    "category": "Soups",
+    "description": "A green soup with roast garlic, potatoes, spring greens and cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "3 heads garlic",
+      "Olive oil",
+      "40g / 1½ oz butter",
+      "1 onion, finely chopped",
+      "2 bunches spring onions, chopped",
+      "250g / 9 oz potatoes, diced",
+      "500g / 1 lb 2 oz spring greens",
+      "1-1.5 litres chicken stock",
+      "125ml double cream"
+    ],
+    "method": [
+      "Roast the garlic for about 40-50 minutes in a preheated oven at 190°C / 375°F / Gas 5 until completely tender, adding a little water from time to time if needed.",
+      "Melt the butter in a large heavy-based saucepan.",
+      "Add the onion, spring onion and potato.",
+      "Stir so that the vegetables are coated in the butter, then add a splash of water.",
+      "Cover and let the vegetables sweat over a low heat for about 15 minutes, checking occasionally and adding a little more water if needed.",
+      "Remove the tough ribs from the spring greens and slice the leafy parts.",
+      "Add them to the pan with a splash of water and seasoning.",
+      "Cover and cook for about 4 minutes, turning the leaves occasionally.",
+      "Squeeze the soft garlic pulp from the cooked cloves into a bowl.",
+      "Add the garlic purée and the stock to the vegetables and bring to the boil.",
+      "Turn off the heat and leave to cool.",
+      "Purée the soup with the cream.",
+      "Check the seasoning and serve hot."
+    ],
+    "notes": [
+      "A little of the stock can be held back until puréeing to adjust the final consistency.",
+      "Serve with a drizzle of cream on top if liked."
+    ],
+    "source": null
+  },
+  {
+    "id": "thai-pumpkin-soup",
+    "title": "Thai Pumpkin Soup",
+    "category": "Soups",
+    "description": "A smooth pumpkin or butternut squash soup with ginger, coconut milk and basil cream.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "30 minutes plus simmering",
+    "ingredients": [
+      "1kg pumpkin or butternut squash, peeled, deseeded and cut into 1cm cubes",
+      "1 tbsp vegetable oil",
+      "1 onion, chopped",
+      "2.5cm piece fresh root ginger, peeled and finely chopped",
+      "4 tsp red Thai curry paste",
+      "450ml vegetable stock",
+      "400ml can coconut milk",
+      "142ml pot single cream",
+      "20g fresh basil"
+    ],
+    "method": [
+      "Preheat the oven to 180°C / Gas 4.",
+      "Place the pumpkin or squash on a non-stick baking tray, season, and roast for 30 minutes or until tender.",
+      "Meanwhile heat the oil in a medium pan and add the onion and ginger.",
+      "Cover and sauté for 10 minutes, stirring occasionally.",
+      "Stir in the curry paste and cook for 1-2 minutes.",
+      "Add the roasted pumpkin, stock and coconut milk.",
+      "Cover, bring to the boil, then simmer for 5 minutes.",
+      "Remove from the heat and cool slightly.",
+      "Purée in a food processor or blender in batches until smooth.",
+      "Return to the pan, season to taste and reheat gently.",
+      "Add a little more stock or boiling water if you want a thinner consistency.",
+      "Heat the cream and chopped basil gently in a small pan.",
+      "Serve the soup with the basil cream swirled over the top."
+    ],
+    "notes": [
+      "The source notes that cumin powder can be used instead of Thai curry paste."
+    ],
+    "source": null
   }
 ]
