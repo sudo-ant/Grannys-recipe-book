@@ -5376,5 +5376,635 @@
       "You may need a little more liquid as the risotto cooks; water can be used once the stock runs out."
     ],
     "source": null
+  },
+  {
+    "id": "lemon-posset",
+    "title": "Lemon Posset",
+    "category": "Desserts and Baking",
+    "description": "A rich lemon cream dessert chilled in small pots or bowls.",
+    "serves": null,
+    "prepTime": "At least 3 hours chilling",
+    "cookTime": "About 1 minute simmering",
+    "ingredients": [
+      "600ml double cream",
+      "200g golden caster sugar",
+      "Zest of 3 lemons",
+      "75ml lemon juice"
+    ],
+    "method": [
+      "Put the cream and sugar into a large saucepan and heat gently, stirring, until the sugar has dissolved.",
+      "Bring to a simmer and bubble for 1 minute.",
+      "Remove from the heat and stir in the lemon zest and juice.",
+      "Divide between small pots or bowls.",
+      "Cool to room temperature, then cover carefully and chill for at least 3 hours, or up to 24 hours."
+    ],
+    "notes": [
+      "The source serves this with shortbread shards, but the posset can be served on its own."
+    ],
+    "source": null
+  },
+  {
+    "id": "panna-cotta",
+    "title": "Panna Cotta",
+    "category": "Desserts and Baking",
+    "description": "A simple cream-set Italian dessert flavoured with vanilla and served chilled with a topping of your choice.",
+    "serves": "2",
+    "prepTime": "About 5 hours chilling",
+    "cookTime": null,
+    "ingredients": [
+      "1/2 vanilla bean or vanilla extract",
+      "40g sugar",
+      "4g gelatine sheets",
+      "250ml fresh single cream",
+      "Optional topping: caramel, melted dark chocolate, or berries coulis",
+      "Optional mint leaves for berry topping"
+    ],
+    "method": [
+      "Soften the gelatine as needed according to the type you are using.",
+      "Heat the cream with the sugar and vanilla until the sugar dissolves.",
+      "Stir in the gelatine until fully dissolved.",
+      "Pour into 2 dessert glasses or moulds.",
+      "Chill in the fridge for about 5 hours until set.",
+      "Serve with caramel, melted chocolate, or berry coulis."
+    ],
+    "notes": [
+      "The source is partly instructional text and does not give a full step-by-step method; this draft follows the ingredients and source description closely."
+    ],
+    "source": null
+  },
+  {
+    "id": "apple-crumb-cake",
+    "title": "Apple Crumb Cake",
+    "category": "Desserts and Baking",
+    "description": "A sour cream apple cake with a spiced crumb topping and a simple glaze.",
+    "serves": "8-10",
+    "prepTime": "30 minutes",
+    "cookTime": "35 minutes",
+    "ingredients": [
+      "For the crumb: 3 cups flour",
+      "For the crumb: 1 cup brown sugar",
+      "For the crumb: 1/2 cup granulated sugar",
+      "For the crumb: 1 tsp salt",
+      "For the crumb: 2 tsp cinnamon",
+      "For the crumb: 1/2 tsp nutmeg",
+      "For the crumb: 1 cup butter, melted",
+      "For the crumb: 1 tsp vanilla",
+      "For the crumb: 2 large or 3 small tart apples, peeled and chopped",
+      "For the cake: 8 tbsp butter",
+      "For the cake: 1 cup granulated sugar",
+      "For the cake: 2 large eggs",
+      "For the cake: 1 tsp vanilla",
+      "For the cake: 1 cup sour cream",
+      "For the cake: 2 cups flour",
+      "For the cake: 1/2 tsp baking soda",
+      "For the cake: 1/2 tsp salt",
+      "For the cake: 1 tsp baking powder",
+      "For the glaze: 1 cup powdered sugar",
+      "For the glaze: 1-2 tbsp apple cider",
+      "For the glaze: 1-2 tbsp milk",
+      "For the glaze: pinch of salt"
+    ],
+    "method": [
+      "Heat the oven and prepare a baking tin.",
+      "Mix the crumb ingredients together until the mixture forms moist crumbs and the chopped apples are coated through it.",
+      "Make the cake batter by creaming the butter and sugar, then beating in the eggs, vanilla and sour cream.",
+      "Mix together the flour, baking soda, salt and baking powder, then add to the wet mixture.",
+      "Spread the cake batter into the tin and scatter the apple crumb mixture over the top.",
+      "Bake until the cake is cooked through and the crumb topping is golden.",
+      "Mix the glaze ingredients to a drizzling consistency and spoon over the cooled or just-warm cake."
+    ],
+    "notes": [
+      "The source export preserved the ingredients and timings but omitted the full method. The method above is a careful reconstruction based on the source structure."
+    ],
+    "source": null
+  },
+  {
+    "id": "frances-apple-flan-cake",
+    "title": "Frances' Apple Flan/Cake",
+    "category": "Desserts and Baking",
+    "description": "A thin apple tart with sweet pastry, grated apple filling, sultanas and a pastry lattice.",
+    "serves": null,
+    "prepTime": "2 hours resting",
+    "cookTime": "About 35 minutes total",
+    "ingredients": [
+      "For the pastry: 2 oz white fat such as Trex or Spry vegetarian",
+      "For the pastry: 8 oz plain flour",
+      "For the pastry: 1 egg",
+      "For the pastry: 2 oz butter or hard margarine",
+      "For the pastry: 3 oz sugar",
+      "For the pastry: extra water if necessary",
+      "For the topping: about 2 lb apples, peeled and grated",
+      "For the topping: sultanas",
+      "For the topping: sugar",
+      "For the topping: caster sugar"
+    ],
+    "method": [
+      "Process the pastry ingredients until a dough is formed, adding a little water if needed.",
+      "Rest the dough in the fridge for about 2 hours.",
+      "Roll out the pastry as thinly as possible and line an 8-9 inch loose-bottomed tin.",
+      "Bake blind for about 15 minutes.",
+      "Fill with the grated raw apples and mix with sultanas and sugar to taste.",
+      "Make a lattice over the top with pastry.",
+      "Brush with beaten egg and dust with caster sugar.",
+      "Bake at 350°F until golden, about 20 minutes."
+    ],
+    "notes": [],
+    "source": "Frances"
+  },
+  {
+    "id": "chocolate-olive-oil-cake-frances",
+    "title": "Chocolate Olive Oil Cake",
+    "category": "Desserts and Baking",
+    "description": "A moist chocolate cake made with olive oil and ground almonds or flour.",
+    "serves": "8-12 slices",
+    "prepTime": null,
+    "cookTime": "40-45 minutes",
+    "ingredients": [
+      "150ml regular olive oil, plus more for greasing",
+      "50g good quality cocoa powder, sifted",
+      "124ml boiling water",
+      "2 tsp best vanilla extract",
+      "150g ground almonds or 125g plain flour",
+      "1/2 tsp bicarbonate of soda",
+      "Pinch of salt",
+      "200g caster sugar",
+      "3 eggs"
+    ],
+    "method": [
+      "Heat the oven to 170°C and grease and line a 22-23cm springform cake tin.",
+      "Whisk the cocoa with the boiling water to make a smooth paste, then whisk in the vanilla and leave to cool slightly.",
+      "Combine the ground almonds or flour with the bicarbonate of soda and salt.",
+      "Beat the sugar, olive oil and eggs together for about 3 minutes until pale, thick and aerated.",
+      "Turn the speed down and pour in the cocoa mixture.",
+      "Gradually add the almond or flour mixture and mix until combined.",
+      "Pour into the prepared tin.",
+      "Bake for 40-45 minutes, until the sides are set and the centre still looks slightly damp.",
+      "Cool in the tin for 10 minutes before turning out onto a wire rack."
+    ],
+    "notes": [],
+    "source": "Frances"
+  },
+  {
+    "id": "cinnamon-crumb-coffee-cake",
+    "title": "Cinnamon Crumb Coffee Cake",
+    "category": "Desserts and Baking",
+    "description": "A soft coffee cake with a cinnamon filling layer and crumb topping.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "45-50 minutes",
+    "ingredients": [
+      "For the cake: 1 stick butter, softened",
+      "For the cake: 3/4 cup sugar",
+      "For the cake: 1 tsp vanilla",
+      "For the cake: 1 egg",
+      "For the cake: 2 cups flour",
+      "For the cake: 2 tsp baking powder",
+      "For the cake: pinch of salt",
+      "For the cake: 3/4 cup milk",
+      "For the filling: 3 tbsp butter, softened",
+      "For the filling: 1 tbsp cinnamon",
+      "For the filling: 1/2 cup flour",
+      "For the filling: 1/2 cup packed brown sugar",
+      "For the topping: 5 tbsp butter, softened",
+      "For the topping: 3/4 cup flour",
+      "For the topping: 1/2 cup packed brown sugar",
+      "For the topping: 1 tbsp cinnamon"
+    ],
+    "method": [
+      "Heat the oven to 350°F.",
+      "Cream together the butter and sugar, then beat in the vanilla and egg.",
+      "Mix the flour, baking powder and salt separately.",
+      "Add half the dry mixture to the cake batter, then the milk, then the rest of the dry mixture.",
+      "Make the filling by rubbing together the butter, cinnamon, flour and brown sugar until soft crumbs form.",
+      "Make the topping by pulsing or rubbing together the butter, flour, brown sugar and cinnamon until coarse crumbs form.",
+      "Grease a 9x9 inch baking pan.",
+      "Spread half the cake batter into the pan.",
+      "Scatter over the filling, then spread over the remaining batter carefully.",
+      "Top with the crumb mixture and press it down lightly.",
+      "Bake for 45-50 minutes until a skewer comes out clean.",
+      "Cool on a wire rack before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "tortas-de-aceite",
+    "title": "Tortas De Aceite",
+    "category": "Desserts and Baking",
+    "description": "Thin crisp Spanish olive oil biscuits with sugar and optional fennel seeds.",
+    "serves": "6",
+    "prepTime": null,
+    "cookTime": "10 minutes",
+    "ingredients": [
+      "Olive oil for greasing",
+      "1 tbsp caster sugar, plus extra for dusting",
+      "2 tsp demerara sugar",
+      "1 tbsp fennel seeds (optional)",
+      "1 tsp fast-action dried yeast",
+      "80ml warm water",
+      "60ml extra virgin olive oil",
+      "160g plain flour, plus extra for dusting",
+      "1 tsp sea salt",
+      "1 egg white mixed with a little sea salt"
+    ],
+    "method": [
+      "Grease two large baking trays with olive oil and dust with caster sugar and some of the demerara sugar.",
+      "Heat the oven to 220°C / Gas 7.",
+      "Toast the fennel seeds in a dry pan for about 2 minutes if using.",
+      "Mix the yeast with the warm water and half the caster sugar and leave briefly until frothy.",
+      "Stir in the olive oil.",
+      "Whisk together the flour, fennel seeds if using, and salt.",
+      "Pour in the yeast mixture and mix to a smooth dough.",
+      "Divide into 6 balls of about 50g each.",
+      "Roll each one into a disc about 12cm across and place on the trays.",
+      "Brush with egg white and sprinkle with more caster sugar and the remaining demerara sugar.",
+      "Bake for about 10 minutes until golden and crisp."
+    ],
+    "notes": [],
+    "source": "José Pizarro"
+  },
+  {
+    "id": "dawns-chocolate-chip-cookies",
+    "title": "Dawn's Chocolate Chip Cookies",
+    "category": "Desserts and Baking",
+    "description": "Quick drop cookies with chocolate chips and optional chopped nuts.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "8-10 minutes",
+    "ingredients": [
+      "1/2 cup caster sugar",
+      "3/4 cup brown sugar",
+      "8 oz soft margarine",
+      "2 cups self-raising flour",
+      "1 tsp vanilla essence",
+      "Pinch of salt",
+      "1 tsp baking powder",
+      "1 packet chocolate chips",
+      "Optional chopped nuts"
+    ],
+    "method": [
+      "Cream the fat and sugars together.",
+      "Add the remaining ingredients and mix well.",
+      "Spoon onto a greased or silicone-lined baking tray.",
+      "Bake at 375°F / 190°C for 8-10 minutes."
+    ],
+    "notes": [
+      "Chopped nuts can be added if liked."
+    ],
+    "source": "Dawn"
+  },
+  {
+    "id": "walnut-macaroons",
+    "title": "Walnut Macaroons",
+    "category": "Desserts and Baking",
+    "description": "Soft chewy walnut macaroons piped onto trays and baked until lightly golden.",
+    "serves": "Makes about 15",
+    "prepTime": null,
+    "cookTime": "12-15 minutes",
+    "ingredients": [
+      "2 cups walnut halves",
+      "1 cup granulated sugar",
+      "2 large egg whites",
+      "Small pinch of salt"
+    ],
+    "method": [
+      "Grind the walnuts and sugar finely in a food processor.",
+      "Put the walnut mixture, egg whites and salt into the top of a double boiler over simmering water.",
+      "Heat, stirring constantly, until the sugar dissolves.",
+      "Remove from the heat and cool to room temperature.",
+      "Pipe 2-inch half-domes onto a parchment-lined or buttered baking sheet.",
+      "Bake at 375°F for 12-15 minutes until golden and slightly cracked on top.",
+      "Cool on the tray before removing."
+    ],
+    "notes": [
+      "If the mixture is too stiff to pipe, add a little more egg white."
+    ],
+    "source": null
+  },
+  {
+    "id": "wholefood-mincemeat-slices",
+    "title": "Wholefood Mincemeat Slices",
+    "category": "Desserts and Baking",
+    "description": "A quick wholefood traybake with oat layers and a mincemeat centre.",
+    "serves": "12",
+    "prepTime": null,
+    "cookTime": "About 20 minutes",
+    "ingredients": [
+      "150g vegetable margarine",
+      "75g soft brown sugar",
+      "225g wholewheat flour",
+      "110g porridge oats",
+      "225g mincemeat"
+    ],
+    "method": [
+      "Heat the oven to Gas 6 / 400°F / 200°C.",
+      "Butter a shallow 11 x 7 inch baking tin.",
+      "Melt the margarine gently with the brown sugar.",
+      "Mix the flour and oats together in a bowl.",
+      "Stir the flour and oats into the melted margarine and sugar mixture until blended.",
+      "Press half the mixture firmly into the base of the tin.",
+      "Spread the mincemeat over the top.",
+      "Cover with the remaining oat mixture and press it down evenly.",
+      "Bake in the centre of the oven for about 20 minutes until lightly browned.",
+      "Cut into 12 squares while warm, then leave in the tin until completely cold."
+    ],
+    "notes": [],
+    "source": "Delia Smith"
+  },
+  {
+    "id": "chocolate-cornflakes",
+    "title": "Chocolate Cornflakes",
+    "category": "Desserts and Baking",
+    "description": "Chocolate cornflake cakes set in paper cases with sprinkles on top.",
+    "serves": null,
+    "prepTime": "Chilling until set",
+    "cookTime": null,
+    "ingredients": [
+      "50g butter",
+      "100g milk chocolate, broken up",
+      "3 tbsp golden syrup",
+      "100g cornflakes",
+      "6 tsp sprinkles"
+    ],
+    "method": [
+      "Put the butter, chocolate and golden syrup into a saucepan over a low heat.",
+      "Cook gently until the chocolate has melted.",
+      "Allow to cool slightly, then pour over the cornflakes.",
+      "Stir gently until the cornflakes are coated.",
+      "Spoon into cupcake cases set in a cupcake tin.",
+      "Sprinkle with hundreds and thousands or other sprinkles.",
+      "Chill in the fridge until set."
+    ],
+    "notes": [],
+    "source": "Tesco / Dominic Chapman"
+  },
+  {
+    "id": "almond-shortcrust-pastry",
+    "title": "Almond Shortcrust Pastry",
+    "category": "Desserts and Baking",
+    "description": "A sweet almond pastry suitable for mince pies and tart cases.",
+    "serves": null,
+    "prepTime": "1 hour chilling",
+    "cookTime": null,
+    "ingredients": [
+      "9 oz plain flour",
+      "1 oz ground almonds",
+      "6 oz butter",
+      "3 oz caster sugar",
+      "Grated rind of 1/2 lemon",
+      "2 tbsp single cream",
+      "1 egg yolk"
+    ],
+    "method": [
+      "Rub the butter into the flour, almonds and sugar until the mixture resembles dry breadcrumbs.",
+      "Add the cream, lemon rind and egg yolk and mix to a dough.",
+      "Chill for 1 hour before using."
+    ],
+    "notes": [
+      "The source notes that it keeps fresh for several days and is suitable for mince pies."
+    ],
+    "source": null
+  },
+  {
+    "id": "mixture-for-biscuits-and-tart-cases",
+    "title": "Mixture for Biscuits and Tart Cases",
+    "category": "Desserts and Baking",
+    "description": "A simple sweet butter dough for biscuits or tart cases.",
+    "serves": null,
+    "prepTime": "Chilling before using",
+    "cookTime": null,
+    "ingredients": [
+      "4 oz sugar (icing sugar for biscuits, caster sugar for tart cases)",
+      "8 oz butter",
+      "12 oz plain flour"
+    ],
+    "method": [
+      "Cream the sugar and butter together.",
+      "Work in the flour until combined.",
+      "Chill before using."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "cheesy-biscuits-helen",
+    "title": "Cheesy Biscuits - Helen",
+    "category": "Desserts and Baking",
+    "description": "Quick microwave savoury biscuits made with cheddar, mustard and crushed crisps.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "3-4 minutes per plate",
+    "ingredients": [
+      "75g butter",
+      "2 tsp prepared mustard",
+      "Pinch of cayenne pepper",
+      "1/2 cup grated Cheddar cheese",
+      "1 cup crushed crisps"
+    ],
+    "method": [
+      "Mix all the ingredients in a food processor.",
+      "Place small walnut-sized flattened blobs onto a Pyrex plate.",
+      "Microwave on high for about 3-4 minutes, watching carefully as they cook.",
+      "Cook in batches until all the mixture is used."
+    ],
+    "notes": [
+      "The source labels this as a microwave recipe."
+    ],
+    "source": "Helen"
+  },
+  {
+    "id": "matzo-kleis",
+    "title": "Matzo Kleis",
+    "category": "Passover",
+    "description": "Passover dumplings made from softened matzos, onion, egg and matzo meal.",
+    "serves": null,
+    "prepTime": "A few hours chilling before cooking if possible",
+    "cookTime": "About 20 minutes in soup or stew",
+    "ingredients": [
+      "4-6 matzos",
+      "1 onion",
+      "Medium matzo meal",
+      "1 large egg",
+      "Ground ginger to taste",
+      "Ground nutmeg to taste",
+      "Salt and pepper to taste",
+      "Sunflower oil or fat",
+      "Fine matzo meal"
+    ],
+    "method": [
+      "Soak the matzos in cold water until soft, then drain well.",
+      "Chop the onion finely and fry in oil or fat until golden.",
+      "Add the damp matzos and fry gently, turning occasionally, to dry them out without mashing them.",
+      "Allow to cool, then season to taste and fold gently together.",
+      "Stir in the beaten egg and enough medium matzo meal to bind.",
+      "With hands dipped in fine matzo meal, roll gently into balls.",
+      "Drop into fast-boiling soup or stew about 20 minutes before serving.",
+      "They are ready when the balls start to rotate in the liquid."
+    ],
+    "notes": [
+      "They are best made in advance and chilled for a few hours before cooking."
+    ],
+    "source": "H. Wolff"
+  },
+  {
+    "id": "matzo-fritters",
+    "title": "Matzo Fritters",
+    "category": "Passover",
+    "description": "Sweet spiced matzo fritters with raisins and almonds.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "4-6 matzos",
+      "1/2 oz mixed spice",
+      "1/2 oz ground cinnamon",
+      "1 large egg",
+      "1-2 tbsp raisins",
+      "2-3 tbsp ground almonds",
+      "Fine matzo meal",
+      "Sunflower oil or fat"
+    ],
+    "method": [
+      "Soak the matzos in cold water until soft.",
+      "Drain and squeeze them dry.",
+      "Fry the matzos gently in oil or fat, turning without breaking them up too much, to dry them out.",
+      "Put into a bowl and add the dry ingredients, mixing gently.",
+      "Beat the egg and mix it in.",
+      "Add enough fine matzo meal to bind the mixture.",
+      "Fry spoonfuls of the mixture in oil or fat, turning once, until golden brown.",
+      "Serve hot with lemon juice and caster sugar."
+    ],
+    "notes": [],
+    "source": "H. Wolff / S. Laikin"
+  },
+  {
+    "id": "passover-chocolate-brownies",
+    "title": "Passover Chocolate Brownies",
+    "category": "Passover",
+    "description": "Simple Passover brownies made with oil, cocoa, cake meal and walnuts.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 25 minutes",
+    "ingredients": [
+      "4 fl oz oil",
+      "7 oz caster sugar",
+      "3 large eggs",
+      "2 oz cake meal",
+      "1 1/2 oz cocoa powder",
+      "2 oz chopped walnuts",
+      "2 oz ground almonds (optional)",
+      "Vanilla sugar (optional)"
+    ],
+    "method": [
+      "Beat the eggs and oil well.",
+      "Whisk in the sugar until thick.",
+      "Fold in the cake meal and cocoa, then stir in the nuts.",
+      "Pour into a tin about 7 x 7 x 1 inches deep.",
+      "Bake at 350°F / 160°C for about 25 minutes."
+    ],
+    "notes": [
+      "The source notes that the original tin size given was 7 x 11 inches, but the smaller tin gave a better brownie result."
+    ],
+    "source": null
+  },
+  {
+    "id": "passover-kirchels-shortbread-biscuits",
+    "title": "Passover Kirchels / Shortbread Biscuits",
+    "category": "Passover",
+    "description": "Passover shortbread-style biscuits made with potato flour, cake meal and ground almonds.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 20 minutes",
+    "ingredients": [
+      "4 oz potato flour",
+      "4 oz cake meal",
+      "4 oz caster sugar",
+      "2 oz ground almonds",
+      "5 oz butter or margarine",
+      "1 egg",
+      "Chopped nuts"
+    ],
+    "method": [
+      "Put all the ingredients except the egg into a bowl and rub in the butter or margarine as for pastry.",
+      "Add the egg and mix.",
+      "Roll the mixture into a sausage shape.",
+      "Cut into slices and place flat on a non-stick baking tray.",
+      "Bake at 350-375°F / 180°C / Gas 4 for about 20 minutes, or until browned."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "passover-kipferl",
+    "title": "Passover Kipferl",
+    "category": "Passover",
+    "description": "Crescent-shaped Passover biscuits made with matzo meal, potato flour and nuts.",
+    "serves": "Makes about 40",
+    "prepTime": "Chilling before shaping",
+    "cookTime": "18 minutes",
+    "ingredients": [
+      "7 oz butter or sunflower spread",
+      "4 oz caster sugar",
+      "2 x 20g packets vanilla sugar",
+      "4 oz cake or fine matzo meal",
+      "4 oz potato flour",
+      "Pinch of salt",
+      "2 oz ground almonds and 2 oz ground hazelnuts, or all of one kind",
+      "Icing sugar or caster sugar for coating"
+    ],
+    "method": [
+      "Work the butter and sugars together by hand or machine.",
+      "Gradually add the remaining ingredients and mix until a dough is formed.",
+      "Refrigerate.",
+      "Pinch off walnut-sized pieces and roll into pencil shapes about 2.5 inches long and 3/4 inch thick.",
+      "Arrange on ungreased trays and curve the ends into crescents.",
+      "Bake at 325°F / Gas 3 for about 18 minutes until pale gold.",
+      "After 3 minutes out of the oven, dip in icing sugar or caster sugar."
+    ],
+    "notes": [
+      "Store in an airtight tin. Can be frozen."
+    ],
+    "source": null
+  },
+  {
+    "id": "apple-ginger-and-pear-mincemeat",
+    "title": "Apple, Ginger and Pear Mincemeat",
+    "category": "Sauces and Extras",
+    "description": "A fruit-rich mincemeat with apples, pears, citrus, ginger, spices and optional alcohol.",
+    "serves": "Makes 4 x 450g jars",
+    "prepTime": "12 hours standing",
+    "cookTime": "2-2.5 hours baking",
+    "ingredients": [
+      "1kg Bramley apples",
+      "Finely grated zest and juice of 2-3 oranges (you need 200ml juice)",
+      "500g firm pears, peeled, cored and chopped into 1cm cubes",
+      "200g currants",
+      "150g raisins",
+      "150g sultanas",
+      "100g crystallised stem ginger",
+      "100g orange marmalade",
+      "250g demerara sugar",
+      "1/2 tsp ground cloves",
+      "2 tsp ground ginger",
+      "2 tsp ground cinnamon",
+      "1/2 nutmeg, grated",
+      "50ml ginger wine or cordial (optional)",
+      "100g chopped almonds",
+      "50ml brandy or sloe gin"
+    ],
+    "method": [
+      "Wash, core and chop the apples, then cook them gently with the orange juice until soft.",
+      "Blend to a purée or push through a sieve. You should have about 700ml apple purée.",
+      "Put the purée into a large bowl and add all the remaining ingredients except the brandy or gin.",
+      "Mix thoroughly, cover and leave to stand for 12 hours.",
+      "Heat the oven to 130°C / Gas 1/2.",
+      "Put the mincemeat into a large baking dish and bake uncovered for 2-2.5 hours.",
+      "Stir in the brandy or gin.",
+      "Spoon into warm sterilised jars, removing any air pockets, and seal."
+    ],
+    "notes": [
+      "Store in a dry, dark, cool place and use within 12 months."
+    ],
+    "source": null
   }
 ]
