@@ -1,4 +1,4 @@
-const RECIPE_PATH = './data/recipes-v2.json';
+const RECIPE_PATH = './data/recipes.json';
 const FAV_KEY = 'grannys_recipe_book_favourites';
 
 const params = new URLSearchParams(window.location.search);
