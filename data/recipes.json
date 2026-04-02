@@ -4330,5 +4330,494 @@
       "The source includes personal variations using marrow cream instead of lemon curd."
     ],
     "source": "Alison Sadler"
+  },
+  {
+    "id": "horseradish-sauce",
+    "title": "Horseradish Sauce",
+    "category": "Sauces and Extras",
+    "description": "Fresh horseradish with beetroot, sugar, salt and diluted acetic acid.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Horseradish",
+      "Cooked beetroot",
+      "Sugar, a little",
+      "Salt",
+      "Acetic acid diluted 1 part to 4 parts water"
+    ],
+    "method": [
+      "Grate the horseradish.",
+      "Add grated beetroot to achieve the colour you want and mix.",
+      "Lightly mix in the sugar and salt.",
+      "Put the mixture into jars.",
+      "Add some of the diluted acetic acid and mix.",
+      "Add more acid until the horseradish is just covered, close the lid and shake.",
+      "Allow to mature for a day."
+    ],
+    "notes": [],
+    "source": "Julian’s, from Uncle Morris"
+  },
+  {
+    "id": "curry-sauce",
+    "title": "Curry Sauce",
+    "category": "Sauces and Extras",
+    "description": "A simple curry sauce with onion, apple, curry powder and black treacle.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Fat",
+      "Chopped onion",
+      "Apple",
+      "1 dessertspoon curry powder",
+      "1 dessertspoon flour",
+      "Tomato purée",
+      "1 dessertspoon black treacle",
+      "Water"
+    ],
+    "method": [
+      "Melt some fat.",
+      "Fry the chopped onion and apple.",
+      "Add the curry powder and flour and fry briefly.",
+      "Add tomato purée and black treacle.",
+      "Add water and stir.",
+      "Allow the sauce to stand to mature."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "egg-and-lemon-sauce",
+    "title": "Egg and Lemon Sauce",
+    "category": "Sauces and Extras",
+    "description": "A lightly thickened sauce made with egg, lemon juice and stock.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 egg, beaten",
+      "Juice of 1 lemon",
+      "1 ladle of chicken or other stock"
+    ],
+    "method": [
+      "Mix all the ingredients together.",
+      "Boil gently until slightly thickened.",
+      "Serve with fish or boiled chicken."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "barbeque-sauce",
+    "title": "Barbeque Sauce",
+    "category": "Sauces and Extras",
+    "description": "A quick warm barbecue-style sauce.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 tbsp brown sugar",
+      "1 tbsp wine vinegar",
+      "1 tbsp brown sauce",
+      "Soy sauce",
+      "Worcestershire sauce",
+      "Salt",
+      "Pepper"
+    ],
+    "method": [
+      "Mix all the ingredients together.",
+      "Heat gently before serving."
+    ],
+    "notes": [
+      "The source text appears to repeat 'brown sauce'; this version keeps the intended ingredients concise."
+    ],
+    "source": null
+  },
+  {
+    "id": "cranberry-sauce",
+    "title": "Cranberry Sauce",
+    "category": "Sauces and Extras",
+    "description": "A traditional cranberry sauce with optional citrus zest and juice.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 10 minutes after boiling",
+    "ingredients": [
+      "8oz / 227g cranberries",
+      "5oz / 140g sugar",
+      "5 fl oz / 150ml water",
+      "1 orange or lemon, zest and juice (optional)"
+    ],
+    "method": [
+      "Combine the sugar and water in a saucepan and heat until the sugar has dissolved.",
+      "Bring to the boil.",
+      "Add the cranberries and cook until the skins pop, about 10 minutes longer.",
+      "Remove from the heat.",
+      "Serve warm or cold."
+    ],
+    "notes": [
+      "To gel the sauce, cool completely at room temperature and refrigerate until firm."
+    ],
+    "source": null
+  },
+  {
+    "id": "sweet-and-sour-sauce",
+    "title": "Sweet and Sour Sauce",
+    "category": "Sauces and Extras",
+    "description": "A sweet and sour sauce with soy, vinegar, honey or sugar and optional vegetables.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1/4 cup soy sauce",
+      "3/4 cup honey or sugar",
+      "3/4 cup vinegar",
+      "1 tbsp cornflour",
+      "Optional: carrot and/or cucumber",
+      "Optional: onion, sliced",
+      "Oil for frying"
+    ],
+    "method": [
+      "Fry the onion and carrot in oil for 1 minute if using.",
+      "Mix the sauce ingredients together.",
+      "Add the sauce mixture to the vegetables.",
+      "Bring to the boil.",
+      "Serve when thickened."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "mayonnaise",
+    "title": "Mayonnaise",
+    "category": "Sauces and Extras",
+    "description": "Homemade mayonnaise made in a liquidiser with garlic.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 whole egg",
+      "2 dessertspoons wine vinegar",
+      "About 1/2 pint oil",
+      "A pinch of salt",
+      "Pepper",
+      "A pinch of sugar",
+      "1 clove garlic"
+    ],
+    "method": [
+      "Put all the ingredients except the oil into the liquidiser and beat for about 1 minute.",
+      "Add the oil drop by drop through the hole in the lid, starting with a very slow steady stream.",
+      "Continue until the mixture thickens and will not take any more oil.",
+      "If needed, stir in a little oil by hand and liquidise again."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "lemon-mayonnaise",
+    "title": "Lemon Mayonnaise",
+    "category": "Sauces and Extras",
+    "description": "A lemon-flavoured mayonnaise variation.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 whole egg",
+      "2 dessertspoons lemon juice, preferably fresh",
+      "About 1/2 pint oil",
+      "A pinch of salt",
+      "Pepper",
+      "A pinch of sugar",
+      "Grated rind of 1/2 lemon"
+    ],
+    "method": [
+      "Prepare in the same way as the mayonnaise.",
+      "Use lemon juice and lemon rind instead of wine vinegar and garlic."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "low-fat-lemon-mayonnaise",
+    "title": "Low Fat Lemon Mayonnaise",
+    "category": "Sauces and Extras",
+    "description": "Lemon mayonnaise finished with low fat fromage frais.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 whole egg",
+      "2 dessertspoons lemon juice, preferably fresh",
+      "About 1/2 pint oil",
+      "A pinch of salt",
+      "Pepper",
+      "A pinch of sugar",
+      "Grated rind of 1/2 lemon",
+      "3 tbsp low fat fromage frais, or to taste"
+    ],
+    "method": [
+      "Prepare as for lemon mayonnaise.",
+      "Fold in the fromage frais at the end to taste."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "salsa-verde",
+    "title": "Salsa Verde",
+    "category": "Sauces and Extras",
+    "description": "A herb sauce with parsley, basil, mint, anchovies, capers and olive oil.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "80g flat-leaf parsley",
+      "10 basil leaves",
+      "15 mint leaves",
+      "1 tbsp Dijon mustard",
+      "6 anchovy fillets",
+      "1 tbsp capers",
+      "2 garlic cloves",
+      "150ml best olive oil",
+      "1/2 lemon"
+    ],
+    "method": [
+      "Pick the parsley leaves from the stalks and put them into a food processor.",
+      "Add the basil, mint, mustard, anchovies, capers and 2 tbsp of the oil.",
+      "Crack and peel the garlic, remove the green shoot, chop and crush it with a generous pinch of salt.",
+      "Add the garlic to the processor.",
+      "Process for a couple of minutes, scraping down the bowl as needed.",
+      "With the machine running, add the rest of the oil in a thin stream.",
+      "Season with pepper.",
+      "Cover and chill until required."
+    ],
+    "notes": [
+      "The finished sauce should look like a coarse green mayonnaise."
+    ],
+    "source": null
+  },
+  {
+    "id": "lamb-seasoning",
+    "title": "Lamb Seasoning",
+    "category": "Sauces and Extras",
+    "description": "A dry herb seasoning mix for lamb.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Garlic salt",
+      "Black pepper",
+      "Rosemary",
+      "Basil",
+      "Tarragon"
+    ],
+    "method": [
+      "Mix all the ingredients together.",
+      "Sprinkle over lamb before cooking."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "chestnut-and-sausage-stuffing",
+    "title": "Chestnut and Sausage Stuffing",
+    "category": "Sauces and Extras",
+    "description": "A rich stuffing with chestnuts, chestnut purée, sausage meat, celery and breadcrumbs.",
+    "serves": null,
+    "prepTime": "Overnight soaking if using dried chestnuts",
+    "cookTime": null,
+    "ingredients": [
+      "1 lb whole chestnuts, fresh or dried",
+      "1 tin chestnut purée",
+      "1 pint veal stock or chicken stock",
+      "1 stick celery",
+      "1 large onion",
+      "2 oz butter or margarine",
+      "1/2 lb sausage meat",
+      "1 teacup fresh breadcrumbs"
+    ],
+    "method": [
+      "If using dried chestnuts, cover with water and soak overnight, then remove any remaining inner skins.",
+      "If using fresh chestnuts, remove the shells, blanch and peel off the inner skins.",
+      "Place the chestnuts in a saucepan with enough stock to cover, the chopped celery and seasoning.",
+      "Cook until the chestnuts are very tender and all the stock has been absorbed.",
+      "Tip into a bowl to cool.",
+      "Chop the onion finely and cook in the butter until soft.",
+      "When cool, add the onion to the sausage meat.",
+      "Work in the chestnuts and enough breadcrumbs to bind."
+    ],
+    "notes": [
+      "If omitting the chestnuts, cook the celery in stock until tender or omit the celery entirely if preferred."
+    ],
+    "source": null
+  },
+  {
+    "id": "apple-tuiles-apple-crisps",
+    "title": "Apple Tuiles / Apple Crisps",
+    "category": "Sauces and Extras",
+    "description": "Thin apple slices dipped in syrup and dried slowly until crisp.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 2 hours",
+    "ingredients": [
+      "For the stock syrup: 1 1/4 lb sugar",
+      "For the stock syrup: 1 3/4 pints water",
+      "For the stock syrup: grated rind of 1 lemon",
+      "For the tuiles: 2 Granny Smith apples",
+      "For the tuiles: 1/4 pint syrup",
+      "For the tuiles: juice of 1/2 lemon"
+    ],
+    "method": [
+      "Dissolve the sugar in the water.",
+      "Add the lemon rind and boil for 5 minutes, then allow to cool.",
+      "Mix the lemon juice with the syrup.",
+      "Core the apples and slice them very thinly.",
+      "Dip the apple slices in the syrup.",
+      "Place on parchment paper in the lowest oven for about 2 hours.",
+      "Remove when they start to wrinkle slightly and look a little dry.",
+      "Wrap quickly around a rolling pin if you want them curved."
+    ],
+    "notes": [
+      "Other flavourings such as star anise or cinnamon stick can be used in the syrup."
+    ],
+    "source": null
+  },
+  {
+    "id": "beetroot-horseradish",
+    "title": "Beetroot Horseradish",
+    "category": "Sauces and Extras",
+    "description": "A beetroot and horseradish relish stored in a jar with diluted acetic acid.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "Horseradish",
+      "Beetroot",
+      "Sugar",
+      "Salt",
+      "Acetic acid diluted 5 or 6 times"
+    ],
+    "method": [
+      "Clean and grate the horseradish.",
+      "Cook the beetroot until tender, then grate and add it to the horseradish.",
+      "Add sugar and salt to taste and mix well.",
+      "Put the mixture into a screw-topped jar.",
+      "Make a hole in the centre and add the diluted acetic acid.",
+      "Mix well."
+    ],
+    "notes": [],
+    "source": "Julian’s"
+  },
+  {
+    "id": "melba-toast",
+    "title": "Melba Toast",
+    "category": "Sauces and Extras",
+    "description": "Very crisp thin toast made from sliced white bread.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": null,
+    "ingredients": [
+      "1 large white loaf of medium sliced bread"
+    ],
+    "method": [
+      "Cut the crusts from each slice of bread.",
+      "Toast the slices in a toaster.",
+      "When toasted, cut through each slice so you have two thin squares with one side toasted and the other not.",
+      "Place the slices under a grill and toast until golden."
+    ],
+    "notes": [
+      "Watch carefully, as they burn very easily."
+    ],
+    "source": null
+  },
+  {
+    "id": "red-onion-marmalade",
+    "title": "Red Onion Marmalade",
+    "category": "Sauces and Extras",
+    "description": "A sweet-sour onion relish for roast meats, pickles or chutney-style serving.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 1 hour",
+    "ingredients": [
+      "3 red onions, thinly sliced",
+      "45ml / 3 tbsp olive oil",
+      "175ml / 6 fl oz red wine",
+      "125ml / 4 fl oz red wine vinegar",
+      "115g / 4 oz dark soft brown sugar",
+      "Salt",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Gently sauté the onions in the oil for about 10 minutes until soft but not coloured.",
+      "Add the remaining ingredients.",
+      "Simmer uncovered for about 1 hour, stirring occasionally.",
+      "Increase the heat towards the end if needed to boil off excess liquid."
+    ],
+    "notes": [
+      "Keeps refrigerated for several days or longer.",
+      "Can be served hot with roast meat or cold like a chutney."
+    ],
+    "source": null
+  },
+  {
+    "id": "rum-pot",
+    "title": "Rum Pot",
+    "category": "Sauces and Extras",
+    "description": "A long-maturing preserved fruit mixture built up gradually with rum.",
+    "serves": null,
+    "prepTime": "Long-term preserving",
+    "cookTime": null,
+    "ingredients": [
+      "A large glass jar",
+      "Strawberries",
+      "Castor sugar",
+      "Rum",
+      "Plums",
+      "Other fruits of your choice"
+    ],
+    "method": [
+      "Clean a large glass jar.",
+      "Wash and hull the strawberries.",
+      "Sprinkle generously with castor sugar and leave overnight.",
+      "Add the strawberries to the rum pot and cover with rum.",
+      "Store in a dark place.",
+      "Continue with other prepared and sugared fruits as they come into season, ending with plums.",
+      "Always cover the fruit with rum after adding it.",
+      "Leave for 6 months after adding the last fruit."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
+    "id": "yorkshire-pudding",
+    "title": "Yorkshire Pudding",
+    "category": "Sauces and Extras",
+    "description": "Traditional Yorkshire pudding cooked in very hot fat until crisp and risen.",
+    "serves": "4",
+    "prepTime": null,
+    "cookTime": "25-30 minutes",
+    "ingredients": [
+      "3 oz / 75g plain flour",
+      "1 egg",
+      "3 fl oz / 75ml milk",
+      "2 fl oz / 55ml water",
+      "Salt",
+      "Freshly milled pepper",
+      "2 tbsp beef dripping"
+    ],
+    "method": [
+      "Sift the flour into a bowl and make a well in the centre.",
+      "Break the egg into the well and beat it, gradually incorporating the flour, milk, water and seasoning.",
+      "Heat the oven to 425°F / Gas 7 / 220°C.",
+      "Put the roasting tin containing the dripping on a baking sheet and heat for 15 minutes.",
+      "Remove the tin and place it over direct heat while pouring the batter into the hot, sizzling fat.",
+      "Return to the oven on the top shelf or just below.",
+      "Cook for 25-30 minutes until risen, crisp and golden.",
+      "Serve as soon as possible."
+    ],
+    "notes": [
+      "The source stresses three rules: very hot oven, a flameproof metal container, and plain flour rather than self-raising."
+    ],
+    "source": null
   }
 ]
