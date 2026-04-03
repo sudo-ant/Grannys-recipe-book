@@ -391,7 +391,7 @@
   },
   {
     "id": "chicken-soup",
-    "title": "Chicken Soup",
+    "title": "Chicken Soup (Granny's Soup)",
     "category": "Soups",
     "description": "A simple traditional chicken soup with leeks, carrots, celery and parsley.",
     "serves": null,
@@ -415,7 +415,9 @@
       "Bring to the boil, then simmer until the vegetables are tender.",
       "Season with salt and pepper."
     ],
-    "notes": [],
+    "notes": [
+      "Variation: add a whole peeled onion, cut with a deep cross in the top but left intact at the base, so it opens slightly during cooking and releases more flavour."
+    ],
     "source": null
   },
   {
@@ -4241,7 +4243,7 @@
       "Drain the cherries.",
       "Mix all the ingredients together.",
       "Pour into a loose-bottomed cake tin.",
-      "Bake at 350°C / Gas 4 for about 40 minutes.",
+      "Bake at 350°F / 180°C (160°C fan oven) for about 40 minutes.",
       "Refrigerate overnight before serving."
     ],
     "notes": [
@@ -4838,8 +4840,8 @@
     "source": null
   },
   {
-    "id": "thai-chicken-and-coconut-soup",
-    "title": "Thai Chicken and Coconut Soup",
+    "id": "thai-chicken-soup",
+    "title": "Thai Chicken Soup",
     "category": "Soups",
     "description": "A fragrant Thai-style soup with chicken stock, ginger, lime, lemongrass, sweetcorn and coriander.",
     "serves": null,
@@ -4865,7 +4867,9 @@
       "Add the remaining spring onions at the end if you like.",
       "Adjust the seasoning to taste and serve."
     ],
-    "notes": [],
+    "notes": [
+      "Variation: Add a little coconut milk."
+    ],
     "source": null
   },
   {
@@ -5407,48 +5411,33 @@
     "source": null
   },
   {
-    "id": "apple-crumb-cake",
-    "title": "Apple Crumb Cake",
+    "id": "crumb-cake",
+    "title": "Crumb Cake (Streusel)",
     "category": "Desserts and Baking",
-    "description": "A sour cream apple cake with a spiced crumb topping and a simple glaze.",
-    "serves": "8-10",
-    "prepTime": "30 minutes",
-    "cookTime": "35 minutes",
+    "description": "A Plum Beautiful Cake base topped with a buttery cinnamon streusel.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "Bake at 160°C until golden",
     "ingredients": [
-      "For the crumb: 3 cups flour",
-      "For the crumb: 1 cup brown sugar",
-      "For the crumb: 1/2 cup granulated sugar",
-      "For the crumb: 1 tsp salt",
-      "For the crumb: 2 tsp cinnamon",
-      "For the crumb: 1/2 tsp nutmeg",
-      "For the crumb: 1 cup butter, melted",
-      "For the crumb: 1 tsp vanilla",
-      "For the crumb: 2 large or 3 small tart apples, peeled and chopped",
-      "For the cake: 8 tbsp butter",
-      "For the cake: 1 cup granulated sugar",
-      "For the cake: 2 large eggs",
-      "For the cake: 1 tsp vanilla",
-      "For the cake: 1 cup sour cream",
-      "For the cake: 2 cups flour",
-      "For the cake: 1/2 tsp baking soda",
-      "For the cake: 1/2 tsp salt",
-      "For the cake: 1 tsp baking powder",
-      "For the glaze: 1 cup powdered sugar",
-      "For the glaze: 1-2 tbsp apple cider",
-      "For the glaze: 1-2 tbsp milk",
-      "For the glaze: pinch of salt"
+      "For the base: Plum Beautiful Cake base",
+      "For the crumbs: 100g / 3.5 oz butter, at room temperature",
+      "For the crumbs: 150g / 5 oz flour",
+      "For the crumbs: 100g / 5.5 oz granulated sugar",
+      "For the crumbs: 2 tsp vanilla sugar, or 1 tsp vanilla extract",
+      "For the crumbs: 1/2 tsp cinnamon"
     ],
     "method": [
-      "Heat the oven and prepare a baking tin.",
-      "Mix the crumb ingredients together until the mixture forms moist crumbs and the chopped apples are coated through it.",
-      "Make the cake batter by creaming the butter and sugar, then beating in the eggs, vanilla and sour cream.",
-      "Mix together the flour, baking soda, salt and baking powder, then add to the wet mixture.",
-      "Spread the cake batter into the tin and scatter the apple crumb mixture over the top.",
-      "Bake until the cake is cooked through and the crumb topping is golden.",
-      "Mix the glaze ingredients to a drizzling consistency and spoon over the cooled or just-warm cake."
+      "Prepare the Plum Beautiful Cake base.",
+      "For the crumbs, combine the sugar, vanilla sugar or vanilla extract, cinnamon and butter in a medium-sized bowl.",
+      "Using a rubber spatula, stir in the flour until the streusel topping is thick and crumbly.",
+      "Alternatively, mix all the dry crumb ingredients together first, melt the butter separately, then add it to the dry mixture with a fork until crumbs form.",
+      "Place the crumb mixture in the fridge until needed.",
+      "Put the cake base into the tin.",
+      "Sprinkle the crumbs evenly over the top.",
+      "Bake at 160°C until golden."
     ],
     "notes": [
-      "The source export preserved the ingredients and timings but omitted the full method. The method above is a careful reconstruction based on the source structure."
+      "Apple Streusel variation: make as for Crumb Cake, but lay peeled, cored and sliced cooking apples over the base before covering with the crumbs. Bake at 160°C until the apples are cooked and the top is golden."
     ],
     "source": null
   },
