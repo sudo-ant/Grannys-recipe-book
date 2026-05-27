@@ -1,5 +1,6 @@
 const RECIPE_PATH = './data/recipes.json';
 const FAV_KEY = 'grannys_recipe_book_favourites';
+const SEARCH_STATE_KEY = 'grannys_recipe_book_search_state';
 const SEARCH_PARAM = 'search';
 const CATEGORY_PARAM = 'category';
 const FAVOURITES_PARAM = 'favourites';
@@ -127,6 +128,10 @@ function getRecipeUrl(recipeId) {
   return `./recipe.html?${params.toString()}`;
 }
 
+function saveSearchState() {
+  sessionStorage.setItem(SEARCH_STATE_KEY, getSearchParams().toString());
+}
+
 function updateUrl() {
   const queryString = getSearchParams().toString();
   const nextUrl = `${window.location.pathname}${queryString ? `?${queryString}` : ''}`;
@@ -194,6 +199,7 @@ function bindFavouriteButtons() {
 
 function render() {
   updateUrl();
+  saveSearchState();
 
   const categories = getCategories(state.recipes);
   renderFilters(categories);

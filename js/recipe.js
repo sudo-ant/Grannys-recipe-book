@@ -1,5 +1,6 @@
 const RECIPE_PATH = './data/recipes.json';
 const FAV_KEY = 'grannys_recipe_book_favourites';
+const SEARCH_STATE_KEY = 'grannys_recipe_book_search_state';
 
 const params = new URLSearchParams(window.location.search);
 const recipeId = params.get('id');
@@ -23,7 +24,7 @@ function getBackUrl() {
   const backParams = new URLSearchParams(window.location.search);
   backParams.delete('id');
 
-  const queryString = backParams.toString();
+  const queryString = backParams.toString() || sessionStorage.getItem(SEARCH_STATE_KEY) || '';
   return `./index.html${queryString ? `?${queryString}` : ''}`;
 }
 
@@ -104,12 +105,10 @@ function renderRecipe(recipe) {
   document.title = `${recipe.title} · Granny’s Recipe Book`;
 
   const favourite = isFavourite(recipe.id);
-  const backUrl = getBackUrl();
 
   els.container.innerHTML = `
     <section class="recipe-card-shell">
       <div class="breadcrumb-row">
-        <a class="back-link" href="${escapeHtml(backUrl)}">← Back to all recipes</a>
         <div class="recipe-actions">
           <button class="action-button fav-action ${favourite ? 'is-favourite' : ''}" id="recipe-fav-button" type="button" aria-pressed="${favourite}" aria-label="${favourite ? 'Remove from favourites' : 'Add to favourites'}">
             ${favourite ? '★ Favourite' : '☆ Favourite'}
