@@ -1,5 +1,8 @@
 const RECIPE_PATH = './data/recipes.json';
 const FAV_KEY = 'grannys_recipe_book_favourites';
+const SEARCH_PARAM = 'search';
+const CATEGORY_PARAM = 'category';
+const FAVOURITES_PARAM = 'favourites';
 
 const state = {
   recipes: [],
@@ -100,6 +103,44 @@ function getMeta(recipe) {
   return bits;
 }
 
+function getSearchParams() {
+  const params = new URLSearchParams();
+
+  if (state.query) {
+    params.set(SEARCH_PARAM, state.query);
+  }
+
+  if (state.category !== 'All') {
+    params.set(CATEGORY_PARAM, state.category);
+  }
+
+  if (state.favouritesOnly) {
+    params.set(FAVOURITES_PARAM, 'true');
+  }
+
+  return params;
+}
+
+function getRecipeUrl(recipeId) {
+  const params = getSearchParams();
+  params.set('id', recipeId);
+  return `./recipe.html?${params.toString()}`;
+}
+
+function updateUrl() {
+  const queryString = getSearchParams().toString();
+  const nextUrl = `${window.location.pathname}${queryString ? `?${queryString}` : ''}`;
+  window.history.replaceState(null, '', nextUrl);
+}
+
+function restoreStateFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  state.query = (params.get(SEARCH_PARAM) || '').trim();
+  state.category = params.get(CATEGORY_PARAM) || 'All';
+  state.favouritesOnly = params.get(FAVOURITES_PARAM) === 'true';
+  els.search.value = state.query;
+}
+
 function cardTemplate(recipe) {
   const meta = getMeta(recipe)
     .map(item => `<span class="meta-pill">${escapeHtml(item)}</span>`)
@@ -108,7 +149,7 @@ function cardTemplate(recipe) {
   const favourite = isFavourite(recipe.id);
 
   return `
-    <a class="recipe-card" href="./recipe.html?id=${encodeURIComponent(recipe.id)}" aria-label="Open recipe for ${escapeHtml(recipe.title)}">
+    <a class="recipe-card" href="${escapeHtml(getRecipeUrl(recipe.id))}" aria-label="Open recipe for ${escapeHtml(recipe.title)}">
       <div class="recipe-card-top">
         <span class="recipe-category">${escapeHtml(recipe.category || 'Recipe')}</span>
         <button class="fav-btn ${favourite ? 'is-favourite' : ''}" type="button" data-fav-id="${escapeHtml(recipe.id)}" aria-label="${favourite ? 'Remove from favourites' : 'Add to favourites'}" aria-pressed="${favourite}">
@@ -152,6 +193,8 @@ function bindFavouriteButtons() {
 }
 
 function render() {
+  updateUrl();
+
   const categories = getCategories(state.recipes);
   renderFilters(categories);
 
@@ -226,5 +269,6 @@ function registerServiceWorker() {
 }
 
 registerEvents();
+restoreStateFromUrl();
 loadRecipes();
 registerServiceWorker();

@@ -19,6 +19,14 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
+function getBackUrl() {
+  const backParams = new URLSearchParams(window.location.search);
+  backParams.delete('id');
+
+  const queryString = backParams.toString();
+  return `./index.html${queryString ? `?${queryString}` : ''}`;
+}
+
 function getFavourites() {
   try {
     const raw = localStorage.getItem(FAV_KEY);
@@ -96,11 +104,12 @@ function renderRecipe(recipe) {
   document.title = `${recipe.title} · Granny’s Recipe Book`;
 
   const favourite = isFavourite(recipe.id);
+  const backUrl = getBackUrl();
 
   els.container.innerHTML = `
     <section class="recipe-card-shell">
       <div class="breadcrumb-row">
-        <a class="back-link" href="./index.html">← Back to all recipes</a>
+        <a class="back-link" href="${escapeHtml(backUrl)}">← Back to all recipes</a>
         <div class="recipe-actions">
           <button class="action-button fav-action ${favourite ? 'is-favourite' : ''}" id="recipe-fav-button" type="button" aria-pressed="${favourite}" aria-label="${favourite ? 'Remove from favourites' : 'Add to favourites'}">
             ${favourite ? '★ Favourite' : '☆ Favourite'}
@@ -179,6 +188,10 @@ async function loadRecipe() {
 if (els.printButton) {
   els.printButton.addEventListener('click', () => window.print());
 }
+
+[...document.querySelectorAll('.back-link')].forEach(link => {
+  link.href = getBackUrl();
+});
 
 els.year.textContent = new Date().getFullYear();
 
