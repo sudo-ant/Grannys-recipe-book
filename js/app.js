@@ -195,6 +195,12 @@ function bindFavouriteButtons() {
       render();
     });
   });
+
+  [...document.querySelectorAll('.recipe-card')].forEach(card => {
+    card.addEventListener('click', () => {
+      saveSearchState();
+    });
+  });
 }
 
 function render() {

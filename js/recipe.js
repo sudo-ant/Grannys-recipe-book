@@ -190,6 +190,7 @@ if (els.printButton) {
 
 [...document.querySelectorAll('.back-link')].forEach(link => {
   link.href = getBackUrl();
+  link.textContent = '← Back to recipes';
 });
 
 els.year.textContent = new Date().getFullYear();
