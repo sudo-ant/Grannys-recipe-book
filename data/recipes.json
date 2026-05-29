@@ -3735,7 +3735,7 @@
     "title": "Microwave Chocolate cake",
     "category": "Desserts and Baking",
     "description": "A very quick chocolate cake made in the microwave.",
-    "serves": "4",
+    "serves": "3-4",
     "prepTime": null,
     "cookTime": "About 3 minutes",
     "ingredients": [
@@ -3746,18 +3746,24 @@
       "3 tbsp milk",
       "3 tbsp vegetable oil",
       "1/2-1 tsp vanilla extract",
-      "3 tbsp chocolate chips (optional)"
+      "3 tbsp chocolate chips (optional)",
+      "For the Mars Bar sauce: 2 Mars bars (60g each) or 1 Mars bar (100g)",
+      "For the Mars Bar sauce: about 20ml milk or cream"
     ],
     "method": [
       "Mix the dry ingredients well.",
       "Add the egg and mix thoroughly.",
       "Stir in the milk and oil.",
       "Add vanilla and chocolate chips if using.",
-      "Microwave on high for about 3 minutes or until it stops rising.",
-      "Allow to cool slightly before serving."
+      "Pour into two greased 9-inch round baking pans or keep in a large mug.",
+      "Microwave on high for 3 minutes or until it stops rising.",
+      "Allow to cool a little; tip out onto a plate if desired.",
+      "For the Mars Bar sauce, cut the Mars bars into 1cm thick slices.",
+      "Add the milk or cream and heat slowly in a water bath or in the microwave, stirring from time to time, until the mixture is smooth.",
+      "Serve on vanilla ice cream."
     ],
     "notes": [
-      "Can be cooked in a mug or divided between two small pans."
+      "A teaspoon of cinnamon or vanilla adds a nice flavour."
     ],
     "source": null
   },
