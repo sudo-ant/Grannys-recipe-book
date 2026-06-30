@@ -3289,27 +3289,29 @@
     "id": "fruit-kissel",
     "title": "Fruit Kissel",
     "category": "Desserts and Baking",
-    "description": "Soft fruits in a lightly thickened orange sauce, served chilled.",
+    "description": "A chilled soft fruit kissel thickened with cornflour and orange juice.",
     "serves": null,
-    "prepTime": null,
-    "cookTime": null,
+    "prepTime": "20 minutes, plus chilling",
+    "cookTime": "5 minutes",
     "ingredients": [
-      "450g mixed fresh or frozen soft fruits",
-      "50g light soft brown sugar",
-      "150ml unsweetened orange juice",
-      "2 tsp cornflour",
-      "2 tbsp water"
+      "450g / 1 lb fresh or frozen soft fruits",
+      "50g / 2 oz light soft brown sugar",
+      "150ml / 5 fl oz unsweetened orange juice",
+      "2 teaspoons cornflour",
+      "2 tablespoons water"
     ],
     "method": [
-      "Prepare the fruit and place it in a bowl.",
-      "Dissolve the sugar in the orange juice over low heat.",
-      "Mix the cornflour with the water to a smooth paste.",
-      "Add it to the orange juice and bring to the boil, stirring until the sauce clears and thickens.",
+      "Pick over, wash and prepare the fruits. Frozen fruits need not be thawed. Place in a bowl.",
+      "Dissolve the sugar in the orange juice over a low heat.",
+      "Mix the cornflour to a smooth paste with the water and add to the pan.",
+      "Bring to the boil, stirring, until the sauce clears and thickens.",
       "Pour over the fruit and stir gently.",
-      "Cover and chill in the fridge for at least 3 hours."
+      "Cover and chill in the refrigerator for at least 3 hours."
     ],
     "notes": [
-      "When using frozen fruit, prepare it well in advance so the fruit thaws properly."
+      "Can be made with any mix of frozen fruits.",
+      "Choose 3-4 soft fruits, such as raspberries, redcurrants, loganberries, strawberries, blackcurrants or blackberries.",
+      "The kissel can be prepared up to 24 hours in advance."
     ],
     "source": null
   },
