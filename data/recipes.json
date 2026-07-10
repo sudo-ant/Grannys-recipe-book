@@ -362,6 +362,32 @@
     "source": "H. Wolff"
   },
   {
+    "id": "rhubarb-mousse",
+    "title": "Rhubarb Mousse",
+    "category": "Desserts and Baking",
+    "description": "A chilled rhubarb mousse made with yoghurt and red jelly.",
+    "serves": null,
+    "prepTime": "Chilling until set",
+    "cookTime": null,
+    "ingredients": [
+      "A bunch of rhubarb",
+      "1 pint yoghurt",
+      "1 packet red jelly"
+    ],
+    "method": [
+      "Cut the rhubarb into inch-long pieces.",
+      "Place in a microwavable dish with a little water.",
+      "Microwave on full power until cooked.",
+      "Add the jelly and stir until dissolved.",
+      "Add the yoghurt to the rhubarb and stir until well mixed.",
+      "Refrigerate until set."
+    ],
+    "notes": [
+      "Any jelly can be used."
+    ],
+    "source": null
+  },
+  {
     "id": "lemon-cake",
     "title": "Lemon Cake",
     "category": "Desserts and Baking",
