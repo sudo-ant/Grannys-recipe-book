@@ -5393,6 +5393,46 @@
     "source": null
   },
   {
+    "id": "easy-seed-crackers",
+    "title": "Easy Seed Crackers",
+    "category": "Sides and Salads",
+    "description": "Crisp seed crackers made with pumpkin, sunflower, chia, sesame and flax seeds.",
+    "serves": null,
+    "prepTime": "20-30 minutes soaking",
+    "cookTime": "55-65 minutes",
+    "ingredients": [
+      "65g pumpkin seeds",
+      "65g sunflower seeds",
+      "50g chia seeds",
+      "40g sesame seeds, white, black or a mix",
+      "20g flax seed / linseed",
+      "1/2 tsp salt",
+      "Optional: 1 tsp garlic granules",
+      "Optional: 1 tsp dried herbs, such as rosemary, oregano or sage",
+      "175ml cold water"
+    ],
+    "method": [
+      "Put all the seeds and seasonings into a large bowl.",
+      "Add the water and stir well.",
+      "Set aside for 20-30 minutes.",
+      "While the seeds are soaking, heat the oven to 170C / 150C Fan / Gas 3.",
+      "Line a shallow baking tray, approximately 32 x 22cm, with baking parchment or greaseproof paper.",
+      "When the seeds have absorbed the water and are starting to gel together, stir well.",
+      "Spread the mixture evenly over the lined baking tray.",
+      "Score the mixture into cracker shapes if liked, as this will make it easier to break up later.",
+      "Bake until the mixture is completely set, dry all the way through and lightly browned, checking after 30 minutes and lowering the oven temperature if it is browning too quickly.",
+      "Put the tray on a wire rack and leave until completely cool.",
+      "Carefully peel off the paper and break into individual crackers."
+    ],
+    "notes": [
+      "Seed crackers should stay crunchy for at least 5 days if cooled before storing in an airtight container.",
+      "Try adding different seasonings to the seed mixture, such as cumin, chilli, fennel seeds or onion granules.",
+      "For cheesy seed crackers, sprinkle grated cheese over the top of the part-baked crackers at around the 45-minute point.",
+      "Scoring lines with a knife and ruler before breaking will help to make even pieces if you did not score before baking."
+    ],
+    "source": null
+  },
+  {
     "id": "lemon-posset",
     "title": "Lemon Posset",
     "category": "Desserts and Baking",
