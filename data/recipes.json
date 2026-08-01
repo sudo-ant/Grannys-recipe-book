@@ -5433,6 +5433,111 @@
     "source": null
   },
   {
+    "id": "wholemeal-and-spelt-cottage-cheese-air-fryer-rolls",
+    "title": "Wholemeal & Spelt Cottage Cheese Air Fryer Rolls",
+    "category": "Sides and Salads",
+    "description": "Small air fryer rolls made with cottage cheese, wholemeal bread flour and wholemeal spelt flour.",
+    "serves": "Makes 4 small rolls",
+    "prepTime": "10 minutes resting",
+    "cookTime": "15-18 minutes",
+    "ingredients": [
+      "150g cottage cheese, small curd if possible",
+      "80g wholemeal bread flour",
+      "70g wholemeal spelt flour",
+      "2 tsp baking powder",
+      "1/2 tsp salt",
+      "1 medium egg",
+      "Optional: 1 tbsp ground flaxseed or milled linseed",
+      "Optional: 1-2 tbsp seeds for topping, such as pumpkin, sunflower or sesame"
+    ],
+    "method": [
+      "For a smoother roll, blend the cottage cheese briefly with a stick blender, or mash it lightly with a fork.",
+      "Mix the flours, baking powder, salt and flaxseed if using.",
+      "Add the cottage cheese and egg.",
+      "Stir until you have a soft, slightly sticky dough.",
+      "Leave for 10 minutes to allow the wholemeal flour and spelt to absorb the moisture.",
+      "Divide into 4 portions.",
+      "Shape into rough balls with damp hands, as the dough will be sticky.",
+      "Add seeds on top if using.",
+      "Preheat the air fryer to 180°C.",
+      "Place the rolls in the basket with space between them.",
+      "Cook for 15-18 minutes until golden and firm.",
+      "If they brown too quickly, reduce to 170°C for the last few minutes.",
+      "Leave for at least 10 minutes before cutting, as the inside continues to set as it cools."
+    ],
+    "notes": [
+      "For a savoury version, add one or more of 30g grated mature Cheddar or Parmesan, 1 tsp dried rosemary or oregano, 1/2 tsp garlic powder, cracked black pepper or chopped chives.",
+      "Ground flaxseed or milled linseed is optional but good for fibre."
+    ],
+    "source": null
+  },
+  {
+    "id": "wholemeal-bread-flour-cottage-cheese-air-fryer-rolls",
+    "title": "Wholemeal Bread Flour Cottage Cheese Air Fryer Rolls",
+    "category": "Sides and Salads",
+    "description": "Bread-like cottage cheese air fryer rolls made with wholemeal bread flour.",
+    "serves": "Makes 4 small rolls",
+    "prepTime": "10 minutes resting",
+    "cookTime": "15-18 minutes",
+    "ingredients": [
+      "200g cottage cheese",
+      "150g wholemeal bread flour",
+      "1 medium egg",
+      "2 tsp baking powder",
+      "1/2 tsp salt",
+      "Optional: 1 tbsp ground flaxseed or linseed",
+      "Optional: 1 tbsp seeds for topping"
+    ],
+    "method": [
+      "Blend or mash the cottage cheese until fairly smooth.",
+      "Mix the wholemeal bread flour, baking powder, salt and flaxseed if using.",
+      "Add the cottage cheese and egg.",
+      "Mix until a soft, sticky dough forms.",
+      "Leave for 10 minutes.",
+      "Divide into 4 portions and shape with damp hands.",
+      "Sprinkle with seeds if using.",
+      "Air fry at 180°C for 15-18 minutes until golden and firm.",
+      "Cool for 10 minutes before cutting."
+    ],
+    "notes": [
+      "This is the most bread-like version: slightly chewier, with better structure and closest to a traditional roll."
+    ],
+    "source": null
+  },
+  {
+    "id": "wholemeal-spelt-cottage-cheese-air-fryer-rolls",
+    "title": "Wholemeal Spelt Cottage Cheese Air Fryer Rolls",
+    "category": "Sides and Salads",
+    "description": "Soft, slightly nutty cottage cheese air fryer rolls made with wholemeal spelt flour.",
+    "serves": "Makes 4 small rolls",
+    "prepTime": "10-15 minutes resting",
+    "cookTime": "15-18 minutes",
+    "ingredients": [
+      "200g cottage cheese",
+      "150g wholemeal spelt flour",
+      "1 medium egg",
+      "2 tsp baking powder",
+      "1/2 tsp salt",
+      "Optional: 1 tbsp ground flaxseed or linseed",
+      "Optional: 1 tbsp seeds for topping"
+    ],
+    "method": [
+      "Blend or mash the cottage cheese.",
+      "Mix the spelt flour, baking powder, salt and flaxseed if using.",
+      "Add the cottage cheese and egg.",
+      "Mix gently until combined, avoiding overworking the dough.",
+      "Rest for 10-15 minutes.",
+      "Shape into 4 rolls using damp hands.",
+      "Air fry at 180°C for 15-18 minutes.",
+      "Cool before slicing."
+    ],
+    "notes": [
+      "This version is softer, more tender and slightly nutty.",
+      "It will be a little more crumbly than the wholemeal wheat version because spelt gluten is weaker."
+    ],
+    "source": null
+  },
+  {
     "id": "lemon-posset",
     "title": "Lemon Posset",
     "category": "Desserts and Baking",
