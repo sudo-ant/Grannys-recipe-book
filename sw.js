@@ -1,4 +1,4 @@
-const CACHE_NAME = 'grannys-recipes-v7';
+const CACHE_NAME = 'grannys-recipes-v8';
 const STATIC_ASSETS = [
   './',
   './index.html',
