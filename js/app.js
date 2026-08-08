@@ -92,7 +92,10 @@ function matchesRecipe(recipe, query, category, favouritesOnly) {
     recipe.source
   ].join(' ');
 
-  return normalise(haystack).includes(normalise(query));
+  const terms = normalise(query).split(/\s+/).filter(Boolean);
+  const searchableContent = normalise(haystack);
+
+  return terms.every(term => searchableContent.includes(term));
 }
 
 function getMeta(recipe) {
