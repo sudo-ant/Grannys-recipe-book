@@ -337,6 +337,37 @@
     "source": "Evelyn Rose"
   },
   {
+    "id": "orange-and-lemon-beetroot",
+    "title": "Orange and Lemon Beetroot",
+    "category": "Sides and Salads",
+    "description": "Cooked beetroot served in a citrus honey sauce with lemon and orange zest.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "About 50 minutes",
+    "ingredients": [
+      "2 lb fresh beetroot",
+      "2 tbsp lemon juice",
+      "2 fl oz orange juice",
+      "1 tbsp clear honey",
+      "1 tbsp cornflour",
+      "1 tsp salt",
+      "Pinch of pepper",
+      "2 oz butter",
+      "1/2 tsp mixed lemon and orange zest"
+    ],
+    "method": [
+      "Cook the beetroot until tender, about 50 minutes.",
+      "Peel and dice the beetroot.",
+      "Combine the lemon juice, orange juice, honey and cornflour.",
+      "Bring to the boil and cook over a medium heat until thick and clear.",
+      "Remove from the heat and stir in the butter, salt and pepper.",
+      "Add the diced beetroot and mix gently.",
+      "Sprinkle the lemon and orange zest over the top before serving."
+    ],
+    "notes": [],
+    "source": null
+  },
+  {
     "id": "chocolate-mousse-i",
     "title": "Chocolate Mousse I",
     "category": "Desserts and Baking",
@@ -414,6 +445,66 @@
     ],
     "notes": [],
     "source": "Anthony’s favourite"
+  },
+  {
+    "id": "hazelnut-cake-granny-marco",
+    "title": "Hazelnut Cake",
+    "category": "Desserts",
+    "description": "A simple hazelnut and carrot cake made with biscuit crumbs.",
+    "serves": null,
+    "prepTime": null,
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "2 eggs",
+      "1/2 lb sugar",
+      "3 tbsp water",
+      "1/4 lb grated hazelnuts",
+      "4 tbsp biscuit crumbs",
+      "1/2 lb carrots, grated",
+      "1 tsp baking powder"
+    ],
+    "method": [
+      "Beat the eggs, sugar and water together.",
+      "Add the hazelnuts, biscuit crumbs, grated carrots and baking powder.",
+      "Mix well.",
+      "Bake at 350°F for 45 minutes."
+    ],
+    "notes": [
+      "The source suggests digestive biscuit crumbs may be used."
+    ],
+    "source": "Granny Marco"
+  },
+  {
+    "id": "kipferl",
+    "title": "Kipferl",
+    "category": "Desserts",
+    "description": "Small crescent biscuits made with butter, vanilla, flour and chopped nuts.",
+    "serves": "Makes 5 dozen",
+    "prepTime": "Overnight chilling if possible",
+    "cookTime": "15 minutes",
+    "ingredients": [
+      "8 oz butter or margarine",
+      "3 oz castor sugar",
+      "2 tsp hot water",
+      "2-3 drops vanilla essence",
+      "12 oz plain flour, sifted",
+      "2 oz chopped almonds, hazelnuts or walnuts",
+      "Vanilla icing sugar for coating"
+    ],
+    "method": [
+      "Cream the butter or margarine and sugar together.",
+      "Add the hot water and vanilla essence.",
+      "Add the flour and nuts and mix well.",
+      "Chill overnight if possible.",
+      "With floured hands, form the mixture into small rolls about 3 inches long and pencil-sized.",
+      "Shape into crescents and place on a greased baking tray or lined baking sheet.",
+      "Bake at 400°F for 15 minutes.",
+      "Roll in the icing sugar and cool on a rack."
+    ],
+    "notes": [
+      "The source suggests using icing sugar that has had a vanilla bean standing in the packet for a few days, but notes this is not essential."
+    ],
+    "source": null
   },
   {
     "id": "chicken-soup",
